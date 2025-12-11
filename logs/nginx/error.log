@@ -1,0 +1,7 @@
+2025/11/25 18:26:00 [error] 92894#0: *1 directory index of "/Users/ask/Sites/Local Sites/askwebsite-dev2025/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "askwebsite-dev2025.local"
+2025/11/25 18:30:15 [error] 92894#0: *3 directory index of "/Users/ask/Sites/Local Sites/askwebsite-dev2025/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "askwebsite-dev2025.local"
+2025/11/25 18:30:17 [error] 92894#0: *5 directory index of "/Users/ask/Sites/Local Sites/askwebsite-dev2025/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "askwebsite-dev2025.local"
+2025/11/25 18:30:23 [error] 92894#0: *6 directory index of "/Users/ask/Sites/Local Sites/askwebsite-dev2025/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "askwebsite-dev2025.local"
+2025/11/25 18:30:51 [error] 92894#0: *7 directory index of "/Users/ask/Sites/Local Sites/askwebsite-dev2025/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "askwebsite-dev2025.local"
+2025/11/25 18:42:23 [error] 92894#0: *8 directory index of "/Users/ask/Sites/Local Sites/askwebsite-dev2025/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "askwebsite-dev2025.local"
+2025/11/25 18:43:11 [error] 94005#0: *1 directory index of "/Users/ask/Sites/Local Sites/askwebsite-dev2025/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "askwebsite-dev2025.local"
