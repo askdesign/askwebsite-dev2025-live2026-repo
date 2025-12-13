@@ -6,10 +6,9 @@ Author URL: https://www.askdesign.biz
 Template: Bootstrap 5.3.8
 */
 
-/*--- $font-size-base: 1rem; // Assumes the browser default, typically `16px` --- */
+/* --- $font-size-base: 1rem; // Assumes the browser default, typically `16px` --- */
 
-/* Typographical Elements
---------------------------------------------- */
+/* --- Typographical Elements --- */
 /* --- https://gwfh.mranftl.com/ google-webfonts-helper --- */
 
 /* --- sans serif --- */
@@ -47,7 +46,7 @@ Template: Bootstrap 5.3.8
   src: url('../fonts/lato-v25-latin/lato-v25-latin-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-  /* --- serif --- */
+/* --- serif --- */
 
 /* cormorant-garamond-regular - latin */
 @font-face {
@@ -114,11 +113,7 @@ Template: Bootstrap 5.3.8
   src: url('../fonts/cormorant-garamond-v21-latin/cormorant-garamond-v21-latin-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-.font-test {
-    font-family: 'Cormorant Garamond';
-}
-
-/*--- BS ROOT VARIABLES - root - modified for ASK Design indicated with "mod" ---*/
+/* --- BS ROOT VARIABLES | "mod" = modified | "new" = new custom variable --- */
 :root {
   --bs-blue: #129ECA; /* -- mod -- */
   --bs-indigo: #6610f2;
@@ -145,11 +140,78 @@ Template: Bootstrap 5.3.8
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
   --bs-primary: var(--bs-teal); /* -- mod -- */
+    --bs-primary-50: #E9F6F3; /* -- new -- */
+    --bs-primary-100: #D4EDE8; /* -- new -- */
+    --bs-primary-200: #A9DBD1; /* -- new -- */
+    --bs-primary-300: #7EC8B9; /* -- new -- */
+    --bs-primary-400: #53B6A2; /* -- new -- */
+    --bs-primary-500:  var(--bs-teal); /* -- new | base - same as bs-primary -- */
+    --bs-primary-600: #20836F; /* -- new -- */
+    --bs-primary-700: #186253; /* -- new -- */
+    --bs-primary-800: #104238; /* -- new -- */
+    --bs-primary-900: #08211C; /* -- new -- */
+
   --bs-secondary: var(--bs-blue); /* -- mod -- */
+    --bs-secondary-50: #E7F5FA; /* -- new -- */
+    --bs-secondary-100: #E7F5FA; /* -- new -- */
+    --bs-secondary-200: #A0D8EA ; /* -- new -- */
+    --bs-secondary-300: #71C5DF; /* -- new -- */
+    --bs-secondary-400: #41B1D5; /* -- new -- */
+    --bs-secondary-500: var(--bs-blue); /* -- new | base - same as bs-secondary -- */
+    --bs-secondary-600: #0E7EA2; /* -- new -- */
+    --bs-secondary-700: #0B5F79; /* -- new -- */
+    --bs-secondary-800: #073F51; /* -- new -- */
+    --bs-secondary-900: #042028; /* -- new -- */
+
   --bs-secondary-2: var(--bs-green); /* -- new -- */
+    --bs-secondary-2-50: #EDF6E9; /* -- new -- */
+    --bs-secondary-2-100: #DCEDD3; /* -- new -- */
+    --bs-secondary-2-200: #B9DBA7; /* -- new -- */
+    --bs-secondary-2-300: #96C87B; /* -- new -- */
+    --bs-secondary-2-400: #73B64F; /* -- new -- */
+    --bs-secondary-2-500: var(--bs-green); /* -- new | base - same as bs-secondary2 -- */
+    --bs-secondary-2-600: #40831C; /* -- new -- */
+    --bs-secondary-2-700: #306215; /* -- new -- */
+    --bs-secondary-2-800: #20420E; /* -- new -- */
+    --bs-secondary-2-900: #102107; /* -- new -- */
+
   --bs-accent: var(--bs-purple); /* -- new -- */
+    --bs-accent-50: #F2EAFC; /* -- new -- */
+    --bs-accent-100: #E4D6FA; /* -- new -- */
+    --bs-accent-200: #C9ACF5; /* -- new -- */
+    --bs-accent-300: #AF83F0; /* -- new -- */
+    --bs-accent-400: #9459EB; /* -- new -- */
+    --bs-accent-500: var(--bs-purple); /* -- new  | base - same as bs-accent -- */
+    --bs-accent-600: #6126B8; /* -- new -- */
+    --bs-accent-700: #491D8A; /* -- new -- */
+    --bs-accent-800: #30135C; /* -- new -- */
+    --bs-accent-900: #180A2E; /* -- new -- */
+
+
   --bs-accent-2: var(--bs-coral); /* -- new -- */
+    --bs-accent-2-50: #FCEFEA; /* -- new -- */
+    --bs-accent-2-100: #FADFD6; /* -- new -- */
+    --bs-accent-2-200: #F5BFAC; /* -- new -- */
+    --bs-accent-2-300: #F0A083; /* -- new -- */
+    --bs-accent-2-400: #EB8059; /* -- new -- */
+    --bs-accent-2-500: var(--bs-coral); /* -- new  | base - same as bs-accent2 -- */
+    --bs-accent-2-600: #B84D26; /* -- new -- */
+    --bs-accent-2-700: #8A3A1D; /* -- new -- */
+    --bs-accent-2-800: #5C2613; /* -- new -- */
+    --bs-accent-2-900: #2E130A; /* -- new -- */
+
   --bs-accent-3: var(--bs-yellow); /* -- new -- */
+    --bs-accent-3-50: #FCF8EA; /* -- new -- */
+    --bs-accent-3-100: #FAF1D6; /* -- new -- */
+    --bs-accent-3-200: #F5E4AC; /* -- new -- */
+    --bs-accent-3-300: #F0D683; /* -- new -- */
+    --bs-accent-3-400: #EBC959; /* -- new -- */
+    --bs-accent-3-500: var(--bs-yellow); /* -- new  | base - same as bs-accent3 -- */
+    --bs-accent-3-600: #B89626; /* -- new -- */
+    --bs-accent-3-700: #8A701D; /* -- new -- */
+    --bs-accent-3-800: #5C4B13  ; /* -- new -- */
+    --bs-accent-3-900: #2E250A; /* -- new -- */
+
   --bs-success: #198754;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
@@ -243,4 +305,47 @@ Template: Bootstrap 5.3.8
   --bs-form-invalid-color: #dc3545;
   --bs-form-invalid-border-color: #dc3545;
 }
- 
+
+/* --- Navbars --- */
+/* --- Secondary Nav --- */
+.navbar2 {
+  background-color: var(--bs-gray-200);
+  border-bottom: 1px solid var(--bs-gray-400);
+  color: var(--bs-primary-700);
+}
+
+.social-faa {
+    margin-top: -17px;
+    background: url('../images/images-common/faa-logo-240-2025-primary700.png') no-repeat;
+}
+
+/* --- Primary Nav --- */
+
+
+/* -- TESTS -- */
+
+.font-test {
+  font-family: 'Cormorant Garamond';
+}
+
+.color-test {
+  color: var(--bs-teal);
+}
+
+.color-test-tint {
+  color: var(--bs-teal);
+  opacity: .5;
+}
+
+
+/* --- mixing black or white percentages with color to achieve range of colors --- */
+
+
+.mix-white-20 {
+  color: color-mix(in oklab, #28A48B 20%, #FFFFFF 100%)
+}
+
+.mix-black-20 {
+  color: var(--bs-teal);
+  color: color-mix(in srgb, #28A48B 80%, #000000 100%)
+}

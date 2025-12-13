@@ -18,6 +18,13 @@
 
     <!-- Google fonts now imported into stylesheet -->
 
+    <!-- our project is using icons from Solid, Sharp Thin, Sharp Duotone Thin + Brands -->
+    <link href="/fonts/fontawesome-free-7.1.0-web/css/fontawesome.css" rel="stylesheet" />
+    <link href="/fonts/fontawesome-free-7.1.0-web/css/brands.css" rel="stylesheet" />
+    <link href="/fonts/fontawesome-free-7.1.0-web/css/solid.css" rel="stylesheet" />
+    <link href="/fonts/fontawesome-free-7.1.0-web/css/sharp-thin.css" rel="stylesheet" />
+    <link href="/fonts/fontawesome-free-7.1.0-web/css/sharp-duotone-thin.css" rel="stylesheet" />
+
   	<!-- Global site tag (gtag.js) - Google Analytics GA4 -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CLYRB4VKST"></script>
     <script>
@@ -34,7 +41,39 @@
 
   
   <body>
-    
+<!--  secondary nav = full width, centered content -->
+<nav class="navbar navbar-expand-xxl navbar2" aria-label="secondary nav">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample08" aria-controls="navbarsExample08" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
+    <ul class="navbar-nav">
+        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#"><i class="fa-brands fa-bluesky"></i></a></li>
+        <li class="nav-item"><a class="nav-link" href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+        <li class="nav-item"><a class="nav-link" href="#"><i class="fa-brands fa-github"></i></a></li>
+        <li class="nav-item"><a class="nav-link" href="#"><i class="fa-brands fa-instagram"></i></a></li>
+        <li class="nav-item"><a class="nav-link" href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
+        <li class="nav-item"><a class="nav-link" href="#"><i class="fa-brands fa-youtube"></i></a></li>
+        <li class="nav-item"><a class="nav-link" href="#"><i class="fa-brands fa-amazon"></i></a></li>
+        <li class="nav-item"><a class="nav-link" href="#"><i class="fa-brands fa-instagram"></i></a></li>
+        <li class="nav-item"><a class="nav-link social social-faa" href="https://fineartamerica.com/profiles/anne-katzeff/shop">&nbsp;</a></li>
+        <li class="nav-item">
+          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+    </ul>
+    </div>
+  </div>
+</nav>
+
     <div class="col-lg-8 mx-auto p-4 py-md-5">
       <header class="d-flex align-items-center pb-3 mb-5 border-bottom">
         <a
@@ -54,7 +93,7 @@
         </a>
       </header>
       <main>
-        <h1 class="text-body-emphasis font-test">Get started with Bootstrap</h1>
+        <h1 class="font-test">Get started with Bootstrap</h1>
         <p class="fs-5 col-md-8 font-test">
           Quickly and easily get started with Bootstrap's compiled,
           production-ready files with this barebones example featuring some
@@ -69,7 +108,7 @@
         <hr class="col-3 col-md-2 mb-5" />
         <div class="row g-5">
           <div class="col-md-6">
-            <h2 class="text-body-emphasis">Starter projects</h2>
+            <h2 class="mix-black-20">Starter projects</h2>
             <p>
               Ready to go beyond the starter template? Check out these open
               source projects that you can quickly duplicate to a new GitHub
