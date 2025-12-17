@@ -305,13 +305,13 @@ Template: Bootstrap 5.3.8
   --bs-form-invalid-color: #dc3545;
   --bs-form-invalid-border-color: #dc3545;
 
-  /* --- nav colors all modified --- */
+  /* --- nav colors & padding all modified --- */
   --bs-navbar-color: var(--bs-primary);
-  --bs-nav-link-color: var(--bs-primary);
-  --bs-navbar-hover-color: var(--bs-primary-600);
+  --bs-navbar-hover-color: var(--bs-primary-700);
   --bs-navbar-disabled-color: rgba(var(--bs-emphasis-color-rgb), 0.3);
-  --bs-navbar-active-color: var(--bs-primary-600);
+  --bs-navbar-active-color: var(--bs-primary-700);
   --bs-nav-link-font-size: 15px;
+
 
 
   
@@ -322,13 +322,12 @@ Template: Bootstrap 5.3.8
 .navbar2 {
   background-color: var(--bs-gray-200);
   border-bottom: 1px solid var(--bs-gray-400);
-  color: var(--bs-primary-700);
+  /* color: var(--bs-primary-700); */
 }
 
 .navbar-nav2 {
     --bs-nav-link-padding-x: 0;
     --bs-nav-link-padding-y: 0.5rem;
-    --bs-nav-link-font-weight: ;
     color: var(--bs-primary-700);
     display: flex;
     flex-direction: row;
@@ -337,19 +336,20 @@ Template: Bootstrap 5.3.8
     list-style: none;
 }
 
-.navbar-expand-xxl .navbar-nav2 .nav-link {
-    padding-right: 1rem;
-    padding-left: 1rem;
-}
-
 .navbar-nav2 .nav-link:hover {
    color: var(--bs-black);
 }
 
+.navbar-expand-xxl .navbar-nav2 .nav-link {
+    padding-right: 1.25rem;
+    padding-left: 1.25rem;
+}
+
+
 .social-faa {
   margin-top: 0;
   background: url('../images/images-common/faa-logo-240-2025-primary700.png') no-repeat;
-  background-size: 50%;
+  background-size: 45%;
   background-position: center center;
   margin: 0 .5rem;
 }
@@ -357,7 +357,7 @@ Template: Bootstrap 5.3.8
 .social-faa:hover {
   margin-top: 0;
   background: url('../images/images-common/faa-logo-240-2025-black.png') no-repeat;
-  background-size: 50%;
+  background-size: 45%;
   background-position: center center;
   margin: 0 .5rem;
 }
@@ -371,15 +371,58 @@ Template: Bootstrap 5.3.8
   font-size: 20px;
 }
 
+/* --- Header > Brand Area ---= */
+.brand {
+  margin-top: 4rem;
+  padding-top: .5rem;
+  margin-bottom: 4rem;
+}
+
 .title {
   font-family: var(--bs-font-serif);
   font-size: 48px;
   color: var(--bs-primary);
   font-weight: 700;
+  margin-bottom: 0;
 }
 
 /* --- Primary Nav --- */
+.navbar-nav {
+  --bs-nav-link-color: var(--bs-primary);
+  --bs-nav-link-hover-color: var(--bs-primary-700);
+}
 
+.navbar-expand-xxl .navbar-nav .nav-link {
+  padding-right: 2.5rem;
+  padding-left: 2.5rem;
+  border-right: 1px solid var(--bs-gray-200);
+
+  padding-top: 0; 
+  padding-bottom: 0; 
+  margin-top: .5rem; 
+  margin-bottom: .5rem; 
+}
+
+
+
+.navbar-expand-xxl .navbar-nav .nav-link.active,
+.navbar-expand-xxl .navbar-nav .nav-link:hover {
+  border: 1px solid var(--bs-gray-600);
+  color: var(--bs-primary-600);
+  border-radius: var(--bs-border-radius);
+
+  padding-top: var(--bs-nav-link-padding-y); 
+  padding-bottom: var(--bs-nav-link-padding-y); 
+  margin-top: 0; 
+  margin-bottom: 0; 
+  
+}
+
+
+/* --- elements --- */
+.border-bottom {
+    color: var(--bs-gray-200);
+}
 
 /* -- TESTS -- */
 
