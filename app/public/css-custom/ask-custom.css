@@ -187,7 +187,6 @@ Template: Bootstrap 5.3.8
     --bs-accent-800: #30135C; /* -- new -- */
     --bs-accent-900: #180A2E; /* -- new -- */
 
-
   --bs-accent-2: var(--bs-coral); /* -- new -- */
     --bs-accent-2-50: #FCEFEA; /* -- new -- */
     --bs-accent-2-100: #FADFD6; /* -- new -- */
@@ -304,6 +303,12 @@ Template: Bootstrap 5.3.8
   --bs-form-valid-border-color: #198754;
   --bs-form-invalid-color: #dc3545;
   --bs-form-invalid-border-color: #dc3545;
+
+  --bs-navbar-color: var(--bs-primary);
+  --bs-navbar-hover-color: var(--bs-primary-600);
+  --bs-navbar-disabled-color: rgba(var(--bs-emphasis-color-rgb), 0.3);
+  --bs-navbar-active-color: var(--bs-primary-600);
+  
 }
 
 /* --- Navbars --- */
@@ -314,14 +319,42 @@ Template: Bootstrap 5.3.8
   color: var(--bs-primary-700);
 }
 
+.navbar-nav2 {
+    --bs-nav-link-padding-x: 0;
+    --bs-nav-link-padding-y: 0.5rem;
+    --bs-nav-link-font-weight: ;
+    color: var(--bs-primary-700);
+    display: flex;
+    flex-direction: row;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.navbar-expand-xxl .navbar-nav2 .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+}
+
+.navbar-nav2 .nav-link:hover {
+   color: var(--bs-black);
+}
+
 .social-faa {
   margin-top: 0;
   background: url('../images/images-common/faa-logo-240-2025-primary700.png') no-repeat;
   background-size: 78%;
   background-position: center center;
   margin: 0 .5rem;
-  }
+}
 
+.social-faa:hover {
+  margin-top: 0;
+  background: url('../images/images-common/faa-logo-240-2025-black.png') no-repeat;
+  background-size: 78%;
+  background-position: center center;
+  margin: 0 .5rem;
+}
 
 .social-faa-alt {
   vertical-align: middle;
@@ -331,6 +364,7 @@ Template: Bootstrap 5.3.8
 .fa-solid, .fa-regular, .fa-brands, .fa-classic, .fas, .far, .fab, .fa {
   font-size: 24px;
 }
+
 
 /* --- Primary Nav --- */
 
