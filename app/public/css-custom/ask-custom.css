@@ -251,6 +251,7 @@ Template: Bootstrap 5.3.8
   --bs-dark-border-subtle: #adb5bd;
   --bs-white-rgb: 255, 255, 255;
   --bs-black-rgb: 0, 0, 0; 
+  --bs-font-serif: 'Cormorant Garamond', Garamond, serif;  /* -- new -- */
   --bs-font-sans-serif: system-ui, -apple-system, 'Lato', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";  /* -- mod -- */
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
@@ -304,10 +305,15 @@ Template: Bootstrap 5.3.8
   --bs-form-invalid-color: #dc3545;
   --bs-form-invalid-border-color: #dc3545;
 
+  /* --- nav colors all modified --- */
   --bs-navbar-color: var(--bs-primary);
+  --bs-nav-link-color: var(--bs-primary);
   --bs-navbar-hover-color: var(--bs-primary-600);
   --bs-navbar-disabled-color: rgba(var(--bs-emphasis-color-rgb), 0.3);
   --bs-navbar-active-color: var(--bs-primary-600);
+  --bs-nav-link-font-size: 15px;
+
+
   
 }
 
@@ -332,8 +338,8 @@ Template: Bootstrap 5.3.8
 }
 
 .navbar-expand-xxl .navbar-nav2 .nav-link {
-    padding-right: var(--bs-navbar-nav-link-padding-x);
-    padding-left: var(--bs-navbar-nav-link-padding-x);
+    padding-right: 1rem;
+    padding-left: 1rem;
 }
 
 .navbar-nav2 .nav-link:hover {
@@ -343,7 +349,7 @@ Template: Bootstrap 5.3.8
 .social-faa {
   margin-top: 0;
   background: url('../images/images-common/faa-logo-240-2025-primary700.png') no-repeat;
-  background-size: 78%;
+  background-size: 50%;
   background-position: center center;
   margin: 0 .5rem;
 }
@@ -351,7 +357,7 @@ Template: Bootstrap 5.3.8
 .social-faa:hover {
   margin-top: 0;
   background: url('../images/images-common/faa-logo-240-2025-black.png') no-repeat;
-  background-size: 78%;
+  background-size: 50%;
   background-position: center center;
   margin: 0 .5rem;
 }
@@ -362,9 +368,15 @@ Template: Bootstrap 5.3.8
 }
 
 .fa-solid, .fa-regular, .fa-brands, .fa-classic, .fas, .far, .fab, .fa {
-  font-size: 24px;
+  font-size: 20px;
 }
 
+.title {
+  font-family: var(--bs-font-serif);
+  font-size: 48px;
+  color: var(--bs-primary);
+  font-weight: 700;
+}
 
 /* --- Primary Nav --- */
 
