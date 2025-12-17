@@ -374,8 +374,8 @@ Template: Bootstrap 5.3.8
 /* --- Header > Brand Area ---= */
 .brand {
   margin-top: 4rem;
-  padding-top: .5rem;
   margin-bottom: 4rem;
+  padding-top: .5rem;
 }
 
 .title {
@@ -390,6 +390,7 @@ Template: Bootstrap 5.3.8
 .navbar-nav {
   --bs-nav-link-color: var(--bs-primary);
   --bs-nav-link-hover-color: var(--bs-primary-700);
+  padding-bottom: 1rem; /* --- adds up to 32px with the other classes' padding --- */
 }
 
 .navbar-expand-xxl .navbar-nav .nav-link {
@@ -402,8 +403,6 @@ Template: Bootstrap 5.3.8
   margin-top: .5rem; 
   margin-bottom: .5rem; 
 }
-
-
 
 .navbar-expand-xxl .navbar-nav .nav-link.active,
 .navbar-expand-xxl .navbar-nav .nav-link:hover {
@@ -418,6 +417,16 @@ Template: Bootstrap 5.3.8
   
 }
 
+/* --- Sub-Primary Nav --- */
+
+
+/* --- Home Hero --- */
+.hero {
+  height: 930px;
+  background: url('../images/images-home/portil2301-willowpond-lateaugust-rt-1320.jpg') no-repeat;
+  background-size: 100%;
+  background-position: center center;
+}
 
 /* --- elements --- */
 .border-bottom {
