@@ -405,6 +405,12 @@ Template: Bootstrap 5.3.8
   margin-bottom: .5rem; 
 }
 
+.navbar-expand-xxl .navbar-nav .nav-link.last,
+.navbar-expand-lg .navbar-nav .nav-link.last {
+  border-right: 0px solid var(--bs-gray-200);
+}
+
+
 .navbar-expand-xxl .navbar-nav .nav-link.active,
 .navbar-expand-xxl .navbar-nav .nav-link:hover,
 .navbar-expand-lg .navbar-nav .nav-link.active,
@@ -423,13 +429,44 @@ Template: Bootstrap 5.3.8
 
 /* --- Sub-Primary Nav --- */
 
+.sub-primary-nav-cta {
+    max-width: 600px;
+    height: 72px;
+    padding: 6px 40px;
+    margin-top: 180px;
+    border: 1px solid var(--bs-gray-600);
+    border-radius: var(--bs-border-radius);
+}
+
+.sub-primary-nav-cta-item a, .sub-primary-nav-cta-item {
+    font-size: 36px;
+    font-family: var(--bs-font-serif);
+    color: var(--bs-white);
+}
+
+.sub-primary-nav-cta-item.divider {
+    font-size: 30px;
+}
+
 
 /* --- Home Hero --- */
 .hero {
   height: 930px;
-  background: url('../images/images-home/portil2301-willowpond-lateaugust-rt-1320.jpg') no-repeat;
-  background-size: 100%;
-  background-position: center center;
+  background: url('../images/images-home/portil2301-willowpond-lateaugust-rt.jpg') no-repeat;
+  background-size: 150%;
+  background-position: -325px 0;
+}
+
+.description.lead {
+  max-width:400px;
+  margin-top: 40px;
+  font-size: 24px;
+  font-family: var(--bs-font-sans-serif);
+  color: var(--bs-white);
+}
+
+.lead {
+  font-weight:400;
 }
 
 /* --- elements --- */
