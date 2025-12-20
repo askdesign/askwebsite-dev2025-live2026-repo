@@ -284,7 +284,7 @@ Template: Bootstrap 5.3.8
   --bs-highlight-bg: #fff3cd;
   --bs-border-width: 1px;
   --bs-border-style: solid;
-  --bs-border-color: #dee2e6;
+  --bs-border-color: var(--bs-gray-200); /* -- mod -- */
   --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
   --bs-border-radius: 0.375rem;
   --bs-border-radius-sm: 0.25rem;
@@ -427,34 +427,66 @@ Template: Bootstrap 5.3.8
   
 }
 
-/* --- Sub-Primary Nav --- */
+/* --- CTA --- */
+/* --- Sub-Primary Nav CTA --- */
 
 .sub-primary-nav-cta {
-    max-width: 600px;
-    height: 72px;
-    padding: 6px 40px;
-    margin-top: 180px;
-    border: 1px solid var(--bs-gray-600);
-    border-radius: var(--bs-border-radius);
+  max-width: 600px;
+  height: 72px;
+  padding: 0 40px;
+  margin-top: 252px;
+  border: 1px solid var(--bs-gray-600);
+  border-radius: var(--bs-border-radius);
 }
 
 .sub-primary-nav-cta-item a, .sub-primary-nav-cta-item {
-    font-size: 36px;
-    font-family: var(--bs-font-serif);
-    color: var(--bs-white);
+  font-size: 36px;
+  font-family: var(--bs-font-serif);
+  font-weight: 700;
+  color: var(--bs-white);
+   text-shadow: 1px 1px #6c757d;
 }
 
 .sub-primary-nav-cta-item.divider {
-    font-size: 30px;
+  font-size: 30px;
+  font-weight: 400;
 }
+
+/* --- CTA items --- */
+.cta-section {
+  margin-bottom: 80px;
+}
+
+.cta-item {
+    background-color: var(--bs-gray-100);
+    border: 1px solid var(--bs-primary-200);
+    border-radius: var(--bs-border-radius);
+    padding: 20px 30px;
+    height: 440px;
+}
+
+.cta-item-hd {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.cta-item-text {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.75
+}
+
+
 
 
 /* --- Home Hero --- */
 .hero {
   height: 930px;
   background: url('../images/images-home/portil2301-willowpond-lateaugust-rt.jpg') no-repeat;
-  background-size: 150%;
-  background-position: -325px 0;
+  background-size: 158%;
+  background-position: -424px 0;
+  margin-bottom: 40px;
 }
 
 .description.lead {
@@ -469,9 +501,51 @@ Template: Bootstrap 5.3.8
   font-weight:400;
 }
 
+/* --- Subscribe Section --- */
+.subscribe-section {
+  margin-bottom: 80px;
+  border-top: 1px solid var(--bs-primary-200);
+  background-color: var(--bs-gray-100);
+}
+
+.subscription-box {
+  width: 640px;
+  padding: 40px;
+}
+
 /* --- elements --- */
-.border-bottom {
-    color: var(--bs-gray-200);
+.border-bottom-alt1 {
+  border-bottom: 1px solid var(--bs-primary-200);
+}
+
+.border-bottom-alt2 {
+  border-bottom: 1px solid var(--bs-gray-400);
+}
+
+
+/* --- buttons --- */
+.btn-outline-primary {
+    --bs-btn-color: var(--bs-accent-500);
+    --bs-btn-border-color: var(--bs-accent-200);
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: var(--bs-accent-500);
+    --bs-btn-hover-border-color: var(--bs-accent-200);
+    --bs-btn-focus-shadow-rgb: 13, 110, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: var(--bs-accent-500);
+    --bs-btn-active-border-color: var(--bs-accent-200);
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #0d6efd;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #0d6efd;
+    --bs-gradient: none;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    --bs-btn-padding-y: 0.5rem;
+    --bs-btn-padding-x: 2.5rem;
+    --bs-btn-font-size: 1.5rem;
+    --bs-btn-border-radius: var(--bs-border-radius);
 }
 
 /* -- TESTS -- */
