@@ -509,9 +509,48 @@ Template: Bootstrap 5.3.8
 }
 
 .subscription-box {
-  width: 640px;
   padding: 40px;
 }
+
+.subscription-box-hd {
+  font-family: var(--bs-font-serif);
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.mc-field-group input {
+    width: 100%;
+    height: 38px;
+    background-color: var(--bs-gray-200);
+    border: 1px solid var(--bs-gray-600);
+    border-radius: var(--bs-border-radius);
+}
+
+.input-group {
+    display: block
+}
+
+.mc-field-group input.mc-input-checkbox {
+  width: 16px;
+  height: 16px;
+}
+
+.mc-field-group label {
+  font-size: 16px;
+}
+
+.indicates-required {
+  font-family: var(--bs-font-sans-serif);
+  font-size: 14px;
+  text-align:right;
+}
+
+ul.mc {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+
 
 /* --- elements --- */
 .border-bottom-alt1 {
