@@ -509,7 +509,9 @@ Template: Bootstrap 5.3.8
 }
 
 .subscription-box {
-  padding: 40px;
+    padding: 40px;
+    max-width: 640px;
+    margin: 0 auto;
 }
 
 .subscription-box-hd {
