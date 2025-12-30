@@ -307,12 +307,10 @@ Template: Bootstrap 5.3.8
 
   /* --- nav colors & padding all modified --- */
   --bs-navbar-color: var(--bs-primary);
-  --bs-navbar-hover-color: var(--bs-primary-700);
+  --bs-navbar-hover-color: var(--bs-primary-600);
   --bs-navbar-disabled-color: rgba(var(--bs-emphasis-color-rgb), 0.3);
-  --bs-navbar-active-color: var(--bs-primary-700);
+  --bs-navbar-active-color: var(--bs-primary-600);
   --bs-nav-link-font-size: 15px;
-
-
 
   
 }
@@ -322,7 +320,6 @@ Template: Bootstrap 5.3.8
 .navbar2 {
   background-color: var(--bs-gray-200);
   border-bottom: 1px solid var(--bs-gray-400);
-  /* color: var(--bs-primary-700); */
 }
 
 .navbar-nav2 {
@@ -404,7 +401,7 @@ Template: Bootstrap 5.3.8
 /* --- Primary Nav --- */
 .navbar-nav {
   --bs-nav-link-color: var(--bs-primary);
-  --bs-nav-link-hover-color: var(--bs-primary-700);
+  --bs-nav-link-hover-color: var(--bs-primary-600);
   padding-bottom: 1rem; /* --- adds up to 32px with the other classes' padding --- */
 }
 
@@ -429,8 +426,7 @@ Template: Bootstrap 5.3.8
 .navbar-expand-xxl .navbar-nav .nav-link.active,
 .navbar-expand-xxl .navbar-nav .nav-link:hover,
 .navbar-expand-lg .navbar-nav .nav-link.active,
-.navbar-expand-lg .navbar-nav .nav-link:hover 
- {
+.navbar-expand-lg .navbar-nav .nav-link:hover {
   border: 1px solid var(--bs-gray-600);
   color: var(--bs-primary-600);
   border-radius: var(--bs-border-radius);
@@ -441,6 +437,46 @@ Template: Bootstrap 5.3.8
   margin-bottom: 0; 
   
 }
+
+/* --- Primary Nav Dropdown Menu --- */
+.dropdown-menu {
+  border-color: var(--bs-gray-200);
+  border-top-width: 0px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  min-width: 150px;
+  font-size: var(--bs-nav-link-font-size);
+}
+
+.dropdown-header {
+    display: block;
+    padding: 1.25rem var(--bs-dropdown-header-padding-x) .75rem;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+}
+
+.dropdown-header.divider {
+  border-bottom: 1px solid var(--bs-gray-200);
+  padding-top: .75rem;
+  padding-bottom: 0;
+  }
+
+.navbar-nav .nav-link.show {
+  color: var(--bs-primary-600);
+}
+
+.dropdown-item {
+    color: var(--bs-primary);
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+  color: var(--bs-primary-600);
+  background-color: var(--bs-gray-100);
+}
+
+
 
 /* --- CTA --- */
 /* --- Sub-Primary Nav CTA --- */
