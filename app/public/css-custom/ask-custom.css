@@ -378,12 +378,27 @@ Template: Bootstrap 5.3.8
   padding-top: .5rem;
 }
 
-.title {
+.brand-small {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  border-left: 1px solid var(--bs-gray-400);
+  border-right: 1px solid var(--bs-gray-400);
+}
+
+
+
+.title, .title-small {
   font-family: var(--bs-font-serif);
   font-size: 48px;
   color: var(--bs-primary);
   font-weight: 700;
   margin-bottom: 0;
+}
+
+.title-small {
+  font-size: 24px;
+  color: var(--bs-primary-700);
 }
 
 /* --- Primary Nav --- */
@@ -502,10 +517,12 @@ Template: Bootstrap 5.3.8
 }
 
 /* --- Subscribe Section --- */
+
 .subscribe-section {
-  margin-bottom: 80px;
-  border-top: 1px solid var(--bs-primary-200);
-  background-color: var(--bs-gray-100);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-top: 1px solid var(--bs-primary-200);
+    background-color: var(--bs-gray-100);
 }
 
 .subscription-box {
@@ -552,6 +569,37 @@ ul.mc {
   padding-left: 0;
 }
 
+/* --- footer bottom --- */
+.footer-bottom-content {
+    background-color: var(--bs-gray-200);
+    border-top: 1px solid var(--bs-gray-400);
+    border-bottom: 1px solid var(--bs-gray-400);
+    color: var(--bs-primary-700);
+    font-size: 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.footer-bottom-content-divider {
+  color: var(--bs-gray-400);
+  font-size: 22px;
+  font-weight: 200;
+}
+
+.copyright, .copyright a, .policies, .policies a {
+  color: var(--bs-primary-700);
+  font-size: 15px;
+}
+
+.copyright a:hover, .policies a:hover {
+  color: var(--bs-black);
+}
+
+
+.policies {
+  text-align:right;
+}
+
 
 
 /* --- elements --- */
@@ -588,6 +636,70 @@ ul.mc {
     --bs-btn-font-size: 1.5rem;
     --bs-btn-border-radius: var(--bs-border-radius);
 }
+
+/* -- MEDIA QUERIES - Bootstrap breakpoints -- */
+
+
+/* --`xxl` applies to x-large devices (large desktops, less than 1400px) -- */
+@media (max-width: 1400px) {
+    
+
+
+
+
+
+}
+
+/* -- `xl` applies to large devices (desktops, less than 1200px) -- */
+@media (max-width: 1200px) {
+    
+
+
+
+
+
+}
+
+/* -- `lg` applies to medium devices (tablets, less than 992px)-- */
+@media (max-width: 992px) {
+    
+
+
+
+
+
+}
+
+/* -- `md` applies to small devices (landscape phones, less than 768px) -- */
+@media (max-width: 768px) {
+    
+.copyright, .policies {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.policies {
+  padding-bottom: 0;
+}
+
+.brand-small {
+  padding-bottom: 40px;
+  border-left: 0px solid var(--bs-gray-400);
+  border-right: 0px solid var(--bs-gray-400);
+}
+
+
+
+
+}
+
+/* -- `sm` applies to x-small devices (portrait phones, less than 576px) -- */
+@media (max-width: 576px) {
+
+
+
+}
+
 
 /* -- TESTS -- */
 
