@@ -375,6 +375,11 @@ img.float-end {
     margin-left: 1.125rem;
 }
 
+/* --- lists floating next to images --- */
+
+ul.float-start-img {
+  margin-left: 300px;
+}
 
 /* --- Header > Brand Area --- */
 .brand {
