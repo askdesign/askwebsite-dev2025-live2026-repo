@@ -258,7 +258,7 @@ Template: Bootstrap 5.3.8
   --bs-body-font-family: var(--bs-font-sans-serif);
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
-  --bs-body-line-height: 1.5; 
+  --bs-body-line-height: 1.65; 
   --bs-body-color: var(--bs-black); /* -- mod -- */
   --bs-body-color-rgb: 0, 0 0; /* -- mod -- */
   --bs-body-bg: #fff;
@@ -315,6 +315,23 @@ Template: Bootstrap 5.3.8
   
 }
 
+/* --- Typography --- */
+p, ul {
+  margin-bottom: 1.5rem;
+}
+
+p + ul {
+  margin-top: -.75rem;
+}
+
+.h4, h4 {
+    font-size: 1.25rem;
+}
+
+.clearboth {
+  clear:both;
+}
+
 /* --- Navbars --- */
 /* --- Secondary Nav --- */
 .navbar2 {
@@ -368,18 +385,19 @@ Template: Bootstrap 5.3.8
 
 /* --- images --- */
 img.float-start {
-    margin-right: 1.125rem;
+    margin-right: 1.5rem;
 }
 
 img.float-end {
-    margin-left: 1.125rem;
+    margin-left: 1.5rem;
 }
 
-/* --- lists floating next to images --- */
+/* --- lists with images --- */
 
 ul.float-start-img {
-  margin-left: 300px;
+  margin-left: 306px;
 }
+
 
 /* --- Header > Brand Area --- */
 .brand {
