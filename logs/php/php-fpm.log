@@ -95,3 +95,8 @@
 [20-Jan-2026 19:12:50] NOTICE: exiting, bye-bye!
 [20-Jan-2026 19:58:02] NOTICE: fpm is running, pid 54818
 [20-Jan-2026 19:58:02] NOTICE: ready to handle connections
+[26-Jan-2026 16:19:59] NOTICE: Terminating ...
+[26-Jan-2026 16:19:59] NOTICE: Terminating ...
+[26-Jan-2026 16:19:59] NOTICE: exiting, bye-bye!
+[26-Jan-2026 16:20:01] NOTICE: fpm is running, pid 50056
+[26-Jan-2026 16:20:01] NOTICE: ready to handle connections
