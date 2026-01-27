@@ -118,7 +118,7 @@
 <!-- main -->
 <main>
     <div class="container-xxl">
-    <div class="page-title-lead">   
+    <section class="page-title-lead">   
       <h2 class="page-title">Services</h2>
       <h3 class="page lead subhd">PARTNER, COLLABORATE, PROVIDE</h3>
       <p class="page lead">
@@ -149,11 +149,9 @@ I look at your business from a systems viewpoint and examine how everything work
 
 
     </div><!-- end of page lead list -->
-    </div><!-- end of page title lead area -->
-    </div><!-- container -->
+    </section><!-- end of page title lead area -->
 
     <section class="content"><!-- columns -->
-    <div class="container-xxl">
 			<div class="row">
 				<!-- column left -->
 				<div class="col-xl-6 col-lg-12">
@@ -190,7 +188,6 @@ I look at your business from a systems viewpoint and examine how everything work
 				</div><!-- end column right -->
 
       </div><!-- end of row -->
-      </div><!-- end of container -->
 	  </section><!-- end of columns-->
 
 </main>

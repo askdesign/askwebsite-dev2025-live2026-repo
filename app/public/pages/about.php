@@ -118,18 +118,15 @@
 <!-- main -->
 <main>
     <div class="container-xxl">
-    <div class="page-title-lead">   
+    <section class="page-title-lead">   
           <h2 class="page-title">About</h2>
           <h3 class="page lead subhd">THE STORY OF THE SLED</h3>
           <p class="page lead">
 My name is Anne S. Katzeff and I am the Creative Director of ASK Design. I grew up in New England and, like most kids here, I had a sled. My dad stenciled my initials onto my sled in order to distinguish it from others. That was when I first realized that my initials spelled a word. That was when my interest in typography began. The sled has led me down many paths. Ultimately, it led me to art and design. It has become my symbol for the challenges and fun of traveling through the numerous dimensions of life.          </p>
 
-
-    </div><!-- end of page title lead area -->
-    </div><!-- container -->
+    </section><!-- end of page title lead area -->
 
     <section class="content"><!-- columns -->
-    <div class="container-xxl">
 			<div class="row">
 				<!-- column left -->
 				<div class="col-xl-6 col-lg-12">
@@ -177,8 +174,8 @@ My name is Anne S. Katzeff and I am the Creative Director of ASK Design. I grew 
 				</div><!-- end column right -->
 
       </div><!-- end of row -->
-      </div><!-- end of container -->
-	  </section><!-- end of columns-->
+	  </section><!-- end of content columns-->
+    </div><!-- container -->
 
 </main>
 
