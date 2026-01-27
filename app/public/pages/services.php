@@ -119,61 +119,74 @@
 <main>
     <div class="container-xxl">
     <div class="page-title-lead">   
-          <h2 class="page-title">Services</h2>
-          <h3 class="page lead subhd">PARTNER, COLLABORATE, PROVIDE</h3>
-          <p class="page lead">
+      <h2 class="page-title">Services</h2>
+      <h3 class="page lead subhd">PARTNER, COLLABORATE, PROVIDE</h3>
+      <p class="page lead">
 I look at your business from a systems viewpoint and examine how everything works together. Unique designs that fit your needs and emphasize what you do best will help separate you from the crowd. I build all kinds of sites: e-commerce shops and artist portfolios, individuals and non-profits, small and medium-sized businesses, Bootstrap and WordPress. Tell me your needs and together we'll find the solution that works best for you.</p>
 
+			<div class="row page lead list">
+				<!-- column left -->
+        <div class="col-xl-6 col-lg-12">
+        <h3 class="page lead subhd2">Key areas that I focus on: </h3>
+        <ul>
+          <li>Creating a positive user experience </li>
+          <li>Improving performance and site speed </li>
+          <li>Complying with accessibility standards</li>
+        </ul>
 
+        </div><!-- col left -->
+
+				<!-- column right -->
+        <div class="col-xl-6 col-lg-12">
+        <h3 class="page lead subhd2">&emsp; </h3>
+        <ul>
+          <li>Ensuring mobile responsiveness </li>
+          <li>Enhancing Search Engine Optimization (SEO) </li>
+          <li>Increasing site visibility and number of visits</li>
+        </ul>
+
+        </div><!-- col right -->
+
+
+    </div><!-- end of page lead list -->
     </div><!-- end of page title lead area -->
     </div><!-- container -->
 
-    <section><!-- columns -->
+    <section class="content"><!-- columns -->
     <div class="container-xxl">
 			<div class="row">
 				<!-- column left -->
 				<div class="col-xl-6 col-lg-12">
 
-				  <h4 class="page subhd">MY LIFE AS A DESIGNER AND ARTIST</h4>
-					<p><img src="../images/images-about/2024-06-25-10.44.13-ask-pak-300x400.jpg" width="300" height="400" class="img-fluid float-start my-1" alt="ASK profile image;">The following videos, produced by the Belmont Media Center, provide glimpses into my design and art life.</p>
-            <ul class="float-start-img after-p">
-              <li><a href="https://www.youtube.com/watch?v=U92eRCkAauo">Transforming Belmont: Art on the Corner.</a> Summer 2021 - Thanks to a generous grant from the Belmont Cultural Council, I was 1 of 5 artists awarded stipends to paint a transformer box. With a lot of guidance and encouragement, I found my way to the finish line.</li>
-              <li><a href="https://vimeo.com/annekatzeff/anne-on-wgo">"What's Going On"</a> cable t.v. show. November 2013 - See my sketchbook as I talk about my process.</li>
-            </ul>
+				  <h4 class="page subhd"><i class="fa-solid fa-display service-icon"></i>WEB DESIGN</h4>
+					<p>10+ years of experience in the web world and now my primary focus. Design and front-end development for both static (html) and dynamic (content-management system) sites with features such as ecommerce, art portfolios, marketing tools, blogs, calendars, slideshows, and social media integration. I can provide custom designs that make your website unique or use existing templates for the styling framework.
+          </p>
 
-          <h4 class="page subhd clearboth pt-3">EXPERTISE</h4>
-            <p>Web design (particularly Wordpress), print design, typography, teaching and consultation, technology, details. Webmaster of more than 20 websites. I’ve spoken at several MeetUps and appeared on the Gutenberg Times podcast:</p>
-              <ul>
-                <li><a href="https://gutenbergtimes.com/podcast/gutenberg-changelog-121-gutenberg-21-6-and-21-7-block-theme-development-and-block-themes/?utm_source=bluesky&utm_medium=jetpack_social">Changelog #121</a></li>
-                <li><a href="https://gutenbergtimes.com/podcast/gutenberg-changelog-109-a-responsive-navigation-block/">Changelog #109</a></li>
-              </ul>
 
-          <h4 class="page subhd">GROUPS & ASSOCIATIONS</h4>
-          <p>
-            <ul>
-              <li>WordPress Community / Core / Test Contributor: Program Supporter, Training, Diverse Speaker Support, Design, Outreach</li>
-              <li>MeetUp Groups: BlackPress, Boston WordPress, Girl Develop IT, Philadelphia WordPress, South Florida WordPress, WordPress MeetUp SW Florida (Co-Organizer)</li>
-              <li>Open Studios: Arlington, Newton, Somerville</li>
-              <li>Portfolio Review Board (former member): Mass. College of Art and Design — Graphic Design Certificate Program</li>
-              <li>Web Maestro & Founding Member: Belmont Art Association</li>
-              <li>Member: Hull Artists</li>
-              <li>Conservancy of Southwest Florida, Nature Conservancy, NRDC</li>
-            </ul>
+          <h4 class="page subhd"><i class="fa-solid fa-book-open service-icon"></i>GRAPHIC DESIGN</h4>
+          <p>20+ years of experience in the print world have informed me in all areas of: corporate identity, brochures, catalogs, books (cover, interior, digital), magazines, educational and self-publishing, multimedia, and prepress production.</p>
+ 
+
+          <h4 class="page subhd"><i class="fa-solid fa-circle-info service-icon"></i>CONSULTATION</h4>
+          <p>Advice on projects, design, and technology issues. Software training, based on several years of teaching experience at high school, college, and adult levels. Most of my teaching has been done face-to-face. I began to teach online in the fall of 2018. Speaking gigs, panel discussions, and forums are also in my repertoire. Subscribe to my <a href="https://askdesign.biz/blog">Blog</a> to receive useful information!
           </p>
 
 				</div><!-- end column left -->
 
 				<!-- column right -->
 				<div class="col-xl-6 col-lg-12">
-					<h4 class="page subhd">ARTIST STATEMENT</h4>
-					<p><img src="../images/images-about/portil2410-gratitude-rt-300x400.jpg" width="300" height="400" class="img-fluid float-start my-1" alt="ASK profile image;">I have been drawing and painting since I was a child. I would sit for hours drawing mandalas with my colored pencils, entranced by the geometric shapes and rich colors. It wasn't until recently, however, that I started to call myself an artist. That self-defining moment coincided with my falling in love with pastels.</p>
-          <p>I began working with pastels right after I began swimming with wild dolphins. I wanted to be able to convey through my art the emotional, ethereal quality of this deeply spiritual experience. The vibrant colors and wonderful textures of pastels drew me right back into that ocean world as I painted. Soon I was led to paint other "landscapes" in nature that moved and inspired me.</p>
-          <p>The Earth is sacred to me. When I begin a painting, the moment the pigment touches the paper, my mind slows down, and I enter a peaceful, meditative state. As I paint, I become deeply immersed in my surroundings, and the joy of playing with color and light fills me. These are sacred moments—when I feel both awe at the beauty around me and humility at being part of something greater than myself.</p>
-          <p>What I try to do with my paintings is evoke the richness of a particular moment, with all of its sensations and emotions. Art is my way of honoring a special place or experience, usually in the natural world, and of celebrating the wonders of the universe. In my artwork, I step away from my rational mind and allow my spirit to create the art. The completed painting is about what is in my heart as well as what I see with my eyes.</p>
+					<h4 class="page subhd"><i class="fa-solid fa-wand-sparkles service-icon"></i>ART DIRECTION</h4>
+					<p>Project management, creative direction, team-building.</p>
 
-          <h4 class="page subhd">INSPIRATION</h4>
-          <p>My family, the ocean, the Southwest, the Berkshires, Claude Monet, Elizabeth Mowry, my painting buddies, A.M. Cassandre, Paula Scher, JMoore, and Walter Kopec.
-          </p>
+          <h4 class="page subhd"><i class="fa-solid fa-paintbrush service-icon"></i>ARTWORK</h4>
+          <p>Landscape and floral paintings and drawings using pastels, watercolor, acrylics, gouache, colored pencils, ink, and mixed media.</p>
+
+          <h4 class="page subhd"><i class="fa-solid fa-toolbox service-icon"></i>TOOLSET</h4>
+          <p>Adobe Creative Suite (InDesign, Photoshop, Illustrator, Premiere, and Acrobat), Figma, Visual Studio Code, Github, Cacher, Local by Flywheel, CSS, HTML, and PHP.</p>
+
+          <h4 class="page subhd"><i class="fa-solid fa-share service-icon"></i>REFERRALS</h4>
+          <p>ASK Design is built on solid relationships. Referrals are encouraged, welcomed, and rewarded. I am currently looking for art-related referrals: exhibits, contests, and selling opportunities. A successful referral will net you, the referrer, 1 FREE set of my art notecards. If the referral leads to a new design project and/or art sale, it is considered successful.</p>
+
 				</div><!-- end column right -->
 
       </div><!-- end of row -->

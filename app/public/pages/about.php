@@ -128,7 +128,7 @@ My name is Anne S. Katzeff and I am the Creative Director of ASK Design. I grew 
     </div><!-- end of page title lead area -->
     </div><!-- container -->
 
-    <section><!-- columns -->
+    <section class="content"><!-- columns -->
     <div class="container-xxl">
 			<div class="row">
 				<!-- column left -->
