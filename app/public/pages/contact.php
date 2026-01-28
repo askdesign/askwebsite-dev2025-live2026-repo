@@ -141,64 +141,11 @@ I’ve been fortunate to live life loving what I do: designing websites and crea
 				<!-- column right | CONTACT FORM -->
         <div class="col-xl-6 col-lg-12">
 
-        <section class="contact-form-section">
 
-          <div class="contact-box">
+      <?php 
+      include '../includes/contact.inc.php'; 
+      ?> 
 
-          <h3 class="contact-form-hd text-center">Contact Me</h3>
-
-<!-- Contact Form HTML code -->
-  
-<form id="contact-form" method="post" action="contact.php" role="form">
-
-    <div class="messages"></div>
-
-    <div class="controls">
-
-        <div class="row">
-            <div class="col-md-12">
-              <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-
-                    <div class="form-group">
-                    <p><label for="form_email">Email Address <span class="asterisk">*</span></label>
-                    <input id="form_email" type="email" name="email" class="form-control" placeholder="" required="required" data-error="Valid email is required.">
-                    <div class="help-block with-errors"></p></div>
-                </div>
-
-                <div class="form-group">
-                    <p><label for="form_name">First Name <span class="asterisk">*</span></label>
-                    <input id="form_name" type="text" name="name" class="form-control" placeholder="" required="required" data-error="Firstname is required.">
-                    <div class="help-block with-errors"></p></div>
-                </div>
-
-                <div class="form-group">
-                    <p><label for="form_lastname">Last Name <span class="asterisk">*</span></label>
-                    <input id="form_lastname" type="text" name="surname" class="form-control" placeholder="" required="required" data-error="Lastname is required.">
-                    <div class="help-block with-errors"></p></div>
-                </div>
-
-                <div class="form-group">
-                    <p><label for="form_message">Message <span class="asterisk">*</span></label>
-                    <textarea id="form_message" name="message" class="form-control" placeholder="" rows="4" required="required" data-error="Please, leave us a message."></textarea>
-                    <div class="help-block with-errors"></p></div>
-                </div>      
-    
-                <p>This form collects your name and email so that we can reply to you in a professional manner. Please see our <a href="#">Privacy Policy</a> for full details on how we value and protect your privacy. By clicking the SEND button, you are consenting to ASK Design collecting your name and email. </p>
-
-                <p>*Are you human or animal (use lower-case letters in the field below)</p>
-
-            <div class="submit-button">
-                <input type="submit" class="btn btn-outline-primary btn-lg mb-3" value="SEND">
-            </div>
-
-            </div><!-- end of col -->
-        </div><!-- end of row -->
-
-    </div><!-- end of controls -->
-
-</form>
-          </div><!-- end of contact form box -->
-        </section><!-- end of contact form section -->
         </div><!-- end of col right -->
 
 
@@ -295,5 +242,6 @@ I’ve been fortunate to live life loving what I do: designing websites and crea
     <!-- Bootstrap Javascript bundle - goes before the closing body tag -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
     
+
   </body>
 </html>

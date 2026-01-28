@@ -681,6 +681,13 @@ ul.float-start-img {
     border-radius: var(--bs-border-radius);
 }
 
+.mc-field-group textarea {
+    width: 100%;
+    background-color: var(--bs-gray-200);
+    border: 1px solid var(--bs-gray-600);
+    border-radius: var(--bs-border-radius);
+}
+
 .input-group {
     display: block
 }
