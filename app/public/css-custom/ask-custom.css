@@ -652,7 +652,7 @@ ul.float-start-img {
 }
 
 
-/* --- Subscribe Section --- */
+/* --- Subscribe and Contact Form Sections --- */
 
 .subscribe-section {
     padding-top: 40px;
@@ -667,13 +667,13 @@ ul.float-start-img {
     margin: 0 auto;
 }
 
-.subscription-box-hd {
+.subscription-box-hd, .contact-form-hd {
   font-family: var(--bs-font-serif);
   font-size: 40px;
   font-weight: 700;
 }
 
-.mc-field-group input {
+.mc-field-group input, .form-group input {
     width: 100%;
     height: 38px;
     background-color: var(--bs-gray-200);
@@ -690,7 +690,7 @@ ul.float-start-img {
   height: 16px;
 }
 
-.mc-field-group label {
+.mc-field-group label, .form-group label {
   font-size: 16px;
 }
 
@@ -704,6 +704,26 @@ ul.mc {
   list-style-type: none;
   padding-left: 0;
 }
+
+/* --- Contact Form Section --- */
+.contact-form-section {
+    background-color: var(--bs-gray-100);
+}
+
+.contact-box {
+    padding: 40px;
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+.form-group textarea {
+    width: 100%;
+    background-color: var(--bs-gray-200);
+    border: 1px solid var(--bs-gray-600);
+    border-radius: var(--bs-border-radius);
+}
+
+
 
 /* --- footer bottom --- */
 .footer-bottom-content {

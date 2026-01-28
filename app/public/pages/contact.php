@@ -34,7 +34,7 @@
     </script>
   	<!-- end of Global site tag (gtag.js) - Google Analytics GA4 -->
 
-    <title>ASK Design | Services</title>
+    <title>ASK Design | Contact</title>
   </head>
 
   
@@ -80,7 +80,7 @@
     <ul class="navbar-nav">
         <li class="nav-item"><a class="nav-link" href="../index.php">Home</a></li>
         <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
-        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Services</a></li>
+        <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
 
         <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="portgd-rec.php" data-bs-toggle="dropdown" aria-expanded="false">Portfolio</a>
                 <ul class="dropdown-menu">
@@ -108,7 +108,7 @@
         </li>
 
         <li class="nav-item"><a class="nav-link" href="https:www.askdesign.biz/blog">Blog</a></li>
-        <li class="nav-item"><a class="nav-link last" href="contact.php">Contact</a></li>
+        <li class="nav-item"><a class="nav-link active last" aria-current="page" href="#">Contact</a></li>
     </ul>
     </div>
   </div>
@@ -119,36 +119,92 @@
 <main>
     <div class="container-xxl">
     <section class="page-title-lead">   
-      <h2 class="page-title">Services</h2>
-      <h3 class="page lead subhd">PARTNER, COLLABORATE, PROVIDE</h3>
-      <p class="page lead">
-I look at your business from a systems viewpoint and examine how everything works together. Unique designs that fit your needs and emphasize what you do best will help separate you from the crowd. I build all kinds of sites: e-commerce shops and artist portfolios, individuals and non-profits, small and medium-sized businesses, Bootstrap and WordPress. Tell me your needs and together we'll find the solution that works best for you.</p>
-
-		<div class="row page lead list">
+      <h2 class="page-title">Contact</h2>
+      <div class="row">
 				<!-- column left -->
         <div class="col-xl-6 col-lg-12">
-        <h3 class="page lead subhd2">Key areas that I focus on: </h3>
-        <ul>
-          <li>Creating a positive user experience </li>
-          <li>Improving performance and site speed </li>
-          <li>Complying with accessibility standards</li>
-        </ul>
+      <h3 class="page lead subhd">GET IN TOUCH!</h3>
+      <p class="page lead">
+I’ve been fortunate to live life loving what I do: designing websites and creating artwork. It also brings me special joy to teach and write about design and art. Reach out and let’s get the conversation started!</p>
 
-        </div><!-- col left -->
+      <p class="page lead">
+<span class="page lead subhd2">Need a website? </span> I’ve honed my skills and keep my creative juices flowing through play, exercise, reading, music, art, and more. I work in 2 platforms: WordPress (my specialty) and Bootstrap. If you want to control and edit the content yourself, I’ll use  WordPress, which is a Content-Management System (CMS). Otherwise, I’ll build with Bootstrap.</p>
+      <p class="page lead">
+<span class="page lead subhd2">Interested in my artwork? </span>Landscapes and flowers capture my imagination. I enjoy painting outdoors, en plein air, where I can breath in the scene and listen to the birds. My mediums are pastels, acrylics, and watercolors. I am open to interview requests and welcome inquiries about art I’ve completed.</p>
+      <p class="page lead">
+<span class="page lead subhd2">Looking for a speaker? </span>I am available for workshops, classes, podcasts, and WordPress MeetUps. </p>
+      <p class="page lead">
+<span class="page lead subhd2">Questions? </span>Do you have questions about web design and/or art? Are you stuck on something and need some help? Questions feed my blog topics. Keep them coming!</p>
 
-				<!-- column right -->
+        </div><!-- end of col left -->
+
+				<!-- column right | CONTACT FORM -->
         <div class="col-xl-6 col-lg-12">
-        <h3 class="page lead subhd2">&emsp; </h3>
-        <ul>
-          <li>Ensuring mobile responsiveness </li>
-          <li>Enhancing Search Engine Optimization (SEO) </li>
-          <li>Increasing site visibility and number of visits</li>
-        </ul>
 
-        </div><!-- col right -->
+        <section class="contact-form-section">
+
+          <div class="contact-box">
+
+          <h3 class="contact-form-hd text-center">Contact Me</h3>
+
+<!-- Contact Form HTML code -->
+  
+<form id="contact-form" method="post" action="contact.php" role="form">
+
+    <div class="messages"></div>
+
+    <div class="controls">
+
+        <div class="row">
+            <div class="col-md-12">
+              <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+
+                    <div class="form-group">
+                    <p><label for="form_email">Email Address <span class="asterisk">*</span></label>
+                    <input id="form_email" type="email" name="email" class="form-control" placeholder="" required="required" data-error="Valid email is required.">
+                    <div class="help-block with-errors"></p></div>
+                </div>
+
+                <div class="form-group">
+                    <p><label for="form_name">First Name <span class="asterisk">*</span></label>
+                    <input id="form_name" type="text" name="name" class="form-control" placeholder="" required="required" data-error="Firstname is required.">
+                    <div class="help-block with-errors"></p></div>
+                </div>
+
+                <div class="form-group">
+                    <p><label for="form_lastname">Last Name <span class="asterisk">*</span></label>
+                    <input id="form_lastname" type="text" name="surname" class="form-control" placeholder="" required="required" data-error="Lastname is required.">
+                    <div class="help-block with-errors"></p></div>
+                </div>
+
+                <div class="form-group">
+                    <p><label for="form_message">Message <span class="asterisk">*</span></label>
+                    <textarea id="form_message" name="message" class="form-control" placeholder="" rows="4" required="required" data-error="Please, leave us a message."></textarea>
+                    <div class="help-block with-errors"></p></div>
+                </div>      
+    
+                <p>This form collects your name and email so that we can reply to you in a professional manner. Please see our <a href="#">Privacy Policy</a> for full details on how we value and protect your privacy. By clicking the SEND button, you are consenting to ASK Design collecting your name and email. </p>
+
+                <p>*Are you human or animal (use lower-case letters in the field below)</p>
+
+            <div class="submit-button">
+                <input type="submit" class="btn btn-outline-primary btn-lg mb-3" value="SEND">
+            </div>
+
+            </div><!-- end of col -->
+        </div><!-- end of row -->
+
+    </div><!-- end of controls -->
+
+</form>
+          </div><!-- end of contact form box -->
+        </section><!-- end of contact form section -->
+        </div><!-- end of col right -->
 
 
-    </div><!-- end of page lead list -->
+      </div><!-- end of row -->
+
+
     </section><!-- end of page title lead area -->
 
     <section class="content"><!-- columns -->

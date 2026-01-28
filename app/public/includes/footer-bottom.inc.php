@@ -1,4 +1,4 @@
-<section class="container-xxl">
+<div class="container-xxl">
     <div class="row align-items-center">
 		<div class="copyright col-xl-4 col-lg-4 col-md-12">
         <p>© 2026 Anne S. Katzeff &emsp;<span class="footer-bottom-content-divider"> | </span>&emsp;  ASK Design</p>
@@ -21,4 +21,4 @@
         </div><!-- end of col -->
 
     </div><!-- end of row -->
-</section><!-- end of footer-bottom-content -->
+</div><!-- end of footer-bottom-content -->

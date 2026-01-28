@@ -196,12 +196,12 @@ My name is Anne S. Katzeff and I am the Creative Director of ASK Design. I grew 
 
 <!-- footer -->
 <footer><!-- footer bottom -->
-  <div class="container-fluid footer-bottom-content"><!--- footer-bottom-content -->
+  <section class="container-fluid footer-bottom-content"><!--- footer-bottom-content -->
       <?php 
       include '../includes/footer-bottom.inc.php'; 
       ?> 
 
-  </div><!-- end of container -->
+  </section><!-- end of section -->
 
   <nav class="navbar navbar-expand-lg navbar2" aria-label="secondary nav">
   <div class="container-fluid">
@@ -214,8 +214,8 @@ My name is Anne S. Katzeff and I am the Creative Director of ASK Design. I grew 
       include '../includes/nav2.inc.php'; 
       ?> 
 
-    </div>
-  </div>
+    </div><!-- end of navbar -->
+  </div><!-- end of container -->
 </nav>
   
 </footer><!-- end of footer bottom -->
