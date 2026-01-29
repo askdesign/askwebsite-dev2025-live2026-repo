@@ -143,7 +143,7 @@ I’ve been fortunate to live life loving what I do: designing websites and crea
 
 
       <?php 
-      include '../includes/contact.inc.php'; 
+      include '../includes/contact-mc.inc.php'; 
       ?> 
 
         </div><!-- end of col right -->
