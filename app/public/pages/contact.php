@@ -122,7 +122,7 @@
       <h2 class="page-title">Contact</h2>
       <div class="row">
 				<!-- column left -->
-        <div class="col-xl-6 col-lg-12">
+        <div class="col-xl-6 col-lg-12 border-right">
       <h3 class="page lead subhd">GET IN TOUCH!</h3>
       <p class="page lead">
 I’ve been fortunate to live life loving what I do: designing websites and creating artwork. It also brings me special joy to teach and write about design and art. Reach out and let’s get the conversation started!</p>
@@ -157,36 +157,80 @@ I’ve been fortunate to live life loving what I do: designing websites and crea
     <section class="content"><!-- columns -->
 			<div class="row">
 				<!-- column left -->
-				<div class="col-xl-6 col-lg-12">
+				<div class="col-xl-6 col-lg-12 border-right">
 
-				  <h4 class="page subhd"><i class="fa-solid fa-display service-icon"></i>WEB DESIGN</h4>
-					<p>10+ years of experience in the web world and now my primary focus. Design and front-end development for both static (html) and dynamic (content-management system) sites with features such as ecommerce, art portfolios, marketing tools, blogs, calendars, slideshows, and social media integration. I can provide custom designs that make your website unique or use existing templates for the styling framework.
+				  <h4 class="page subhd">AFFILIATE PARTNERS</h4>
+					<p>During the past several years, I've had the pleasure of working with many terrific individuals and companies. My recommendations are based on services and products I know and trust. I receive compensation when you purchase a service or product via the links on this website.
           </p>
 
+          <div class="page-header-group">
+          <h5 class="page subhd2"><i class="fa-solid fa-envelope affiliate-icon"></i><a href="https://www.siteground.com/web-hosting.htm?afimagecode=ac4a791d0fe887905b14d16fdac590f2">Siteground</a></h5> 
+          <p>- web hosting</p>
+          </div>
 
-          <h4 class="page subhd"><i class="fa-solid fa-book-open service-icon"></i>GRAPHIC DESIGN</h4>
-          <p>20+ years of experience in the print world have informed me in all areas of: corporate identity, brochures, catalogs, books (cover, interior, digital), magazines, educational and self-publishing, multimedia, and prepress production.</p>
- 
-
-          <h4 class="page subhd"><i class="fa-solid fa-circle-info service-icon"></i>CONSULTATION</h4>
-          <p>Advice on projects, design, and technology issues. Software training, based on several years of teaching experience at high school, college, and adult levels. Most of my teaching has been done face-to-face. I began to teach online in the fall of 2018. Speaking gigs, panel discussions, and forums are also in my repertoire. Subscribe to my <a href="https://askdesign.biz/blog">Blog</a> to receive useful information!
-          </p>
+          <div class="page-header-group">
+          <h5 class="page subhd2"><a href="https://www.amazon.com/Best-Sellers-Software-Graphics/zgbs/software/229614/ref=as_li_ss_tl?&adid=0J3TAYZZ3JKXAH99AMCA&&ref-refURL=http://www.askdesign.biz/blog/&linkCode=sl2&tag=httpwwwaskdes-20&linkId=0ad7023aa2c868d943b8b5d5949fc38f"><i class="fa-brands fa-amazon affiliate-icon"></i>Amazon</a></h5> 
+          <p>- online purchases</p>
+          </div>
 
 				</div><!-- end column left -->
 
 				<!-- column right -->
 				<div class="col-xl-6 col-lg-12">
-					<h4 class="page subhd"><i class="fa-solid fa-wand-sparkles service-icon"></i>ART DIRECTION</h4>
-					<p>Project management, creative direction, team-building.</p>
+				  <h4 class="page subhd">CONNECT AND SHARE</h4>
 
-          <h4 class="page subhd"><i class="fa-solid fa-paintbrush service-icon"></i>ARTWORK</h4>
-          <p>Landscape and floral paintings and drawings using pastels, watercolor, acrylics, gouache, colored pencils, ink, and mixed media.</p>
+          <div class="page-header-group">
+          <h5 class="page subhd2"><a href="mailto:anne@askdesign.biz"><i class="fa-solid fa-envelope affiliate-icon"></i>Reach out</a></h5> 
+          <p>to me via email.</p>
+          </div>
 
-          <h4 class="page subhd"><i class="fa-solid fa-toolbox service-icon"></i>TOOLSET</h4>
-          <p>Adobe Creative Suite (InDesign, Photoshop, Illustrator, Premiere, and Acrobat), Figma, Visual Studio Code, Github, Cacher, Local by Flywheel, CSS, HTML, and PHP.</p>
+          <div class="page-header-group">
+          <h5 class="page subhd2"><a href="https://askdesign.biz/blog"><i class="fa-solid fa-keyboard affiliate-icon"></i>Blog </a></h5> 
+          <p>- Anne's design and art adventures, and educational content.</p>
+          </div>
 
-          <h4 class="page subhd"><i class="fa-solid fa-share service-icon"></i>REFERRALS</h4>
-          <p>ASK Design is built on solid relationships. Referrals are encouraged, welcomed, and rewarded. I am currently looking for art-related referrals: exhibits, contests, and selling opportunities. A successful referral will net you, the referrer, 1 FREE set of my art notecards. If the referral leads to a new design project and/or art sale, it is considered successful.</p>
+          <div class="page-header-group">
+          <h5 class="page subhd2"><a href="https://www.askdesign.biz/blog/feed"><i class="fa-solid fa-rss affiliate-icon"></i>RSS Feed </a></h5> 
+          <p>- Another way to access my Blog.</p>
+          </div>
+
+          <div class="page-header-group">
+          <h5 class="page subhd2"><a href="https://bsky.app/profile/askdesign.bsky.social"><i class="fa-brands fa-bluesky affiliate-icon"></i>Bluesky </a></h5> 
+          <p>- Sharing of art, design, and thoughts on life.</p>
+          </div>
+
+          <div class="page-header-group">
+          <h5 class="page subhd2"><a href="https://www.facebook.com/ASKDesign"><i class="fa-brands fa-facebook-f affiliate-icon"></i>Facebook </a></h5> 
+          <p>- Personal and professional sharing.</p>
+          </div>
+
+          <div class="page-header-group">
+          <h5 class="page subhd2"><a href="https://fineartamerica.com/profiles/anne-katzeff/shop"><img src="../images/images-common/faa-logo-240-2025-linkcolor.png" width="32" class="img-fluid affiliate-icon" alt="FAA;">Fine Art America </a></h5> 
+          <p>- Online shop for Anne's art.</p>
+          </div>
+           
+          <div class="page-header-group">
+          <h5 class="page subhd2"><a href="https://github.com/askdesign"><i class="fa-brands fa-github affiliate-icon"></i>Github </a></h5> 
+          <p>- Web design and development code.</p>
+          </div>
+
+          <div class="page-header-group">
+          <h5 class="page subhd2"><a href="https://www.instagram.com/annekatzeff_askdesign/n"><i class="fa-brands fa-instagram affiliate-icon"></i>Instagram </a></h5> 
+          <p>- Online shop for Anne's art.</p>
+          </div>
+
+          <div class="page-header-group">
+          <h5 class="page subhd2"><a href="https://www.pinterest.com/annekatzeff/"><i class="fa-brands fa-pinterest affiliate-icon"></i>Pinterest </a></h5> 
+          <p>- Design inspirations and brainstorms.</p>
+          </div>
+
+          <div class="page-header-group">
+          <h5 class="page subhd2"><a href="https://www.youtube.com/user/askdesign2"><i class="fa-brands fa-youtube affiliate-icon"></i>Youtube </a></h5> 
+          <p>- Video tutorials and joyful experiences.</p>
+          </div>
+
+
+
 
 				</div><!-- end column right -->
 

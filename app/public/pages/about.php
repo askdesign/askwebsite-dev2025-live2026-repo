@@ -129,7 +129,7 @@ My name is Anne S. Katzeff and I am the Creative Director of ASK Design. I grew 
     <section class="content"><!-- columns -->
 			<div class="row">
 				<!-- column left -->
-				<div class="col-xl-6 col-lg-12">
+				<div class="col-xl-6 col-lg-12 border-right">
 
 				  <h4 class="page subhd">MY LIFE AS A DESIGNER AND ARTIST</h4>
 					<p><img src="../images/images-about/2024-06-25-10.44.13-ask-pak-300x400.jpg" width="300" height="400" class="img-fluid float-start my-1" alt="ASK profile image;">The following videos, produced by the Belmont Media Center, provide glimpses into my design and art life.</p>

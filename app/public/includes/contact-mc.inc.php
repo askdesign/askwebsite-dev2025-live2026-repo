@@ -4,7 +4,7 @@
 
           <h3 class="contact-form-hd text-center">Contact Me</h3>
 
-        <!-- TEST MC contact form -->
+        <!-- Mailchimp contact form -->
 
   
 <!-- <div id="mc_embed_shell"> -->
@@ -21,13 +21,13 @@
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 
             <div class="mc-field-group">
-              <p><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></p></div>
+              <p><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="form-control required email" id="mce-EMAIL" required="" value=""></p></div>
             
             <div class="mc-field-group">
-              <p><label for="mce-FNAME">First Name <span class="asterisk">*</span></label><input type="text" name="FNAME" class="required text" id="mce-FNAME" required="" value=""></p></div>
+              <p><label for="mce-FNAME">First Name <span class="asterisk">*</span></label><input type="text" name="FNAME" class="form-control required text" id="mce-FNAME" required="" value=""></p></div>
             
             <div class="mc-field-group">
-              <p><label for="mce-LNAME">Last Name <span class="asterisk">*</span></label><input type="text" name="LNAME" class="required text" id="mce-LNAME" required="" value=""></p></div>
+              <p><label for="mce-LNAME">Last Name <span class="asterisk">*</span></label><input type="text" name="LNAME" class="form-control required text" id="mce-LNAME" required="" value=""></p></div>
             
           <div class="mc-field-group">
             <p><label for="mce-MMERGE4">Message <span class="asterisk">*</span></label>

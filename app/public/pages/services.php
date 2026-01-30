@@ -125,9 +125,9 @@
 I look at your business from a systems viewpoint and examine how everything works together. Unique designs that fit your needs and emphasize what you do best will help separate you from the crowd. I build all kinds of sites: e-commerce shops and artist portfolios, individuals and non-profits, small and medium-sized businesses, Bootstrap and WordPress. Tell me your needs and together we'll find the solution that works best for you.</p>
 
 		<div class="row page lead list">
-				<!-- column left -->
-        <div class="col-xl-6 col-lg-12">
         <h3 class="page lead subhd2">Key areas that I focus on: </h3>
+				<!-- column left -->
+        <div class="col-xl-6 col-lg-12 border-right">
         <ul>
           <li>Creating a positive user experience </li>
           <li>Improving performance and site speed </li>
@@ -138,7 +138,6 @@ I look at your business from a systems viewpoint and examine how everything work
 
 				<!-- column right -->
         <div class="col-xl-6 col-lg-12">
-        <h3 class="page lead subhd2">&emsp; </h3>
         <ul>
           <li>Ensuring mobile responsiveness </li>
           <li>Enhancing Search Engine Optimization (SEO) </li>
@@ -154,7 +153,7 @@ I look at your business from a systems viewpoint and examine how everything work
     <section class="content"><!-- columns -->
 			<div class="row">
 				<!-- column left -->
-				<div class="col-xl-6 col-lg-12">
+				<div class="col-xl-6 col-lg-12 border-right">
 
 				  <h4 class="page subhd"><i class="fa-solid fa-display service-icon"></i>WEB DESIGN</h4>
 					<p>10+ years of experience in the web world and now my primary focus. Design and front-end development for both static (html) and dynamic (content-management system) sites with features such as ecommerce, art portfolios, marketing tools, blogs, calendars, slideshows, and social media integration. I can provide custom designs that make your website unique or use existing templates for the styling framework.
