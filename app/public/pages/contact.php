@@ -204,9 +204,10 @@ I’ve been fortunate to live life loving what I do: designing websites and crea
           <p>- Personal and professional sharing.</p>
           </div>
 
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://fineartamerica.com/profiles/anne-katzeff/shop"><img src="../images/images-common/faa-logo-240-2025-linkcolor.png" width="32" class="img-fluid affiliate-icon" alt="FAA;">Fine Art America </a></h5> 
-          <p>- Online shop for Anne's art.</p>
+          <div class="page-header-group gap-1 d-flex align-items-baseline">
+          <h5 class="page subhd2 mb-0"><a class="contact-faa affiliate-icon" href="https://fineartamerica.com/profiles/anne-katzeff/shop">&emsp;</a>
+          <h5 class="page subhd2 mb-0"><a href="https://fineartamerica.com/profiles/anne-katzeff/shop">Fine Art America </a></h5> 
+          <p class="mb-0">- Online shop for Anne's art.</p>
           </div>
            
           <div class="page-header-group">
@@ -228,8 +229,6 @@ I’ve been fortunate to live life loving what I do: designing websites and crea
           <h5 class="page subhd2"><a href="https://www.youtube.com/user/askdesign2"><i class="fa-brands fa-youtube affiliate-icon"></i>Youtube </a></h5> 
           <p>- Video tutorials and joyful experiences.</p>
           </div>
-
-
 
 
 				</div><!-- end column right -->

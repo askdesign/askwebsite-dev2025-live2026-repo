@@ -650,6 +650,24 @@ ul.float-start-img {
   font-size: 1em; /* Adjust font size as needed */
 }
 
+.contact-faa {
+  background: url('../images/images-common/faa-logo-240-2025-linkcolor.png') no-repeat;
+  background-size: 100%;
+  background-position: center center;
+  margin-right:22px;
+}
+
+.contact-faa:hover {
+  background: url('../images/images-common/faa-logo-240-2025-bs-gray-700.png') no-repeat;
+  background-size: 100%;
+  background-position: center center;
+  margin-right:22px;
+}
+
+a.contact-faa {
+  text-decoration: none;
+}
+
 .page.lead {
   font-size: 24px;
   font-family: var(--bs-font-sans-serif);
