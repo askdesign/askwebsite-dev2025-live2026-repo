@@ -9,15 +9,19 @@ Sign up to get periodic updates on Anne's design and art adventures, and receive
     <form action="https://askdesign.us7.list-manage.com/subscribe/post?u=65a02b0a6ef9c3ca16e54dbf8&amp;id=66d1864e53&amp;f_id=00ca45e4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
         <div id="mc_embed_signup_scroll">
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+
             <div class="mc-field-group">
               <p><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label></br>
               <input type="email" name="EMAIL" class="form-control required email" id="mce-EMAIL" required="" value=""></p></div>
+
             <div class="mc-field-group">
               <p><label for="mce-FNAME">First Name <span class="asterisk">*</span></label></br>
               <input type="text" name="FNAME" class="form-control required text" id="mce-FNAME" required="" value=""></p></div>
+
             <div class="mc-field-group">
               <p><label for="mce-LNAME">Last Name <span class="asterisk">*</span></label></br>
               <input type="text" name="LNAME" class="form-control required text" id="mce-LNAME" required="" value=""></p></div>
+              
             <div class="mc-field-group">
               <p>I'd like to subscribe to: </p>
               <ul class="mc input-group">

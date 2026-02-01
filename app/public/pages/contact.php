@@ -164,12 +164,12 @@ I’ve been fortunate to live life loving what I do: designing websites and crea
           </p>
 
           <div class="page-header-group">
-          <h5 class="page subhd2"><i class="fa-solid fa-envelope affiliate-icon"></i><a href="https://www.siteground.com/web-hosting.htm?afimagecode=ac4a791d0fe887905b14d16fdac590f2">Siteground</a></h5> 
+          <h5 class="page subhd2"><a href="https://www.siteground.com/web-hosting.htm?afimagecode=ac4a791d0fe887905b14d16fdac590f2">Siteground</a></h5> 
           <p>- web hosting</p>
           </div>
 
           <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.amazon.com/Best-Sellers-Software-Graphics/zgbs/software/229614/ref=as_li_ss_tl?&adid=0J3TAYZZ3JKXAH99AMCA&&ref-refURL=http://www.askdesign.biz/blog/&linkCode=sl2&tag=httpwwwaskdes-20&linkId=0ad7023aa2c868d943b8b5d5949fc38f"><i class="fa-brands fa-amazon affiliate-icon"></i>Amazon</a></h5> 
+          <h5 class="page subhd2"><a href="https://amzn.to/4thYLhI">Amazon</a></h5> 
           <p>- online purchases</p>
           </div>
 
