@@ -4,7 +4,7 @@
 
           <h3 class="contact-form-hd text-center">Contact Me</h3>
 
-        <!-- TEST MC contact form -->
+        <!-- TEST of MC contact form -->
 
   
 <div id="mc_embed_signup_c">

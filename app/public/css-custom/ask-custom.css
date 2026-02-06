@@ -503,6 +503,7 @@ ul.float-start-img {
     padding: 1.25rem var(--bs-dropdown-header-padding-x) .75rem;
     font-size: 0.75rem;
     text-transform: uppercase;
+    color: var(--bs-gray-600);
 }
 
 .dropdown-header.divider {
@@ -526,6 +527,10 @@ ul.float-start-img {
   background-color: var(--bs-gray-100);
 }
 
+.dropdown-item.active, .dropdown-item:active {
+  color: var(--bs-dropdown-link-active-color);
+  background-color: var(--bs-gray-600);
+}
 
 
 /* --- CTA --- */

@@ -85,11 +85,11 @@
         <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="portgd-rec.php" data-bs-toggle="dropdown" aria-expanded="false">Portfolio</a>
                 <ul class="dropdown-menu">
                   <li class="dropdown-header">Design</li>
-                  <li><a class="dropdown-item" href="pages/portgd-rec.php">Recent</a></li>
-                  <li><a class="dropdown-item" href="pages/portgd-arch.php">Archives</a></li>
+                  <li><a class="dropdown-item" href="portgd-rec.php">Recent</a></li>
+                  <li><a class="dropdown-item" href="portgd-arch.php">Archives</a></li>
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
-                  <li><a class="dropdown-item" href="#">Recent</a></li>
+                  <li><a class="dropdown-item" href="portart-rec.php">Recent</a></li>
                   <li><a class="dropdown-item" href="#">Archives</a></li>
                 </ul>
         </li>
@@ -103,7 +103,7 @@
                   <li><a class="dropdown-item" href="shop-cat-tees.php">Tees</a></li>
                   <li><a class="dropdown-item" href="shop-cat-sold.php">Sold/NFS</a></li>
                   <li class="dropdown-header divider"></li>
-                  <li><a class="dropdown-item" href="pages/shop-order.php">Order</a></li>
+                  <li><a class="dropdown-item" href="shop-order.php">Order</a></li>
                 </ul>
         </li>
 
@@ -128,7 +128,7 @@
 I’ve been fortunate to live life loving what I do: designing websites and creating artwork. It also brings me special joy to teach and write about design and art. Reach out and let’s get the conversation started!</p>
 
       <p class="page lead">
-<span class="page lead subhd2">Need a website? </span> I’ve honed my skills and keep my creative juices flowing through play, exercise, reading, music, art, and more. I work in 2 platforms: WordPress (my specialty) and Bootstrap. If you want to control and edit the content yourself, I’ll use  WordPress, which is a Content-Management System (CMS). Otherwise, I’ll build with Bootstrap.</p>
+<span class="page lead subhd2">Need a website? </span> I hone my skills and keep my creative juices flowing through play, exercise, reading, music, art, and more. I work in 2 platforms: WordPress (my specialty) and Bootstrap. If you want to control and edit the content yourself, I’ll use  WordPress, which is a Content-Management System (CMS). Otherwise, I’ll build with Bootstrap.</p>
       <p class="page lead">
 <span class="page lead subhd2">Interested in my artwork? </span>Landscapes and flowers capture my imagination. I enjoy painting outdoors, en plein air, where I can breath in the scene and listen to the birds. My mediums are pastels, acrylics, and watercolors. I am open to interview requests and welcome inquiries about art I’ve completed.</p>
       <p class="page lead">
@@ -160,12 +160,17 @@ I’ve been fortunate to live life loving what I do: designing websites and crea
 				<div class="col-xl-6 col-lg-12 border-right">
 
 				  <h4 class="page subhd">AFFILIATE PARTNERS</h4>
-					<p>During the past several years, I've had the pleasure of working with many terrific individuals and companies. My recommendations are based on services and products I know and trust. I receive compensation when you purchase a service or product via the links on this website.
+					<p>I receive compensation when you purchase a service or product via the links on this website.
           </p>
 
           <div class="page-header-group">
           <h5 class="page subhd2"><a href="https://www.siteground.com/web-hosting.htm?afimagecode=ac4a791d0fe887905b14d16fdac590f2">Siteground</a></h5> 
-          <p>- web hosting</p>
+          <p>- shared web hosting</p>
+          </div>
+
+          <div class="page-header-group">
+          <h5 class="page subhd2"><a href="https://wpengine.com/">WP Engine</a></h5> 
+          <p>- managed web hosting - Affiliate link to come</p>
           </div>
 
           <div class="page-header-group">
@@ -186,7 +191,7 @@ I’ve been fortunate to live life loving what I do: designing websites and crea
 
           <div class="page-header-group">
           <h5 class="page subhd2"><a href="https://askdesign.biz/blog"><i class="fa-solid fa-keyboard affiliate-icon"></i>Blog </a></h5> 
-          <p>- Anne's design and art adventures, and educational content.</p>
+          <p>- Anne's design and art adventures, as well as educational content.</p>
           </div>
 
           <div class="page-header-group">
