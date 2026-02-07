@@ -130,7 +130,7 @@
           <h3 class="page lead subhd">Recent Design Work</h3>
           <p class="page lead">
 These are samples of my recent web design and graphic design work.</p>
-<p><em>NOTE: click on the thumbnail image to see an enlarged slideshow!</em>
+<p><em>NOTE: click on the thumbnail image to see it enlarged in a slideshow!</em>
 </p>
     </section><!-- end of page title lead area -->
 
@@ -142,13 +142,16 @@ These are samples of my recent web design and graphic design work.</p>
         "thumbnailWidth": "400",
         "thumbnailHeight": "400",
         "thumbnailLabel": {
-          "position": "overImageOnBottom"
+          "position": "OnBottom",
+          "displayDescription": true,
+          "descriptionMultiLine": true
         },
+        "allowHTMLinData": true,
         "thumbnailAlignment": "justified",
         "thumbnailOpenImage": true
       }'>
 	<!-- ### gallery content ### -->
-      <a href="2025sps-website.jpg" data-ngthumb="" data-ngdesc="">SPS</a>
+      <a href="2025sps-website.jpg" data-ngthumb="" data-ngdesc="WEB DESIGN - Skin Perfect Spas: site had previously used a custom theme built in 2017. Long overdue for an update, we rebuilt the site with all new content (including optimized images) and a Kadence theme. Streamlined the navigation, conformed to accessibility guidelines, and improved overall performance, functionality, security, and SEO. https://skinperfectspas.com/" data-ngtags="web-design">SPS</a>
       <a href="2025larainearmenti-website.jpg" data-ngthumb="" data-ngdesc="" width="400" height="400">LArmenti</a>
       <a href="2024mondorocco-website.jpg" data-ngthumb="" data-ngdesc="" width="400" height="400">MondoRocco</a>
   </section>
