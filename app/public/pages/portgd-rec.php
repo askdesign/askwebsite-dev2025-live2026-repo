@@ -34,6 +34,13 @@
     </script>
   	<!-- end of Global site tag (gtag.js) - Google Analytics GA4 -->
 
+    <!-- nanogallery2 required scripts -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+
+    <link href="https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/jquery.nanogallery2.min.js"></script>
+
+
     <title>ASK Design | Contact</title>
   </head>
 
@@ -128,13 +135,30 @@ These are samples of my recent web design and graphic design work.</p>
     </section><!-- end of page title lead area -->
 
     <section class="content"><!-- columns -->
-			<div class="row">
-				<!-- column left -->
+
+
+  <section id="my_nanogallery2" data-nanogallery2='{
+        "itemsBaseURL": "http://askwebsite-dev2025.local/gallery/images/portgd/",
+        "thumbnailWidth": "400",
+        "thumbnailHeight": "400",
+        "thumbnailLabel": {
+          "position": "overImageOnBottom"
+        },
+        "thumbnailAlignment": "justified",
+        "thumbnailOpenImage": true
+      }'>
+	<!-- ### gallery content ### -->
+      <a href="2025sps-website.jpg" data-ngthumb="" data-ngdesc="">SPS</a>
+      <a href="2025larainearmenti-website.jpg" data-ngthumb="" data-ngdesc="" width="400" height="400">LArmenti</a>
+      <a href="2024mondorocco-website.jpg" data-ngthumb="" data-ngdesc="" width="400" height="400">MondoRocco</a>
+  </section>
 
 
 
 
-      </div><!-- end of row -->
+
+
+
 	  </section><!-- end of content-->
     
   </div><!-- end of container -->
