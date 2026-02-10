@@ -34,6 +34,13 @@
     </script>
   	<!-- end of Global site tag (gtag.js) - Google Analytics GA4 -->
 
+    <!-- nanogallery2 required scripts -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+
+    <link href="https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/jquery.nanogallery2.min.js"></script>
+
+
     <title>ASK Design | Contact</title>
   </head>
 
@@ -82,10 +89,10 @@
         <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
         <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
 
-        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="portgd-rec.php" data-bs-toggle="dropdown" aria-expanded="false">Portfolio</a>
+        <li class="nav-item dropdown"><a class="nav-link active dropdown-toggle" href="portgd-rec.php" data-bs-toggle="dropdown" aria-expanded="false">Portfolio</a>
                 <ul class="dropdown-menu">
                   <li class="dropdown-header">Design</li>
-                  <li><a class="dropdown-item" href="portgd-rec.php">Recent</a></li>
+                  <li><a class="dropdown-item active" href="portgd-rec.php">Recent</a></li>
                   <li><a class="dropdown-item" href="portgd-arch.php">Archives</a></li>
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
@@ -108,7 +115,7 @@
         </li>
 
         <li class="nav-item"><a class="nav-link" href="https:www.askdesign.biz/blog">Blog</a></li>
-        <li class="nav-item"><a class="nav-link active last" aria-current="page" href="#">Contact</a></li>
+        <li class="nav-item"><a class="nav-link last" href="contact.php">Contact</a></li>
     </ul>
     </div>
   </div>
@@ -117,130 +124,25 @@
 
 <!-- main -->
 <main>
-    <div class="container-xxl">
+  <div class="container-xxl">
     <section class="page-title-lead">   
-      <h2 class="page-title">Contact</h2>
-      <div class="row">
-				<!-- column left -->
-        <div class="col-xl-6 col-lg-12 border-right">
-      <h3 class="page lead subhd">GET IN TOUCH!</h3>
-      <p class="page lead">
-I’ve been fortunate to live life loving what I do: designing websites and creating artwork. It also brings me special joy to teach and write about design and art. Reach out and let’s get the conversation started!</p>
-
-      <p class="page lead">
-<span class="page lead subhd2">Need a website? </span> I hone my skills and keep my creative juices flowing through play, exercise, reading, music, art, and more. I work in 2 platforms: WordPress (my specialty) and Bootstrap. If you want to control and edit the content yourself, I’ll use  WordPress, which is a Content-Management System (CMS). Otherwise, I’ll build with Bootstrap.</p>
-      <p class="page lead">
-<span class="page lead subhd2">Interested in my artwork? </span>Landscapes and flowers capture my imagination. I enjoy painting outdoors, en plein air, where I can breath in the scene and listen to the birds. My mediums are pastels, acrylics, and watercolors. I am open to interview requests and welcome inquiries about art I’ve completed.</p>
-      <p class="page lead">
-<span class="page lead subhd2">Looking for a speaker? </span>I am available for workshops, classes, podcasts, and WordPress MeetUps. </p>
-      <p class="page lead">
-<span class="page lead subhd2">Questions? </span>Do you have questions about web design and/or art? Are you stuck on something and need some help? Questions feed my blog topics. Keep them coming!</p>
-
-        </div><!-- end of col left -->
-
-				<!-- column right | CONTACT FORM -->
-        <div class="col-xl-6 col-lg-12">
-
-
-      <?php 
-      include '../includes/contact-mc.inc.php'; 
-      ?> 
-
-        </div><!-- end of col right -->
-
-
-      </div><!-- end of row -->
-
-
+          <h2 class="page-title">Portfolio - Design - Nanogallery</h2>
+          <h3 class="page lead subhd">Recent Design Work</h3>
+          <p class="page lead">
+These are samples of my recent web design and graphic design work.</p>
+<p><em>NOTE: click on the thumbnail image to see it enlarged in a slideshow!</em>
+</p>
     </section><!-- end of page title lead area -->
 
     <section class="content"><!-- columns -->
-			<div class="row">
-				<!-- column left -->
-				<div class="col-xl-6 col-lg-12 border-right">
 
-				  <h4 class="page subhd">AFFILIATE PARTNERS</h4>
-					<p>I receive compensation when you purchase a service or product via the links on this website.
-          </p>
+      <?php 
+      include '../includes/nanogallery.inc.php'; 
+      ?> 
 
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.siteground.com/web-hosting.htm?afimagecode=ac4a791d0fe887905b14d16fdac590f2">Siteground</a></h5> 
-          <p>- shared web hosting</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.wqwln8trk.com/CBMZSN6ST/724Q1H9KF/">WP Engine</a></h5> 
-          <p>- managed web hosting</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://amzn.to/4thYLhI">Amazon</a></h5> 
-          <p>- online purchases</p>
-          </div>
-
-				</div><!-- end column left -->
-
-				<!-- column right -->
-				<div class="col-xl-6 col-lg-12">
-				  <h4 class="page subhd">CONNECT AND SHARE</h4>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="mailto:anne@askdesign.biz"><i class="fa-solid fa-envelope affiliate-icon"></i>Reach out</a></h5> 
-          <p>to me via email.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://askdesign.biz/blog"><i class="fa-solid fa-keyboard affiliate-icon"></i>Blog </a></h5> 
-          <p>- Anne's design and art adventures, as well as educational content.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.askdesign.biz/blog/feed"><i class="fa-solid fa-rss affiliate-icon"></i>RSS Feed </a></h5> 
-          <p>- Another way to access my Blog.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://bsky.app/profile/askdesign.bsky.social"><i class="fa-brands fa-bluesky affiliate-icon"></i>Bluesky </a></h5> 
-          <p>- Sharing of art, design, and thoughts on life.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.facebook.com/ASKDesign"><i class="fa-brands fa-facebook-f affiliate-icon"></i>Facebook </a></h5> 
-          <p>- Personal and professional sharing.</p>
-          </div>
-
-          <div class="page-header-group gap-1 d-flex align-items-baseline">
-          <h5 class="page subhd2 mb-0"><a class="contact-faa affiliate-icon" href="https://fineartamerica.com/profiles/anne-katzeff/shop">&emsp;</a>
-          <h5 class="page subhd2 mb-0"><a href="https://fineartamerica.com/profiles/anne-katzeff/shop">Fine Art America </a></h5> 
-          <p class="mb-0">- Online shop for Anne's art.</p>
-          </div>
-           
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://github.com/askdesign"><i class="fa-brands fa-github affiliate-icon"></i>Github </a></h5> 
-          <p>- Web design and development code.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.instagram.com/annekatzeff_askdesign/n"><i class="fa-brands fa-instagram affiliate-icon"></i>Instagram </a></h5> 
-          <p>- Online shop for Anne's art.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.pinterest.com/annekatzeff/"><i class="fa-brands fa-pinterest affiliate-icon"></i>Pinterest </a></h5> 
-          <p>- Design inspirations and brainstorms.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.youtube.com/user/askdesign2"><i class="fa-brands fa-youtube affiliate-icon"></i>Youtube </a></h5> 
-          <p>- Video tutorials and joyful experiences.</p>
-          </div>
-
-
-				</div><!-- end column right -->
-
-      </div><!-- end of row -->
-	  </section><!-- end of content columns-->
-    </div><!-- end of container -->
+	  </section><!-- end of content-->
+    
+  </div><!-- end of container -->
 
 </main>
 

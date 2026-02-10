@@ -787,7 +787,20 @@ ul.mc {
 /* --- Gallery Section --- */
 
 #portgd-rec {
-  max-width: 1340px;
+  max-width: 1320px;
+}
+
+.gallery-item {
+  border: 1px solid #000000;
+}
+
+.gallery-caption {
+  font-size: .85rem;
+  margin-bottom: 1.5rem;
+}
+
+.lightbox-caption {
+  background-color: #000000;
 }
 
 /* --- footer bottom --- */
