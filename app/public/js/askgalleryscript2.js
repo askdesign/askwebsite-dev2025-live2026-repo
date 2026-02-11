@@ -33,9 +33,6 @@ filtersElem.addEventListener( 'click', function( event ) {
   iso.arrange({ filter: filterValue });
 });
 
-// ask filter = data-gallery | isotope filter = data-filter
-
-
 // change is-checked class on buttons
 var buttonGroups = document.querySelectorAll('.btn-group');
 for ( var i=0, len = buttonGroups.length; i < len; i++ ) {

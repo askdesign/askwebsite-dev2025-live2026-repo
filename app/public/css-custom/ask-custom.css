@@ -794,6 +794,12 @@ ul.mc {
   border: 1px solid #000000;
 }
 
+.gallery-item-border {
+  border: 1px solid #000000;
+}
+
+
+
 .gallery-caption {
   font-size: .85rem;
   margin-bottom: 1.5rem;
