@@ -15,6 +15,7 @@
 
      <!-- Custom styles for this template -->
     <link href="../css-custom/ask-custom.css" rel="stylesheet">
+    <link href="../css-custom/ask-custom-isotope.css" rel="stylesheet">
 
     <!-- Google fonts now imported into stylesheet -->
 
@@ -133,6 +134,22 @@ These are samples of my recent web design and graphic design work.</p>
     <section class="content"><!-- content area -->
       <!-- Filtering UI -->
       <!-- Isotope Grid Container -->
+
+
+<!-- <div class="button-group filters-button-grou mb-4">
+  <button class="button is-checked" data-filter="*">show all</button>
+  <button class="button" data-filter=".web-design">wd</button>
+  <button class="button" data-filter=".graphic-design">gd</button>
+  <button class="button" data-filter=".metal">metal</button>
+  <button class="button" data-filter=".transition">transition</button>
+  <button class="button" data-filter=".alkali, .alkaline-earth">alkali and alkaline-earth</button>
+  <button class="button" data-filter=":not(.transition)">not transition</button>
+  <button class="button" data-filter=".metal:not(.transition)">metal but not transition</button>
+  <button class="button" data-filter="numberGreaterThan50">number > 50</button>
+  <button class="button" data-filter="ium">name ends with &ndash;ium</button>
+</div> -->
+
+
 <h1>Isotope - filtering</h1>
 
 <div class="btn-group filters-button-group mb-4" role="group" aria-label="Basic example">
@@ -147,6 +164,7 @@ These are samples of my recent web design and graphic design work.</p>
   <button type="button" class="btn btn-outline-primary" data-filter="ium">name ends w/ &ndash;ium</button>
 </div>
 
+
 <div class="grid">
   <div class="element-item transition metal web-design" data-category="transition">
     <h3 class="name">Mercury</h3>
@@ -154,7 +172,7 @@ These are samples of my recent web design and graphic design work.</p>
     <p class="number">80</p>
     <p class="weight">200.59</p>
   </div>
-  <div class="element-item metalloid graphic-design " data-category="metalloid">
+  <div class="element-item metalloid graphic-design" data-category="metalloid">
     <h3 class="name">Tellurium</h3>
     <p class="symbol">Te</p>
     <p class="number">52</p>
@@ -258,6 +276,7 @@ These are samples of my recent web design and graphic design work.</p>
   </div>
 </div>
 
+<div class="grid">
 
       <div class="row">
       <div class="col-xl-12 col-lg-12 col-md-12 mx-auto mb-4">
@@ -271,7 +290,7 @@ These are samples of my recent web design and graphic design work.</p>
 		<h6 class="gallery-caption text-center mt-2">Laraine Armenti</h6>
 	</a>
 
-	<a href="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-1600.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="graphic-design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART<br> Book Cover and Interior of Breast Cancer &amp; Beyond: An Unexpected Soul Path by Peggy Kornegger, available on Amazon.com! The art licensed for this cover is a watercolor painting titled Magnolia. Notecards of the art are available for purchase: https://fineartamerica.com/featured/magnolia-anne-katzeff.html">
+	<a href="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-1600.jpg" class="gallery-item graphic-design" data-toggle="lightbox" data-gallery="graphic-design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART<br> Book Cover and Interior of Breast Cancer &amp; Beyond: An Unexpected Soul Path by Peggy Kornegger, available on Amazon.com! The art licensed for this cover is a watercolor painting titled Magnolia. Notecards of the art are available for purchase: https://fineartamerica.com/featured/magnolia-anne-katzeff.html">
 		<img src="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-1600.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">Breast Cancer & Beyond</h6>
 	</a>
@@ -290,12 +309,12 @@ These are samples of my recent web design and graphic design work.</p>
 		<h6 class="gallery-caption text-center mt-2">Lesley M. Waite</h6>
 	  </a>
 
-  	<a href="../gallery/images/portgd/2024mondorocco-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - MondoRocco: </br>Overhaul of 10+ year-old website. Updated layout, code, mobile-responsiveness, navigation. Adapted branding colors, logo, and icons to current web accessibility standards and SEO. Rebuilt with WordPress. Key new features: • Created a child theme, based on the 2024 theme, using the Full Site Editor and the Create Block Theme plugin. • Wider content area. • Consolidated content on a single page. • Updated the icons. • Increased the font sizes, changed typefaces. • Installed an SSL certificate. • Optimized and used Alt text on all images. • Improved functionality, accessibility, and mobile-responsiveness. • Increased site speed. Take a look at his new website and enjoy! https://www.mondorocco.com/">
+  	<a href="../gallery/images/portgd/2024mondorocco-website.jpg" class="gallery-item web-design" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - MondoRocco: </br>Overhaul of 10+ year-old website. Updated layout, code, mobile-responsiveness, navigation. Adapted branding colors, logo, and icons to current web accessibility standards and SEO. Rebuilt with WordPress. Key new features: • Created a child theme, based on the 2024 theme, using the Full Site Editor and the Create Block Theme plugin. • Wider content area. • Consolidated content on a single page. • Updated the icons. • Increased the font sizes, changed typefaces. • Installed an SSL certificate. • Optimized and used Alt text on all images. • Improved functionality, accessibility, and mobile-responsiveness. • Increased site speed. Take a look at his new website and enjoy! https://www.mondorocco.com/">
 		<img src="../gallery/images/portgd/2024mondorocco-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">MondoRocco</h6>
 	  </a>
 
-    <a href="../gallery/images/portgd/2023janetsmithphotos-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Janet Smith Photos: </br>Website design, development, and maintenance. Updated site with more user-friendly theme; improved functionality, accessibility, and mobile-responsiveness; increased site speed. https://janetsmithphotos.com/">
+    <a href="../gallery/images/portgd/2023janetsmithphotos-website.jpg" class="gallery-item web-design" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Janet Smith Photos: </br>Website design, development, and maintenance. Updated site with more user-friendly theme; improved functionality, accessibility, and mobile-responsiveness; increased site speed. https://janetsmithphotos.com/">
 		<img src="../gallery/images/portgd/2023janetsmithphotos-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">Janet Smith Photos</h6>
 	  </a>
@@ -313,12 +332,12 @@ These are samples of my recent web design and graphic design work.</p>
 		<h6 class="gallery-caption text-center mt-2">Senator Mike Barrett</h6>
 	  </a>
 
-  	<a href="../gallery/images/portgd/2022TFord-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - TFord: </br>Client requested a fresh, new design and a parallax scroll effect on the Home page. Tools included Photoshop, Adobe XD, and Bootstrap. https://tford.com/">
+  	<a href="../gallery/images/portgd/2022TFord-website.jpg" class="gallery-item web-design" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - TFord: </br>Client requested a fresh, new design and a parallax scroll effect on the Home page. Tools included Photoshop, Adobe XD, and Bootstrap. https://tford.com/">
 		<img src="../gallery/images/portgd/2022TFord-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">TFord</h6>
 	  </a>
 
-    <a href="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-1600.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="graphic-design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART </br>Book Cover and Interior of <em>Inside the Rainbow: Soul Connection in Nature</em> by Peggy Kornegger, available on Amazon.com! The art licensed for this cover is a pastel painting titled Palm and Orchid. Notecards of the art are available for purchase: https://fineartamerica.com/featured/palm-and-orchid-anne-katzeff.html">
+    <a href="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-1600.jpg" class="gallery-item graphic-design" data-toggle="lightbox" data-gallery="graphic-design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART </br>Book Cover and Interior of <em>Inside the Rainbow: Soul Connection in Nature</em> by Peggy Kornegger, available on Amazon.com! The art licensed for this cover is a pastel painting titled Palm and Orchid. Notecards of the art are available for purchase: https://fineartamerica.com/featured/palm-and-orchid-anne-katzeff.html">
 		<img src="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-1600.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">Inside the Rainbow</h6>
 	  </a>
@@ -331,19 +350,19 @@ These are samples of my recent web design and graphic design work.</p>
       <div class="col-xl-12 col-lg-12 col-md-12 mx-auto mb-4">
       <div class="gap-4 d-md-flex align-content-center align-items-center">
 
-  	<a href="../gallery/images/portgd/2021robertdix-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Robert Dix: </br>
+  	<a href="../gallery/images/portgd/2021robertdix-website.jpg" class="gallery-item web-design" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Robert Dix: </br>
     Created website for musician on WordPress platform. Moderate customizations, consult, and maintenance.	https://robertdix.org/">
 		<img src="../gallery/images/portgd/2021robertdix-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">Robert Dix</h6>
 	  </a>
 
-  	<a href="../gallery/images/portgd/2021abbeyk-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - AbbeyK: </br>
+  	<a href="../gallery/images/portgd/2021abbeyk-website.jpg" class="gallery-item web-design" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - AbbeyK: </br>
     Updated site with more user-friendly theme; improved functionality and mobile-responsiveness; increased site speed.">
 		<img src="../gallery/images/portgd/2021abbeyk-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">AbbeyK</h6>
 	  </a>
 
-  	<a href="../gallery/images/portgd/2020barrett-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Mike Barrett: </br>
+  	<a href="../gallery/images/portgd/2020barrett-website.jpg" class="gallery-item web-design" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Mike Barrett: </br>
     Improved aesthetics, functionality, and mobile-responsiveness. https://www.barrettforstatesenate.org/">
 		<img src="../gallery/images/portgd/2020barrett-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">Barrett for State Senate</h6>
@@ -353,7 +372,7 @@ These are samples of my recent web design and graphic design work.</p>
       </div><!-- end of col -->
       </div><!-- end of row -->
 
-
+    </div>
 
 	  </section><!-- end of content -->
     
@@ -412,7 +431,7 @@ These are samples of my recent web design and graphic design work.</p>
 
     <!-- Isotope for filtering -->
     <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
-    <script src="../js/askgalleryscript.js"></script>
+    <script src="../js/askgalleryscript1.js"></script>
     
   </body>
 </html>
