@@ -132,16 +132,10 @@ These are samples of my recent web design and graphic design work.</p>
 
     <section class="content"><!-- content area -->
       <!-- Filtering UI -->
-      <div class="button-group filter-button-group">  
-        <button class="btn btn-primary is-checked" data-filter="*">show all</button>
-        <button class="btn btn-primary" data-filter=".graphic-design">graphic design</button>
-        <button class="btn btn-primary" data-filter=".web-design">web design</button>
-      </div>
-
       <!-- Isotope Grid Container -->
 <h1>Isotope - filtering</h1>
 
-<div class="btn-group filters-button-group" role="group" aria-label="Basic example">
+<div class="btn-group filters-button-group mb-4" role="group" aria-label="Basic example">
   <button type="button" class="btn btn-outline-primary is-checked" data-filter="*">all</button>
   <button type="button" class="btn btn-outline-primary" data-filter=".web-design">wd</button>
   <button type="button" class="btn btn-outline-primary" data-filter=".graphic-design">gd</button>
@@ -268,11 +262,11 @@ These are samples of my recent web design and graphic design work.</p>
       <div class="row">
       <div class="col-xl-12 col-lg-12 col-md-12 mx-auto mb-4">
       <div class="gap-4 d-md-flex align-content-center align-items-center"> 
-	<a href="../gallery/images/portgd/2025sps-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Skin Perfect Spas: </br>Site had previously used a custom theme built in 2017. Long overdue for an update, we rebuilt the site with all new content (including optimized images) and a Kadence theme. Streamlined the navigation, conformed to accessibility guidelines, and improved overall performance, functionality, security, and SEO. https://skinperfectspas.com/">
+	<a href="../gallery/images/portgd/2025sps-website.jpg" class="gallery-item web-design" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Skin Perfect Spas: </br>Site had previously used a custom theme built in 2017. Long overdue for an update, we rebuilt the site with all new content (including optimized images) and a Kadence theme. Streamlined the navigation, conformed to accessibility guidelines, and improved overall performance, functionality, security, and SEO. https://skinperfectspas.com/">
 		<img src="../gallery/images/portgd/2025sps-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">Skin Perfect Spas</h6>    </a>
 
-	<a href="../gallery/images/portgd/2025larainearmenti-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DEVELOPMENT - Laraine Armenti: <br> Site had been using a Classic theme built with the Genesis framework. When client began experiencing barriers to content and layout modifications, we decided to switch to a more current Block theme. Site was rebuilt with a Kadence theme, enhancing functionality, performance, accessibility, security, and SEO. https://www.larainearmenti.com">
+	<a href="../gallery/images/portgd/2025larainearmenti-website.jpg" class="gallery-item web-design" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DEVELOPMENT - Laraine Armenti: <br> Site had been using a Classic theme built with the Genesis framework. When client began experiencing barriers to content and layout modifications, we decided to switch to a more current Block theme. Site was rebuilt with a Kadence theme, enhancing functionality, performance, accessibility, security, and SEO. https://www.larainearmenti.com">
 		<img src="../gallery/images/portgd/2025larainearmenti-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">Laraine Armenti</h6>
 	</a>

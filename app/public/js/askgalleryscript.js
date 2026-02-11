@@ -1,20 +1,3 @@
-/* // init Isotope
-var $grid = $('.grid').isotope({
-  itemSelector: '.element-item',
-  layoutMode: 'fitRows'
-});
-// filter items on button click
-$('.filter-button-group').on( 'click', 'button', function() {
-  var filterValue = $( this ).attr('data-filter');
-  // show all items
-  $grid.isotope({ filter: '*' });
-  // filter .web-design
-  $grid.isotope({ filter: '.web-design' });
-  // filter .graphic-design
-  $grid.isotope({ filter: '.graphic-design' });
-});
- */
-
 // external js: isotope.pkgd.js
 
 // init Isotope
@@ -49,6 +32,9 @@ filtersElem.addEventListener( 'click', function( event ) {
   filterValue = filterFns[ filterValue ] || filterValue;
   iso.arrange({ filter: filterValue });
 });
+
+// ask filter = data-gallery | isotope filter = data-filter
+
 
 // change is-checked class on buttons
 var buttonGroups = document.querySelectorAll('.button-group');
