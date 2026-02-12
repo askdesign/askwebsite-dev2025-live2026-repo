@@ -15,6 +15,7 @@
 
      <!-- Custom styles for this template -->
     <link href="../css-custom/ask-custom.css" rel="stylesheet">
+    <link href="../css-custom/ask-custom-isotope.css" rel="stylesheet">
 
     <!-- Google fonts now imported into stylesheet -->
 
@@ -128,107 +129,113 @@
 These are samples of my recent web design and graphic design work.</p>
 <p><em>NOTE: click on the thumbnail image to see it enlarged in a slideshow!</em>
 </p>
-    </section><!-- end of page title lead area -->
 
-    <section class="content"><!-- content area - gallery -->
+    <section class="content"><!-- content area -->
+      <!-- Filtering UI -->
+      <!-- Isotope Grid Container -->
+<div class="btn-group filters-button-group mb-4" role="group" aria-label="Basic example">
+  <button type="button" class="btn btn-outline-primary is-checked" data-filter="*">all</button>
+  <button type="button" class="btn btn-outline-primary" data-filter=".web-design">web design</button>
+  <button type="button" class="btn btn-outline-primary" data-filter=".graphic-design">graphic design</button>
+</div>
 
-      <div class="row">
-      <div class="col-xl-12 col-lg-12 col-md-12 mx-auto mb-4">
-      <div class="gap-4 d-md-flex align-content-center align-items-center"> 
-	<a href="../gallery/images/portgd/2025sps-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Skin Perfect Spas: </br>Site had previously used a custom theme built in 2017. Long overdue for an update, we rebuilt the site with all new content (including optimized images) and a Kadence theme. Streamlined the navigation, conformed to accessibility guidelines, and improved overall performance, functionality, security, and SEO. https://skinperfectspas.com/">
-		<img src="../gallery/images/portgd/2025sps-website.jpg" class="img-fluid">
+<div class="gallery">
+
+
+      <div class="row mb-4">
+      <div class="col-md-4 gallery-item web-design">
+    <a href="../gallery/images/portgd/2025sps-website.jpg" class="" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Skin Perfect Spas: </br>Site had previously used a custom theme built in 2017. Long overdue for an update, we rebuilt the site with all new content (including optimized images) and a Kadence theme. Streamlined the navigation, conformed to accessibility guidelines, and improved overall performance, functionality, security, and SEO. https://skinperfectspas.com/">
+		<img src="../gallery/images/portgd/2025sps-website.jpg" class="img-fluid" width="1600">
 		<h6 class="gallery-caption text-center mt-2">Skin Perfect Spas</h6>    </a>
+    </div>
 
-	<a href="../gallery/images/portgd/2025larainearmenti-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DEVELOPMENT - Laraine Armenti: <br> Site had been using a Classic theme built with the Genesis framework. When client began experiencing barriers to content and layout modifications, we decided to switch to a more current Block theme. Site was rebuilt with a Kadence theme, enhancing functionality, performance, accessibility, security, and SEO. https://www.larainearmenti.com">
-		<img src="../gallery/images/portgd/2025larainearmenti-website.jpg" class="img-fluid">
+      <div class="col-md-4 mb-4 gallery-item web-design">
+	<a href="../gallery/images/portgd/2025larainearmenti-website.jpg" class="" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DEVELOPMENT - Laraine Armenti: <br> Site had been using a Classic theme built with the Genesis framework. When client began experiencing barriers to content and layout modifications, we decided to switch to a more current Block theme. Site was rebuilt with a Kadence theme, enhancing functionality, performance, accessibility, security, and SEO. https://www.larainearmenti.com">
+		<img src="../gallery/images/portgd/2025larainearmenti-website.jpg" class="img-fluid" alt="LArmenti">
 		<h6 class="gallery-caption text-center mt-2">Laraine Armenti</h6>
 	</a>
+  </div>
 
-	<a href="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-1600.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="graphic-design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART<br> Book Cover and Interior of Breast Cancer &amp; Beyond: An Unexpected Soul Path by Peggy Kornegger, available on Amazon.com! The art licensed for this cover is a watercolor painting titled Magnolia. Notecards of the art are available for purchase: https://fineartamerica.com/featured/magnolia-anne-katzeff.html">
-		<img src="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-1600.jpg" class="img-fluid">
+      <div class="col-md-4 mb-4 gallery-item graphic-design">
+	<a href="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="graphic-design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART<br> Book Cover and Interior of Breast Cancer &amp; Beyond: An Unexpected Soul Path by Peggy Kornegger, available on Amazon.com! The art licensed for this cover is a watercolor painting titled Magnolia. Notecards of the art are available for purchase: https://fineartamerica.com/featured/magnolia-anne-katzeff.html">
+		<img src="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-1600.jpg" class="img-fluid" alt="BreastCancerandBeyond">
 		<h6 class="gallery-caption text-center mt-2">Breast Cancer & Beyond</h6>
 	</a>
-
-      </div><!-- end of gap -->
-      </div><!-- end of col -->
+  </div><!-- end of col -->
       </div><!-- end of row -->
 
-      <div class="row">
-      <div class="col-xl-12 col-lg-12 col-md-12 mx-auto mb-4">
-      <div class="gap-4 d-md-flex align-content-center align-items-center">
 
-  	<a href="../gallery/images/portgd/2024lesleymwaite-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Lesley M. Waite: </br>Moderate modifications to a Squarespace site. Primary goal was to make it look more like an author's website, showcasing Lesley's books and providing some Calls to Action. <br>
+
+      <div class="row mb-4">
+      <div class="col-md-4 mb-4 gallery-item web-design">
+
+  	<a href="../gallery/images/portgd/2024lesleymwaite-website.jpg" class="" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Lesley M. Waite: </br>Moderate modifications to a Squarespace site. Primary goal was to make it look more like an author's website, showcasing Lesley's books and providing some Calls to Action. <br>
 		Key changes: • Improved layout • New content: pages, images, CTA, Instagram feed. • Widened content area. • Placed social media icons in more prominent positions. • Adjusted navigation. Take a look at her website and enjoy! https://www.lesleymwaite.com/">
 		<img src="../gallery/images/portgd/2024lesleymwaite-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">Lesley M. Waite</h6>
-	  </a>
+	  </a></div>
 
-  	<a href="../gallery/images/portgd/2024mondorocco-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - MondoRocco: </br>Overhaul of 10+ year-old website. Updated layout, code, mobile-responsiveness, navigation. Adapted branding colors, logo, and icons to current web accessibility standards and SEO. Rebuilt with WordPress. Key new features: • Created a child theme, based on the 2024 theme, using the Full Site Editor and the Create Block Theme plugin. • Wider content area. • Consolidated content on a single page. • Updated the icons. • Increased the font sizes, changed typefaces. • Installed an SSL certificate. • Optimized and used Alt text on all images. • Improved functionality, accessibility, and mobile-responsiveness. • Increased site speed. Take a look at his new website and enjoy! https://www.mondorocco.com/">
+    <div class="col-md-4 mb-4 gallery-item web-design">
+  	<a href="../gallery/images/portgd/2024mondorocco-website.jpg" class="" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - MondoRocco: </br>Overhaul of 10+ year-old website. Updated layout, code, mobile-responsiveness, navigation. Adapted branding colors, logo, and icons to current web accessibility standards and SEO. Rebuilt with WordPress. Key new features: • Created a child theme, based on the 2024 theme, using the Full Site Editor and the Create Block Theme plugin. • Wider content area. • Consolidated content on a single page. • Updated the icons. • Increased the font sizes, changed typefaces. • Installed an SSL certificate. • Optimized and used Alt text on all images. • Improved functionality, accessibility, and mobile-responsiveness. • Increased site speed. Take a look at his new website and enjoy! https://www.mondorocco.com/">
 		<img src="../gallery/images/portgd/2024mondorocco-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">MondoRocco</h6>
-	  </a>
+	  </a></div>
 
-    <a href="../gallery/images/portgd/2023janetsmithphotos-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Janet Smith Photos: </br>Website design, development, and maintenance. Updated site with more user-friendly theme; improved functionality, accessibility, and mobile-responsiveness; increased site speed. https://janetsmithphotos.com/">
+    <div class="col-md-4 mb-4 gallery-item web-design">
+    <a href="../gallery/images/portgd/2023janetsmithphotos-website.jpg" class="" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Janet Smith Photos: </br>Website design, development, and maintenance. Updated site with more user-friendly theme; improved functionality, accessibility, and mobile-responsiveness; increased site speed. https://janetsmithphotos.com/">
 		<img src="../gallery/images/portgd/2023janetsmithphotos-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">Janet Smith Photos</h6>
-	  </a>
+	  </a></div>
 
-      </div><!-- end of gap -->
-      </div><!-- end of col -->
       </div><!-- end of row -->
 
       <div class="row">
-      <div class="col-xl-12 col-lg-12 col-md-12 mx-auto mb-4">
-      <div class="gap-4 d-md-flex align-content-center align-items-center">
+      <div class="col-md-4 mb-4 gallery-item web-design">
 
-  	<a href="../gallery/images/portgd/2023SenatorMikeBarrett-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DEVELOPMENT - Senator Mike Barrett: </br>Site evaluation, consult, and update: clean up plugins area, optimize images, improve functionality, configure Google Analytics. https://senatormikebarrett.com/">
+  	<a href="../gallery/images/portgd/2023SenatorMikeBarrett-website.jpg" class="" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DEVELOPMENT - Senator Mike Barrett: </br>Site evaluation, consult, and update: clean up plugins area, optimize images, improve functionality, configure Google Analytics. https://senatormikebarrett.com/">
 		<img src="../gallery/images/portgd/2023SenatorMikeBarrett-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">Senator Mike Barrett</h6>
-	  </a>
+	  </a></div>
 
-  	<a href="../gallery/images/portgd/2022TFord-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - TFord: </br>Client requested a fresh, new design and a parallax scroll effect on the Home page. Tools included Photoshop, Adobe XD, and Bootstrap. https://tford.com/">
+      <div class="col-md-4 mb-4 gallery-item web-design">
+  	<a href="../gallery/images/portgd/2022TFord-website.jpg" class="" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - TFord: </br>Client requested a fresh, new design and a parallax scroll effect on the Home page. Tools included Photoshop, Adobe XD, and Bootstrap. https://tford.com/">
 		<img src="../gallery/images/portgd/2022TFord-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">TFord</h6>
-	  </a>
+	  </a></div>
 
-    <a href="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-1600.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="graphic-design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART </br>Book Cover and Interior of <em>Inside the Rainbow: Soul Connection in Nature</em> by Peggy Kornegger, available on Amazon.com! The art licensed for this cover is a pastel painting titled Palm and Orchid. Notecards of the art are available for purchase: https://fineartamerica.com/featured/palm-and-orchid-anne-katzeff.html">
+      <div class="col-md-4 mb-4 gallery-item graphic-design">
+    <a href="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="graphic-design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART </br>Book Cover and Interior of <em>Inside the Rainbow: Soul Connection in Nature</em> by Peggy Kornegger, available on Amazon.com! The art licensed for this cover is a pastel painting titled Palm and Orchid. Notecards of the art are available for purchase: https://fineartamerica.com/featured/palm-and-orchid-anne-katzeff.html">
 		<img src="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-1600.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">Inside the Rainbow</h6>
-	  </a>
+	  </a></div>
 
-      </div><!-- end of gap -->
-      </div><!-- end of col -->
       </div><!-- end of row -->
 
       <div class="row">
-      <div class="col-xl-12 col-lg-12 col-md-12 mx-auto mb-4">
-      <div class="gap-4 d-md-flex align-content-center align-items-center">
-
-  	<a href="../gallery/images/portgd/2021robertdix-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Robert Dix: </br>
+      <div class="col-md-4 mb-4 gallery-item web-design">
+  	<a href="../gallery/images/portgd/2021robertdix-website.jpg" class="" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Robert Dix: </br>
     Created website for musician on WordPress platform. Moderate customizations, consult, and maintenance.	https://robertdix.org/">
 		<img src="../gallery/images/portgd/2021robertdix-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">Robert Dix</h6>
-	  </a>
+	  </a></div>
 
-  	<a href="../gallery/images/portgd/2021abbeyk-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - AbbeyK: </br>
+      <div class="col-md-4 mb-4 gallery-item web-design">
+  	<a href="../gallery/images/portgd/2021abbeyk-website.jpg" class="" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - AbbeyK: </br>
     Updated site with more user-friendly theme; improved functionality and mobile-responsiveness; increased site speed.">
 		<img src="../gallery/images/portgd/2021abbeyk-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">AbbeyK</h6>
-	  </a>
+	  </a></div>
 
-  	<a href="../gallery/images/portgd/2020barrett-website.jpg" class="gallery-item" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Mike Barrett: </br>
+      <div class="col-md-4 mb-4 gallery-item web-design">
+  	<a href="../gallery/images/portgd/2020barrett-website.jpg" class="" data-toggle="lightbox" data-gallery="web-design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Mike Barrett: </br>
     Improved aesthetics, functionality, and mobile-responsiveness. https://www.barrettforstatesenate.org/">
 		<img src="../gallery/images/portgd/2020barrett-website.jpg" class="img-fluid">
 		<h6 class="gallery-caption text-center mt-2">Barrett for State Senate</h6>
-	  </a>
+	  </a></div>
 
-      </div><!-- end of gap -->
-      </div><!-- end of col -->
       </div><!-- end of row -->
 
-
-
-	  </section><!-- end of content area - gallery -->
+    </div><!-- end of gallery -->
     
   </div><!-- end of container -->
 
@@ -282,6 +289,10 @@ These are samples of my recent web design and graphic design work.</p>
     
     <!-- BS Lightbox required scripts -->
     <script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.5/dist/index.bundle.min.js"></script>
-    
+
+    <!-- Isotope for filtering -->
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
+    <script src="../js/askgalleryscript2.js"></script>
+
   </body>
 </html>
