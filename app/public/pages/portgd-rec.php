@@ -133,7 +133,7 @@
     <section class="content"><!-- content area -->
       <!-- Filtering UI -->
       <!-- Isotope Grid Container -->
-      <div class="btn-group filters-button-group mb-4" role="group" aria-label="Basic example">
+      <div class="btn-group filters-button-group mb-4" role="group" aria-label="Design filters">
         <button type="button" class="btn btn-outline-primary is-checked" data-filter="*">all</button>
         <button type="button" class="btn btn-outline-primary" data-filter=".web-design">web design</button>
         <button type="button" class="btn btn-outline-primary" data-filter=".graphic-design">graphic design</button>
