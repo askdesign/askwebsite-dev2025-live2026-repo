@@ -122,7 +122,6 @@
 <!-- main -->
 <main>
   <div class="container-xxl">
-
     <section class="page-title-lead">   
           <h2 class="page-title">Portfolio - Design</h2>
           <h3 class="page lead subhd">Recent Design Work</h3>
@@ -323,11 +322,10 @@
       </div><!-- end of row -->
 
 
-    </div><!-- end of gallery -->
+   </div><!-- end of gallery -->
     
-    </section><!-- end of content -->
+   </section><!-- end of content -->
 
-  </div><!-- end of container -->
 </main><!-- end of main -->
 
 <section class="subscribe-section"><!-- subscribe -->
