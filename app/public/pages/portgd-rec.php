@@ -322,6 +322,60 @@
 
       </div><!-- end of row -->
 
+      <div class="row">
+      <div class="col-md-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd/2016pak-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Peggy Kornegger: </br>
+        Site configuration, theme settings, consult. https://spiritflower.wordpress.com/">
+		    <img src="../gallery/images/portgd/2016pak-website-thumbnail.jpg" class="img-fluid">
+		    <h6 class="gallery-caption text-center mt-2">Peggy Kornegger</h6>
+	      </a>
+      </div>
+
+      <div class="col-md-4 mb-4 gallery-item graphic-design">
+  	    <a href="../gallery/images/portgd/kornegger-loseyourmind-cover-reprint-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, ART - Peggy Kornegger: </br>
+        Cover &amp; Interior for Peggy's book &quot;Lose Your Mind, Open Your Heart&quot;, available on Amazon.com! The art licensed for this cover is a pastel painting titled &quot;Flower Symphony&quot;. Notecards are available for purchase in my Fine Art America shop.">
+		    <img src="../gallery/images/portgd/kornegger-loseyourmind-cover-reprint-ofcp-kdp-thumbnail.jpg" class="img-fluid">
+		    <h6 class="gallery-caption text-center mt-2">Peggy Kornegger</h6>
+	      </a>
+      </div>
+
+      <div class="col-md-4 mb-4 gallery-item graphic-design">
+  	    <a href="../gallery/images/portgd/010413ts-longwoodcentbklt-chap1.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Longwood Cricket Club:  </br>
+        Design production and photo retouching. Winner of N.E. Book Show Award!">
+		    <img src="../gallery/images/portgd/010413ts-longwoodcentbklt-chap1-thumbnail.jpg" class="img-fluid">
+		    <h6 class="gallery-caption text-center mt-2">Longwood Cricket Club</h6>
+	      </a>
+      </div>
+
+      </div><!-- end of row -->
+
+      <div class="row">
+      <div class="col-md-4 mb-4 gallery-item graphic-design">
+  	    <a href="../gallery/images/portgd/032812CKatzeff-websurfer.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Websurfer: </br>
+        Corporate ID (logo, business cards and signage).">
+		    <img src="../gallery/images/portgd/032812CKatzeff-websurfer-thumbnail.jpg" class="img-fluid">
+		    <h6 class="gallery-caption text-center mt-2">Websurfer</h6>
+	      </a>
+      </div>
+
+      <div class="col-md-4 mb-4 gallery-item graphic-design">
+  	    <a href="../gallery/images/portgd/092710addison-gf4e-cover-1600.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN - Tina Addison: </br>
+        Cover and Interior for Tina's cookbook &quot;Good Food For Everyone&quot;. Consultation and coordination with self-publishing vendor. Image scans, color correction, and retouching. The proceeds of sales for this cookbook go to food pantries.">
+		    <img src="../gallery/images/portgd/092710addison-gf4e-cover-thumbnail.jpg" class="img-fluid">
+		    <h6 class="gallery-caption text-center mt-2">Tina Addison</h6>
+	      </a>
+      </div>
+
+      <div class="col-md-4 mb-4 gallery-item graphic-design">
+  	    <a href="../gallery/images/portgd/kornegger-livingwithspirit-cover-reprint-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, ART - Peggy Kornegger: </br>
+        Cover &amp; Interior for Peggy's book  &quot;Living With Spirit&quot;, available on Amazon.com! The art licensed for this cover is a pastel painting titled &quot;Infinity&quot;, which is available on a notecard in my Shop: https://fineartamerica.com/featured/infinity-anne-katzeff.html">
+		    <img src="../gallery/images/portgd/kornegger-livingwithspirit-cover-reprint-ofcp-kdp-thumbnail.jpg" class="img-fluid">
+		    <h6 class="gallery-caption text-center mt-2">Peggy Kornegger</h6>
+	      </a>
+      </div>
+
+      </div><!-- end of row -->
+
 
     </div><!-- columns -->
 
