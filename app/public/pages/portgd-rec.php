@@ -139,8 +139,8 @@
         <button type="button" class="btn btn-outline-primary" data-filter=".graphic-design">graphic design</button>
       </div>
 
-    <div class="gallery">
-
+    <div class="gallery row">
+    <div class="col-md-12"><!-- columns -->
 
       <div class="row mb-4">
       <div class="col-md-4 gallery-item web-design">
@@ -323,7 +323,13 @@
       </div><!-- end of row -->
 
 
-    </div><!-- end of gallery -->
+    </div><!-- columns -->
+
+    </div><!-- end of gallery row -->
+
+
+
+
     
     </section><!-- end of content -->
 
