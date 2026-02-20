@@ -143,7 +143,7 @@
     <div class="col-12"><!-- columns -->
 
       <div class="row mb-4">
-      <div class="col-sm-4 gallery-item web-design">
+      <div class="col-sm-4 mb-4 gallery-item web-design">
         <a href="../gallery/images/portgd/2025sps-website.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Skin Perfect Spas: </br>Site had previously used a custom theme built in 2017. Long overdue for an update, we rebuilt the site with all new content (including optimized images) and a Kadence theme. Streamlined the navigation, conformed to accessibility guidelines, and improved overall performance, functionality, security, and SEO. https://skinperfectspas.com/">
 		    <img src="../gallery/images/portgd/2025sps-website-thumbnail.jpg" class="img-fluid" alt="SPS">
 		    <h6 class="gallery-caption text-center mt-2">Skin Perfect Spas</h6>    
@@ -158,14 +158,12 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
-	      <a href="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART<br> Book Cover and Interior of Breast Cancer &amp; Beyond: An Unexpected Soul Path by Peggy Kornegger, available on Amazon.com! The art licensed for this cover is a watercolor painting titled Magnolia. Notecards of the art are available for purchase: https://fineartamerica.com/featured/magnolia-anne-katzeff.html">
+	      <a href="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART - Peggy Kornegger:<br> Cover and Interior of Peggy's book &quot;Breast Cancer &amp; Beyond: An Unexpected Soul Path&quot;, available on Amazon.com! The art licensed for this cover is a watercolor painting titled &quot;Magnolia&quot;. Notecards of the art are available for purchase: https://fineartamerica.com/featured/magnolia-anne-katzeff.html">
 		    <img src="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-thumbnail.jpg" class="img-fluid" alt="Breast Cancer and Beyond">
 		    <h6 class="gallery-caption text-center mt-2">Breast Cancer & Beyond</h6>
 	      </a>
       </div><!-- end of col -->
-      </div><!-- end of row -->
 
-      <div class="row mb-4">
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd/2024lesleymwaite-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Lesley M. Waite: </br>Moderate modifications to a Squarespace site. Primary goal was to make it look more like an author's website, showcasing Lesley's books and providing some Calls to Action. <br>
 		    Key changes: • Improved layout • New content: pages, images, CTA, Instagram feed. • Widened content area. • Placed social media icons in more prominent positions. • Adjusted navigation. Take a look at her website and enjoy! https://www.lesleymwaite.com/">
@@ -188,9 +186,8 @@
 	      </a>
       </div>
 
-      </div><!-- end of row -->
+<!-- end of row -->
 
-      <div class="row">
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd/2023SenatorMikeBarrett-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Senator Mike Barrett: </br>Site evaluation, consult, and update: clean up plugins area, optimize images, improve functionality, configure Google Analytics. https://senatormikebarrett.com/">
 		    <img src="../gallery/images/portgd/2023SenatorMikeBarrett-website-thumbnail.jpg" class="img-fluid" alt="Sen. Barrett">
@@ -206,15 +203,14 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
-        <a href="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="graphic-design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART </br>Book Cover and Interior of <em>Inside the Rainbow: Soul Connection in Nature</em> by Peggy Kornegger, available on Amazon.com! The art licensed for this cover is a pastel painting titled Palm and Orchid. Notecards of the art are available for purchase: https://fineartamerica.com/featured/palm-and-orchid-anne-katzeff.html">
+        <a href="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="graphic-design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART - Peggy Kornegger: </br>Cover and Interior of Peggy's &quot;Inside the Rainbow: Soul Connection in Nature&quot;, available on Amazon.com! The art licensed for this cover is a pastel painting titled &quot;Palm and Orchid&quot;. Notecards of the art are available for purchase: https://fineartamerica.com/featured/palm-and-orchid-anne-katzeff.html">
 		    <img src="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-thumbnail.jpg" class="img-fluid" alt="Rainbow book cover">
 		    <h6 class="gallery-caption text-center mt-2">Inside the Rainbow</h6>
 	      </a>
       </div>
 
-      </div><!-- end of row -->
+<!-- end of row -->
 
-      <div class="row">
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd/2021robertdix-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Robert Dix: </br>
         Created website for musician on WordPress platform. Moderate customizations, consult, and maintenance.	https://robertdix.org/">
@@ -239,14 +235,13 @@
 	      </a>
       </div>
 
-      </div><!-- end of row -->
+<!-- end of row -->
 
-      <div class="row">
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2020kastles-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Kathleen Kastles: </br>
-        Website updates, customization, and consult.">
-		    <img src="../gallery/images/portgd/2020kastles-website-thumbnail.jpg" class="img-fluid" alt="Kastles artwork">
-		    <h6 class="gallery-caption text-center mt-2">Kathleen Kastles</h6>
+  	    <a href="../gallery/images/portgd/2020peterberry-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; CONSULTATION - Peter Berry: </br>
+        Very personal website launched on Squarespace for a dear friend who passed away in 2020 of an aggressive cancer. His death came just a few weeks after the shocking diagnosis. Our friendship began with him and Andy (his wife) over 30 years ago, all of us working together at dnh typesetting. Be sure to read his obituary, written lovingly and eloquently by Andy. It will give you some sense of all the goodness that was Peter. He was one of the most wonderful, kind men on the planet. We love you Peter. Rest in peace you beautiful soul. https://www.peterberry2020.com/">
+		    <img src="../gallery/images/portgd/2020peterberry-website-thumbnail.jpg" class="img-fluid" alt="Peter's tribute site">
+		    <h6 class="gallery-caption text-center mt-2">Peter Berry</h6>
 	      </a>
       </div>
 
@@ -266,9 +261,8 @@
 	      </a>
       </div>
 
-      </div><!-- end of row -->
+<!-- end of row -->
 
-      <div class="row">
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd/2019kwelling-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Welling Coaching and Counseling: </br>
         Website maintenance and consult. https://www.kwelling.com/">
@@ -293,9 +287,9 @@
 	      </a>
       </div>
 
-      </div><!-- end of row -->
+<!-- end of row -->
 
-      <div class="row">
+
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd/2018morse-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Helen Morse / Photographer: </br>
         Photoshelter platform customization, and maintenance. https://www.helenmorse.com">
@@ -320,9 +314,8 @@
 	      </a>
       </div>
 
-      </div><!-- end of row -->
+<!-- end of row -->
 
-      <div class="row">
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd/2016pak-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Peggy Kornegger: </br>
         Site configuration, theme settings, consult. https://spiritflower.wordpress.com/">
@@ -347,13 +340,12 @@
 	      </a>
       </div>
 
-      </div><!-- end of row -->
+<!-- end of row -->
 
-      <div class="row">
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd/032812CKatzeff-websurfer.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Websurfer: </br>
+  	    <a href="../gallery/images/portgd/2024CKatzeff-websurfer-bizcard.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Websurfer: </br>
         Corporate ID (logo, business cards and signage).">
-		    <img src="../gallery/images/portgd/032812CKatzeff-websurfer-thumbnail.jpg" class="img-fluid" alt="Carl Katzeff bizcard">
+		    <img src="../gallery/images/portgd/2024CKatzeff-websurfer-bizcard-thumbnail.jpg" class="img-fluid" alt="Carl Katzeff bizcard">
 		    <h6 class="gallery-caption text-center mt-2">Websurfer</h6>
 	      </a>
       </div>
@@ -371,6 +363,14 @@
         Cover &amp; Interior for Peggy's book  &quot;Living With Spirit&quot;, available on Amazon.com! The art licensed for this cover is a pastel painting titled &quot;Infinity&quot;, which is available on a notecard in my Shop: https://fineartamerica.com/featured/infinity-anne-katzeff.html">
 		    <img src="../gallery/images/portgd/kornegger-livingwithspirit-cover-reprint-ofcp-kdp-thumbnail.jpg" class="img-fluid" alt="Living with Spirit">
 		    <h6 class="gallery-caption text-center mt-2">Peggy Kornegger</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd/2020kastles-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Kathleen Kastles: </br>
+        Website updates, customization, and consult.">
+		    <img src="../gallery/images/portgd/2020kastles-website-thumbnail.jpg" class="img-fluid" alt="Kastles artwork">
+		    <h6 class="gallery-caption text-center mt-2">Kathleen Kastles</h6>
 	      </a>
       </div>
 
