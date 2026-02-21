@@ -210,59 +210,53 @@
 
 
 <!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2017waa-website-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMAESTRO - Watertown Art Association: <br>Website content updates, customizations, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2017waa-website.jpg" class="img-fluid" alt="WAA">
+		    <h6 class="gallery-caption text-center mt-2">Watertown Art Association</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2017onecanhelp-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMAESTRO  - One Can Help: <br>Website content updates, customizations, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2017onecanhelp-website.jpg" class="img-fluid" alt="OCH">
+		    <h6 class="gallery-caption text-center mt-2">One Can Help</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2018quietside-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Quietside Gallery: <br>Design and web consult; Squarespace configuration and tutorials. https://www.quietsidegallery.com/">
+		    <img src="../gallery/images/portgd-arch/2018quietside-website.jpg" class="img-fluid" alt="Quietside Art Gallery">
+		    <h6 class="gallery-caption text-center mt-2">Quietside Gallery</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2018taylor-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Duck Taylor: <br>Site configuration, theme settings, consult. https://ducktaylor1.wordpress.com/">
+		    <img src="../gallery/images/portgd-arch/2018taylor-website.jpg" class="img-fluid" alt="Fran Taylor writings">
+		    <h6 class="gallery-caption text-center mt-2">Duck Taylor</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2018johncnorton-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - John C. Norton: <br>Design and web consult; Squarespace configuration and tutorials.">
+		    <img src="../gallery/images/portgd-arch/2018johncnorton-website.jpg" class="img-fluid" alt="John Norton artwork">
+		    <h6 class="gallery-caption text-center mt-2">John C. Norton</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2018dustymiller-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Dusty J. Miller: <br>Website design, configuration, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2018dustymiller-website.jpg" class="img-fluid" alt="Dusty Miller writings">
+		    <h6 class="gallery-caption text-center mt-2">Dusty J. Miller</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
 <!-- RESUME FROM THIS POINT -->
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2021robertdix-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Robert Dix: </br>
-        Created website for musician on WordPress platform. Moderate customizations, consult, and maintenance.	https://robertdix.org/">
-		    <img src="../gallery/images/portgd-arch/2021robertdix-website-thumbnail.jpg" class="img-fluid" alt="Musician Dix">
-		    <h6 class="gallery-caption text-center mt-2">Robert Dix</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2021abbeyk-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - AbbeyK: </br>
-        Updated site with more user-friendly theme; improved functionality and mobile-responsiveness; increased site speed.">
-		    <img src="../gallery/images/portgd-arch/2021abbeyk-website-thumbnail.jpg" class="img-fluid" alt="Interior Designer site">
-		    <h6 class="gallery-caption text-center mt-2">AbbeyK</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2020barrett-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Mike Barrett: </br>
-        Improved aesthetics, functionality, and mobile-responsiveness. https://www.barrettforstatesenate.org/">
-		    <img src="../gallery/images/portgd-arch/2020barrett-website-thumbnail.jpg" class="img-fluid" alt="Barrett campaign site">
-		    <h6 class="gallery-caption text-center mt-2">Barrett for State Senate</h6>
-	      </a>
-      </div>
-
-<!-- end of row -->
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2020peterberry-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; CONSULTATION - Peter Berry: </br>
-        Very personal website launched on Squarespace for a dear friend who passed away in 2020 of an aggressive cancer. His death came just a few weeks after the shocking diagnosis. Our friendship began with him and Andy (his wife) over 30 years ago, all of us working together at dnh typesetting. Be sure to read his obituary, written lovingly and eloquently by Andy. It will give you some sense of all the goodness that was Peter. He was one of the most wonderful, kind men on the planet. We love you Peter. Rest in peace you beautiful soul. https://www.peterberry2020.com/">
-		    <img src="../gallery/images/portgd-arch/2020peterberry-website-thumbnail.jpg" class="img-fluid" alt="Peter's tribute site">
-		    <h6 class="gallery-caption text-center mt-2">Peter Berry</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2020alarmenti-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Al Armenti: </br>
-        Clone site from WordPress.com to WordPress.org subdomain, customizations, and consult. https://alarmenti.larainearmenti.com/">
-		    <img src="../gallery/images/portgd-arch/2020alarmenti-website-thumbnail.jpg" class="img-fluid" alt="Tribute to Al Armenti">
-		    <h6 class="gallery-caption text-center mt-2">Al Armenti</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2019baa-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Belmont Art Association: </br>
-        Website design, customization, and maintenance. Improved aesthetics, functionality, and mobile-responsiveness. https://www.belmontart.org/">
-		    <img src="../gallery/images/portgd-arch/2019baa-website-thumbnail.jpg" class="img-fluid" alt="BAA">
-		    <h6 class="gallery-caption text-center mt-2">Belmont Art Association</h6>
-	      </a>
-      </div>
-
-<!-- end of row -->
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd-arch/2019kwelling-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Welling Coaching and Counseling: </br>
