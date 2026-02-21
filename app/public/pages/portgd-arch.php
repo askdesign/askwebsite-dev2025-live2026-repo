@@ -38,7 +38,7 @@
 
 
 
-    <title>ASK Design | Design Portfolio</title>
+    <title>ASK Design | Design Archives Portfolio</title>
   </head>
 
   
@@ -89,8 +89,8 @@
         <li class="nav-item dropdown"><a class="nav-link active dropdown-toggle" href="portgd-rec.php" data-bs-toggle="dropdown" aria-expanded="false">Portfolio</a>
                 <ul class="dropdown-menu">
                   <li class="dropdown-header">Design</li>
-                  <li><a class="dropdown-item active" href="portgd-rec.php">Recent</a></li>
-                  <li><a class="dropdown-item" href="portgd-arch.php">Archives</a></li>
+                  <li><a class="dropdown-item" href="portgd-rec.php">Recent</a></li>
+                  <li><a class="dropdown-item active" href="portgd-arch.php">Archives</a></li>
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
                   <li><a class="dropdown-item" href="portart-rec.php">Recent</a></li>
@@ -124,9 +124,9 @@
   <div class="container-xxl">
 
     <section class="page-title-lead">   
-          <h2 class="page-title">Portfolio - Design</h2>
-          <h3 class="page lead subhd">Recent Design Work</h3>
-          <p class="page lead">These are samples of my recent web design and graphic design work.</p>
+          <h2 class="page-title">Portfolio - Design Archives</h2>
+          <h3 class="page lead subhd">Past Design Work</h3>
+          <p class="page lead">These are samples of my web design and graphic design work done in the past few years.</p>
           <p><em>NOTE: click on the thumbnail image to see it enlarged in a slideshow!</em></p>
     </section>
 
@@ -143,241 +143,234 @@
     <div class="col-12"><!-- columns -->
 
       <div class="row mb-4">
-      <div class="col-sm-4 gallery-item web-design">
-        <a href="../gallery/images/portgd/2025sps-website.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Skin Perfect Spas: </br>Site had previously used a custom theme built in 2017. Long overdue for an update, we rebuilt the site with all new content (including optimized images) and a Kadence theme. Streamlined the navigation, conformed to accessibility guidelines, and improved overall performance, functionality, security, and SEO. https://skinperfectspas.com/">
-		    <img src="../gallery/images/portgd/2025sps-website-thumbnail.jpg" class="img-fluid" alt="SPS">
-		    <h6 class="gallery-caption text-center mt-2">Skin Perfect Spas</h6>    
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+        <a href="../gallery/images/portgd-arch/2021janetsmith-website.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="WEB DEVELOPMENT - Janet Smith Photos: <br>Content updates, customizations, maintenance, and improved functionality.">
+		    <img src="../gallery/images/portgd-arch/2021janetsmith-website-thumbnail.jpg" class="img-fluid" alt="JSmith original site">
+		    <h6 class="gallery-caption text-center mt-2">Janet Smith Photos</h6>    
         </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-	      <a href="../gallery/images/portgd/2025larainearmenti-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Laraine Armenti: <br> Site had been using a Classic theme built with the Genesis framework. When client began experiencing barriers to content and layout modifications, we decided to switch to a more current Block theme. Site was rebuilt with a Kadence theme, enhancing functionality, performance, accessibility, security, and SEO. https://www.larainearmenti.com">
-		    <img src="../gallery/images/portgd/2025larainearmenti-website-thumbnail.jpg" class="img-fluid" alt="LArmenti">
-		    <h6 class="gallery-caption text-center mt-2">Laraine Armenti</h6>
+	      <a href="../gallery/images/portgd-arch/2021gbdog-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Greater Boston Dog Training: <br>Original site was using outdated legacy code and was not mobile-responsive. We rebuilt the site in WordPress and migrated it to a new webhost. Improved site performance, functionality, speed, and mobile-responsiveness.">
+		    <img src="../gallery/images/portgd-arch/2021gbdog-website.jpg" class="img-fluid" alt="GBDT">
+		    <h6 class="gallery-caption text-center mt-2">Greater Boston Dog Training</h6>
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-	      <a href="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART - Peggy Kornegger:<br> Cover and Interior of Peggy's book &quot;Breast Cancer &amp; Beyond: An Unexpected Soul Path&quot;, available on Amazon.com! The art licensed for this cover is a watercolor painting titled &quot;Magnolia&quot;. Notecards of the art are available for purchase: https://fineartamerica.com/featured/magnolia-anne-katzeff.html">
-		    <img src="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-thumbnail.jpg" class="img-fluid" alt="Breast Cancer and Beyond">
-		    <h6 class="gallery-caption text-center mt-2">Breast Cancer & Beyond</h6>
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+	      <a href="../gallery/images/portgd-arch/2021abbalocksmith-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Abbalocksmith Services: <br>Overhauled site with a new look and feel, improved mobile-responsiveness, and a major SEO boost. Moved hosting to WP Engine to provide easier client access to the back-end. Lots of behind-the-scenes features bring this website to a whole new level!">
+		    <img src="../gallery/images/portgd-arch/2021abbalocksmith-website.jpg" class="img-fluid" alt="AbbaLocksmith">
+		    <h6 class="gallery-caption text-center mt-2">Abba Locksmith Services</h6>
 	      </a>
       </div><!-- end of col -->
-      </div><!-- end of row -->
 
-      <div class="row mb-4">
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2024lesleymwaite-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Lesley M. Waite: </br>Moderate modifications to a Squarespace site. Primary goal was to make it look more like an author's website, showcasing Lesley's books and providing some Calls to Action. <br>
-		    Key changes: • Improved layout • New content: pages, images, CTA, Instagram feed. • Widened content area. • Placed social media icons in more prominent positions. • Adjusted navigation. Take a look at her website and enjoy! https://www.lesleymwaite.com/">
-		    <img src="../gallery/images/portgd/2024lesleymwaite-website-thumbnail.jpg" class="img-fluid" alt="Waite site on Squarespace">
-		    <h6 class="gallery-caption text-center mt-2">Lesley M. Waite</h6>
+  	    <a href="../gallery/images/portgd-arch/2018medialiteracynow-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Media Literacy Now: <br>Design update, customization, and maintenance. Improved aesthetics, functionality, and mobile-responsiveness; more user-interaction.">
+		    <img src="../gallery/images/portgd-arch/2018medialiteracynow-website.jpg" class="img-fluid" alt="MLN">
+		    <h6 class="gallery-caption text-center mt-2">Media Literacy Now</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2024mondorocco-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - MondoRocco: </br>Overhaul of 10+ year-old website. Updated layout, code, mobile-responsiveness, navigation. Adapted branding colors, logo, and icons to current web accessibility standards and SEO. Rebuilt with WordPress. Key new features: • Created a child theme, based on the 2024 theme, using the Full Site Editor and the Create Block Theme plugin. • Wider content area. • Consolidated content on a single page. • Updated the icons. • Increased the font sizes, changed typefaces. • Installed an SSL certificate. • Optimized and used Alt text on all images. • Improved functionality, accessibility, and mobile-responsiveness. • Increased site speed. Take a look at his new website and enjoy! https://www.mondorocco.com/">
-		    <img src="../gallery/images/portgd/2024mondorocco-website-thumbnail.jpg" class="img-fluid" alt="Rocco Giuliano site">
-		    <h6 class="gallery-caption text-center mt-2">MondoRocco</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-        <a href="../gallery/images/portgd/2023janetsmithphotos-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Janet Smith Photos: </br>Website design, development, and maintenance. Updated site with more user-friendly theme; improved functionality, accessibility, and mobile-responsiveness; increased site speed. https://janetsmithphotos.com/">
-		    <img src="../gallery/images/portgd/2023janetsmithphotos-website-thumbnail.jpg" class="img-fluid" alt="JSmith site">
-		    <h6 class="gallery-caption text-center mt-2">Janet Smith Photos</h6>
-	      </a>
-      </div>
-
-      </div><!-- end of row -->
-
-      <div class="row">
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2023SenatorMikeBarrett-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Senator Mike Barrett: </br>Site evaluation, consult, and update: clean up plugins area, optimize images, improve functionality, configure Google Analytics. https://senatormikebarrett.com/">
-		    <img src="../gallery/images/portgd/2023SenatorMikeBarrett-website-thumbnail.jpg" class="img-fluid" alt="Sen. Barrett">
-		    <h6 class="gallery-caption text-center mt-2">Senator Mike Barrett</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2022TFord-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - TFord: </br>Client requested a fresh, new design and a parallax scroll effect on the Home page. Tools included Photoshop, Adobe XD, and Bootstrap. https://tford.com/">
-		    <img src="../gallery/images/portgd/2022TFord-website-thumbnail.jpg" class="img-fluid" alt="TFC">
+  	    <a href="../gallery/images/portgd-arch/2017tford-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT &amp; MAINTENANCE - TFord - General Contractors: <br>The site was about 10 years old and needed a complete overhaul to make the design more contemporary and meet current coding standards. My friend and colleague, Janice Moore, was the lead designer and I was the front-end developer implementing her design. The site was rebuilt on the Bootstrap framework and is now mobile responsive. Special features: fly-out navigation menu and full-width image on home page.">
+		    <img src="../gallery/images/portgd-arch/2017tford-website.jpg" class="img-fluid" alt="TFord earlier website">
 		    <h6 class="gallery-caption text-center mt-2">TFord</h6>
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-        <a href="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="graphic-design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART - Peggy Kornegger: </br>Cover and Interior of Peggy's &quot;Inside the Rainbow: Soul Connection in Nature&quot;, available on Amazon.com! The art licensed for this cover is a pastel painting titled &quot;Palm and Orchid&quot;. Notecards of the art are available for purchase: https://fineartamerica.com/featured/palm-and-orchid-anne-katzeff.html">
-		    <img src="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-thumbnail.jpg" class="img-fluid" alt="Rainbow book cover">
-		    <h6 class="gallery-caption text-center mt-2">Inside the Rainbow</h6>
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+        <a href="../gallery/images/portgd-arch/2019sps-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMASTER<br>Skin Perfect Spas: Website content updates, customizations, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2019sps-website.jpg" class="img-fluid" alt="SPS original website">
+		    <h6 class="gallery-caption text-center mt-2">SPS</h6>
 	      </a>
       </div>
 
-      </div><!-- end of row -->
+<!-- end of row -->
 
-      <div class="row">
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2021robertdix-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Robert Dix: </br>
+  	    <a href="../gallery/images/portgd-arch/2018websurfer-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Websurfer Associates: <br>Website design, customization, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2018websurfer-website.jpg" class="img-fluid" alt="Websurfer tech consultants">
+		    <h6 class="gallery-caption text-center mt-2">Websurfer Associates</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2019cmp-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMAESTRO - Colore Me Perfect: <br>Website content updates, customizations, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2019cmp-website.jpg" class="img-fluid" alt="CMP">
+		    <h6 class="gallery-caption text-center mt-2">Colore Me Perfect</h6>
+	      </a>
+      </div>      
+      
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2019spu-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMAESTRO - Skin Perfect University: <br>Website content updates, customizations, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2019spu-website.jpg" class="img-fluid" alt="SPU">
+		    <h6 class="gallery-caption text-center mt-2">Skin Perfect University</h6>
+	      </a>
+      </div>
+
+
+<!-- end of row -->
+<!-- RESUME FROM THIS POINT -->
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2021robertdix-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Robert Dix: </br>
         Created website for musician on WordPress platform. Moderate customizations, consult, and maintenance.	https://robertdix.org/">
-		    <img src="../gallery/images/portgd/2021robertdix-website-thumbnail.jpg" class="img-fluid" alt="Musician Dix">
+		    <img src="../gallery/images/portgd-arch/2021robertdix-website-thumbnail.jpg" class="img-fluid" alt="Musician Dix">
 		    <h6 class="gallery-caption text-center mt-2">Robert Dix</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2021abbeyk-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - AbbeyK: </br>
+  	    <a href="../gallery/images/portgd-arch/2021abbeyk-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - AbbeyK: </br>
         Updated site with more user-friendly theme; improved functionality and mobile-responsiveness; increased site speed.">
-		    <img src="../gallery/images/portgd/2021abbeyk-website-thumbnail.jpg" class="img-fluid" alt="Interior Designer site">
+		    <img src="../gallery/images/portgd-arch/2021abbeyk-website-thumbnail.jpg" class="img-fluid" alt="Interior Designer site">
 		    <h6 class="gallery-caption text-center mt-2">AbbeyK</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2020barrett-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Mike Barrett: </br>
+  	    <a href="../gallery/images/portgd-arch/2020barrett-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Mike Barrett: </br>
         Improved aesthetics, functionality, and mobile-responsiveness. https://www.barrettforstatesenate.org/">
-		    <img src="../gallery/images/portgd/2020barrett-website-thumbnail.jpg" class="img-fluid" alt="Barrett campaign site">
+		    <img src="../gallery/images/portgd-arch/2020barrett-website-thumbnail.jpg" class="img-fluid" alt="Barrett campaign site">
 		    <h6 class="gallery-caption text-center mt-2">Barrett for State Senate</h6>
 	      </a>
       </div>
 
-      </div><!-- end of row -->
+<!-- end of row -->
 
-      <div class="row">
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2020peterberry-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; CONSULTATION - Peter Berry: </br>
+  	    <a href="../gallery/images/portgd-arch/2020peterberry-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; CONSULTATION - Peter Berry: </br>
         Very personal website launched on Squarespace for a dear friend who passed away in 2020 of an aggressive cancer. His death came just a few weeks after the shocking diagnosis. Our friendship began with him and Andy (his wife) over 30 years ago, all of us working together at dnh typesetting. Be sure to read his obituary, written lovingly and eloquently by Andy. It will give you some sense of all the goodness that was Peter. He was one of the most wonderful, kind men on the planet. We love you Peter. Rest in peace you beautiful soul. https://www.peterberry2020.com/">
-		    <img src="../gallery/images/portgd/2020peterberry-website-thumbnail.jpg" class="img-fluid" alt="Peter's tribute site">
+		    <img src="../gallery/images/portgd-arch/2020peterberry-website-thumbnail.jpg" class="img-fluid" alt="Peter's tribute site">
 		    <h6 class="gallery-caption text-center mt-2">Peter Berry</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2020alarmenti-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Al Armenti: </br>
+  	    <a href="../gallery/images/portgd-arch/2020alarmenti-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Al Armenti: </br>
         Clone site from WordPress.com to WordPress.org subdomain, customizations, and consult. https://alarmenti.larainearmenti.com/">
-		    <img src="../gallery/images/portgd/2020alarmenti-website-thumbnail.jpg" class="img-fluid" alt="Tribute to Al Armenti">
+		    <img src="../gallery/images/portgd-arch/2020alarmenti-website-thumbnail.jpg" class="img-fluid" alt="Tribute to Al Armenti">
 		    <h6 class="gallery-caption text-center mt-2">Al Armenti</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2019baa-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Belmont Art Association: </br>
+  	    <a href="../gallery/images/portgd-arch/2019baa-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Belmont Art Association: </br>
         Website design, customization, and maintenance. Improved aesthetics, functionality, and mobile-responsiveness. https://www.belmontart.org/">
-		    <img src="../gallery/images/portgd/2019baa-website-thumbnail.jpg" class="img-fluid" alt="BAA">
+		    <img src="../gallery/images/portgd-arch/2019baa-website-thumbnail.jpg" class="img-fluid" alt="BAA">
 		    <h6 class="gallery-caption text-center mt-2">Belmont Art Association</h6>
 	      </a>
       </div>
 
-      </div><!-- end of row -->
+<!-- end of row -->
 
-      <div class="row">
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2019kwelling-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Welling Coaching and Counseling: </br>
+  	    <a href="../gallery/images/portgd-arch/2019kwelling-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Welling Coaching and Counseling: </br>
         Website maintenance and consult. https://www.kwelling.com/">
-		    <img src="../gallery/images/portgd/2019kwelling-website-thumbnail.jpg" class="img-fluid" alt="Karen Welling">
+		    <img src="../gallery/images/portgd-arch/2019kwelling-website-thumbnail.jpg" class="img-fluid" alt="Karen Welling">
 		    <h6 class="gallery-caption text-center mt-2">Welling Coaching and Counseling</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2018zamir-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Zamir Chorale of Boston: </br>
+  	    <a href="../gallery/images/portgd-arch/2018zamir-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Zamir Chorale of Boston: </br>
         Website design, customization, and maintenance. Special Features: members portal, slide shows, Constant Contact/YouTube/Paypal integration. https://www.zamir.org/">
-		    <img src="../gallery/images/portgd/2018zamir-website-thumbnail.jpg" class="img-fluid" alt="Zamir Chorale site">
+		    <img src="../gallery/images/portgd-arch/2018zamir-website-thumbnail.jpg" class="img-fluid" alt="Zamir Chorale site">
 		    <h6 class="gallery-caption text-center mt-2">Zamir Chorale of Boston</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2018perpetualmobiles-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Perpetual Mobiles: </br>
+  	    <a href="../gallery/images/portgd-arch/2018perpetualmobiles-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Perpetual Mobiles: </br>
         Website design, customization, and maintenance. https://www.perpetualmobiles.com">
-		    <img src="../gallery/images/portgd/2018perpetualmobiles-website-thumbnail.jpg" class="img-fluid" alt="Mobile artist">
+		    <img src="../gallery/images/portgd-arch/2018perpetualmobiles-website-thumbnail.jpg" class="img-fluid" alt="Mobile artist">
 		    <h6 class="gallery-caption text-center mt-2">Perpetual Mobiles</h6>
 	      </a>
       </div>
 
-      </div><!-- end of row -->
+<!-- end of row -->
 
-      <div class="row">
+
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2018morse-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Helen Morse / Photographer: </br>
+  	    <a href="../gallery/images/portgd-arch/2018morse-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Helen Morse / Photographer: </br>
         Photoshelter platform customization, and maintenance. https://www.helenmorse.com">
-		    <img src="../gallery/images/portgd/2018morse-website-thumbnail.jpg" class="img-fluid" alt="Morse Photography">
+		    <img src="../gallery/images/portgd-arch/2018morse-website-thumbnail.jpg" class="img-fluid" alt="Morse Photography">
 		    <h6 class="gallery-caption text-center mt-2">Helen Morse / Photographer</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2017bga-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Belmont Gallery of Art: </br>
+  	    <a href="../gallery/images/portgd-arch/2017bga-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Belmont Gallery of Art: </br>
         Website design, customization, and maintenance. Special Features: slide shows, event listings, Constant Contact, and SignUp.com integration. http://www.belmontgallery.org/">
-		    <img src="../gallery/images/portgd/2017bga-website-thumbnail.jpg" class="img-fluid" alt="BGA">
+		    <img src="../gallery/images/portgd-arch/2017bga-website-thumbnail.jpg" class="img-fluid" alt="BGA">
 		    <h6 class="gallery-caption text-center mt-2">Belmont Gallery of Art</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2017katzeff-paul-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Paul Katzeff:  </br>
+  	    <a href="../gallery/images/portgd-arch/2017katzeff-paul-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Paul Katzeff:  </br>
         Website design, customization, and maintenance. https://www.paulkatzeff.com/">
-		    <img src="../gallery/images/portgd/2017katzeff-paul-website-thumbnail.jpg" class="img-fluid" alt="Writer site">
+		    <img src="../gallery/images/portgd-arch/2017katzeff-paul-website-thumbnail.jpg" class="img-fluid" alt="Writer site">
 		    <h6 class="gallery-caption text-center mt-2">Paul Katzeff</h6>
 	      </a>
       </div>
 
-      </div><!-- end of row -->
+<!-- end of row -->
 
-      <div class="row">
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2016pak-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Peggy Kornegger: </br>
+  	    <a href="../gallery/images/portgd-arch/2016pak-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Peggy Kornegger: </br>
         Site configuration, theme settings, consult. https://spiritflower.wordpress.com/">
-		    <img src="../gallery/images/portgd/2016pak-website-thumbnail.jpg" class="img-fluid" alt="Spirit Flower">
+		    <img src="../gallery/images/portgd-arch/2016pak-website-thumbnail.jpg" class="img-fluid" alt="Spirit Flower">
 		    <h6 class="gallery-caption text-center mt-2">Peggy Kornegger</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd/kornegger-loseyourmind-cover-reprint-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, ART - Peggy Kornegger: </br>
+  	    <a href="../gallery/images/portgd-arch/kornegger-loseyourmind-cover-reprint-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, ART - Peggy Kornegger: </br>
         Cover &amp; Interior for Peggy's book &quot;Lose Your Mind, Open Your Heart&quot;, available on Amazon.com! The art licensed for this cover is a pastel painting titled &quot;Flower Symphony&quot;. Notecards are available for purchase in my Fine Art America shop.">
-		    <img src="../gallery/images/portgd/kornegger-loseyourmind-cover-reprint-ofcp-kdp-thumbnail.jpg" class="img-fluid" alt="Lose Your Mind">
+		    <img src="../gallery/images/portgd-arch/kornegger-loseyourmind-cover-reprint-ofcp-kdp-thumbnail.jpg" class="img-fluid" alt="Lose Your Mind">
 		    <h6 class="gallery-caption text-center mt-2">Peggy Kornegger</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd/010413ts-longwoodcentbklt-chap1.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Longwood Cricket Club:  </br>
+  	    <a href="../gallery/images/portgd-arch/010413ts-longwoodcentbklt-chap1.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Longwood Cricket Club:  </br>
         Design production and photo retouching. Winner of N.E. Book Show Award!">
-		    <img src="../gallery/images/portgd/010413ts-longwoodcentbklt-chap1-thumbnail.jpg" class="img-fluid" alt="LCC Centennial Book">
+		    <img src="../gallery/images/portgd-arch/010413ts-longwoodcentbklt-chap1-thumbnail.jpg" class="img-fluid" alt="LCC Centennial Book">
 		    <h6 class="gallery-caption text-center mt-2">Longwood Cricket Club</h6>
 	      </a>
       </div>
 
-      </div><!-- end of row -->
+<!-- end of row -->
 
-      <div class="row">
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd/2024CKatzeff-websurfer-bizcard.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Websurfer: </br>
+  	    <a href="../gallery/images/portgd-arch/2024CKatzeff-websurfer-bizcard.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Websurfer: </br>
         Corporate ID (logo, business cards and signage).">
-		    <img src="../gallery/images/portgd/2024CKatzeff-websurfer-bizcard-thumbnail.jpg" class="img-fluid" alt="Carl Katzeff bizcard">
+		    <img src="../gallery/images/portgd-arch/2024CKatzeff-websurfer-bizcard-thumbnail.jpg" class="img-fluid" alt="Carl Katzeff bizcard">
 		    <h6 class="gallery-caption text-center mt-2">Websurfer</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd/092710addison-gf4e-cover-1600.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN - Tina Addison: </br>
+  	    <a href="../gallery/images/portgd-arch/092710addison-gf4e-cover-1600.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN - Tina Addison: </br>
         Cover and Interior for Tina's cookbook &quot;Good Food For Everyone&quot;. Consultation and coordination with self-publishing vendor. Image scans, color correction, and retouching. The proceeds of sales for this cookbook go to food pantries.">
-		    <img src="../gallery/images/portgd/092710addison-gf4e-cover-thumbnail.jpg" class="img-fluid" alt="Good Food for Everyone">
+		    <img src="../gallery/images/portgd-arch/092710addison-gf4e-cover-thumbnail.jpg" class="img-fluid" alt="Good Food for Everyone">
 		    <h6 class="gallery-caption text-center mt-2">Tina Addison</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd/kornegger-livingwithspirit-cover-reprint-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, ART - Peggy Kornegger: </br>
+  	    <a href="../gallery/images/portgd-arch/kornegger-livingwithspirit-cover-reprint-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, ART - Peggy Kornegger: </br>
         Cover &amp; Interior for Peggy's book  &quot;Living With Spirit&quot;, available on Amazon.com! The art licensed for this cover is a pastel painting titled &quot;Infinity&quot;, which is available on a notecard in my Shop: https://fineartamerica.com/featured/infinity-anne-katzeff.html">
-		    <img src="../gallery/images/portgd/kornegger-livingwithspirit-cover-reprint-ofcp-kdp-thumbnail.jpg" class="img-fluid" alt="Living with Spirit">
+		    <img src="../gallery/images/portgd-arch/kornegger-livingwithspirit-cover-reprint-ofcp-kdp-thumbnail.jpg" class="img-fluid" alt="Living with Spirit">
 		    <h6 class="gallery-caption text-center mt-2">Peggy Kornegger</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2020kastles-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Kathleen Kastles: </br>
+  	    <a href="../gallery/images/portgd-arch/2020kastles-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Kathleen Kastles: </br>
         Website updates, customization, and consult.">
-		    <img src="../gallery/images/portgd/2020kastles-website-thumbnail.jpg" class="img-fluid" alt="Kastles artwork">
+		    <img src="../gallery/images/portgd-arch/2020kastles-website-thumbnail.jpg" class="img-fluid" alt="Kastles artwork">
 		    <h6 class="gallery-caption text-center mt-2">Kathleen Kastles</h6>
 	      </a>
       </div>
