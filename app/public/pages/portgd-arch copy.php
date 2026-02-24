@@ -141,7 +141,7 @@
         <button type="button" class="btn btn-outline-primary" data-filter=".graphic-design">graphic design</button>
       </div>
 
-    <div id="portgd-arch1" class="gallery row">
+    <div class="gallery row">
     <div class="col-12"><!-- columns -->
 
       <div class="row mb-4">
@@ -328,7 +328,7 @@
 	      </a>
       </div>
 
-      <!-- end of group --><!-- possible end of gallery 1 -->
+      <!-- end of group -->
 
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
   	    <a href="../gallery/images/portgd-arch/Fellow9781111348120-13.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Cengage Learning: <br>College textbook cover.">
@@ -439,6 +439,8 @@
 	      </a>
       </div>
       <!-- end of group -->
+
+      <!-- RESUME FROM THIS POINT -->
       
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd-arch/2011bcf-web.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Belmont Citizens Forum: <br>Wordpress website design, customization, and maintenance. Migration from static html site to CMS on a new webhost. Special Features: slide show, Google calendar, and Paypal integration. https://www.belmontcitizensforum.org">
@@ -491,10 +493,8 @@
 
     </div><!-- columns -->
 
-    </div><!-- end of gallery row - portgd-arch -->
+    </div><!-- end of gallery row -->
 
-
-    <h5><a href="portgd-arch2.php">MORE DESIGN WORK: 10-20 years ago</a></h5>
 
 
 
