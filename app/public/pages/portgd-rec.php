@@ -139,7 +139,7 @@
         <button type="button" class="btn btn-outline-primary" data-filter=".graphic-design">graphic design</button>
       </div>
 
-    <div class="gallery row">
+    <div id="portgd-rec" class="gallery row">
     <div class="col-12"><!-- columns -->
 
       <div class="row mb-4">
@@ -366,13 +366,6 @@
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2020kastles-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Kathleen Kastles: </br>
-        Website updates, customization, and consult.">
-		    <img src="../gallery/images/portgd/2020kastles-website-thumbnail.jpg" class="img-fluid" alt="Kastles artwork">
-		    <h6 class="gallery-caption text-center mt-2">Kathleen Kastles</h6>
-	      </a>
-      </div>
 
       </div><!-- end of row -->
 

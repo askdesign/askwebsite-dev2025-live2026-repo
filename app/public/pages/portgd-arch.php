@@ -131,7 +131,7 @@
     </section>
 
     <section class="content"><!-- content area -->
-      <h4 class="page lead subhd">Recent Past</h4>
+      <h4>Recent Past</h4>
 
       <!-- Filtering UI -->
       <!-- Isotope Grid Container -->
@@ -161,11 +161,32 @@
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
 	      <a href="../gallery/images/portgd-arch/2021abbalocksmith-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Abbalocksmith Services: <br>Overhauled site with a new look and feel, improved mobile-responsiveness, and a major SEO boost. Moved hosting to WP Engine to provide easier client access to the back-end. Lots of behind-the-scenes features bring this website to a whole new level!">
-		    <img src="../gallery/images/portgd-arch/2021abbalocksmith-website.jpg" class="img-fluid" alt="AbbaLocksmith">
+		    <img src="../gallery/images/portgd-arch/2021abbalocksmith-website-thumbnail.jpg" class="img-fluid" alt="AbbaLocksmith">
 		    <h6 class="gallery-caption text-center mt-2">Abba Locksmith Services</h6>
 	      </a>
       </div>
       <!-- end of group -->
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+        <a href="../gallery/images/portgd-arch/2019sps-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMASTER<br>Skin Perfect Spas: Website content updates, customizations, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2019sps-website-thumbnail.jpg" class="img-fluid" alt="SPS previous website">
+		    <h6 class="gallery-caption text-center mt-2">SPS</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2019cmp-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMAESTRO - Colore Me Perfect: <br>Website content updates, customizations, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2019cmp-website-thumbnail.jpg" class="img-fluid" alt="CMP">
+		    <h6 class="gallery-caption text-center mt-2">Colore Me Perfect</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2019spu-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMAESTRO - Skin Perfect University: <br>Website content updates, customizations, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2019spu-website-thumbnail.jpg" class="img-fluid" alt="SPU">
+		    <h6 class="gallery-caption text-center mt-2">Skin Perfect University</h6>
+	      </a>
+      </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd-arch/2018medialiteracynow-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Media Literacy Now: <br>Design update, customization, and maintenance. Improved aesthetics, functionality, and mobile-responsiveness; more user-interaction.">
@@ -175,56 +196,9 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2017tford-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT &amp; MAINTENANCE - TFord - General Contractors: <br>The site was about 10 years old and needed a complete overhaul to make the design more contemporary and meet current coding standards. My friend and colleague, Janice Moore, was the lead designer and I was the front-end developer implementing her design. The site was rebuilt on the Bootstrap framework and is now mobile responsive. Special features: fly-out navigation menu and full-width image on home page.">
-		    <img src="../gallery/images/portgd-arch/2017tford-website-thumbnail.jpg" class="img-fluid" alt="TFord previous website">
-		    <h6 class="gallery-caption text-center mt-2">TFord</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-        <a href="../gallery/images/portgd-arch/2019sps-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMASTER<br>Skin Perfect Spas: Website content updates, customizations, and maintenance.">
-		    <img src="../gallery/images/portgd-arch/2019sps-website-thumbnail.jpg" class="img-fluid" alt="SPS previous website">
-		    <h6 class="gallery-caption text-center mt-2">SPS</h6>
-	      </a>
-      </div>
-
-      <!-- end of group -->
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd-arch/2018websurfer-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Websurfer Associates: <br>Website design, customization, and maintenance.">
 		    <img src="../gallery/images/portgd-arch/2018websurfer-website-thumbnail.jpg" class="img-fluid" alt="Websurfer tech consultants">
 		    <h6 class="gallery-caption text-center mt-2">Websurfer Associates</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2019cmp-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMAESTRO - Colore Me Perfect: <br>Website content updates, customizations, and maintenance.">
-		    <img src="../gallery/images/portgd-arch/2019cmp-website-thumbnail.jpg" class="img-fluid" alt="CMP">
-		    <h6 class="gallery-caption text-center mt-2">Colore Me Perfect</h6>
-	      </a>
-      </div>      
-      
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2019spu-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMAESTRO - Skin Perfect University: <br>Website content updates, customizations, and maintenance.">
-		    <img src="../gallery/images/portgd-arch/2019spu-website-thumbnail.jpg" class="img-fluid" alt="SPU">
-		    <h6 class="gallery-caption text-center mt-2">Skin Perfect University</h6>
-	      </a>
-      </div>
-
-
-      <!-- end of group -->
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2017waa-website-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMAESTRO - Watertown Art Association: <br>Website content updates, customizations, and maintenance.">
-		    <img src="../gallery/images/portgd-arch/2017waa-website-thumbnail.jpg" class="img-fluid" alt="WAA">
-		    <h6 class="gallery-caption text-center mt-2">Watertown Art Association</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2017onecanhelp-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMAESTRO  - One Can Help: <br>Website content updates, customizations, and maintenance.">
-		    <img src="../gallery/images/portgd-arch/2017onecanhelp-website-thumbnail.jpg" class="img-fluid" alt="OCH">
-		    <h6 class="gallery-caption text-center mt-2">One Can Help</h6>
 	      </a>
       </div>
 
@@ -234,8 +208,6 @@
 		    <h6 class="gallery-caption text-center mt-2">Quietside Gallery</h6>
 	      </a>
       </div>
-
-      <!-- end of group -->
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd-arch/2018taylor-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Duck Taylor: <br>Site configuration, theme settings, consult. https://ducktaylor1.wordpress.com/">
@@ -258,12 +230,58 @@
 	      </a>
       </div>
 
-      <!-- end of group -->
-
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd-arch/2018hudgins-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Kay Hudgins: <br>Website design, customization, and maintenance. Special Features: lightbox. https://www.kayhudgins.com">
 		    <img src="../gallery/images/portgd-arch/2018hudgins-website-thumbnail.jpg" class="img-fluid" alt="KHudgins art">
 		    <h6 class="gallery-caption text-center mt-2">Kay Hudgins</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2017tford-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT &amp; MAINTENANCE - TFord - General Contractors: <br>The site was about 10 years old and needed a complete overhaul to make the design more contemporary and meet current coding standards. My friend and colleague, Janice Moore, was the lead designer and I was the front-end developer implementing her design. The site was rebuilt on the Bootstrap framework and is now mobile responsive. Special features: fly-out navigation menu and full-width image on home page.">
+		    <img src="../gallery/images/portgd-arch/2017tford-website-thumbnail.jpg" class="img-fluid" alt="TFord previous website">
+		    <h6 class="gallery-caption text-center mt-2">TFord</h6>
+	      </a>
+      </div>
+
+      <!-- end of group -->
+
+      
+
+
+      <!-- end of group -->
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2017waa-website-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMAESTRO - Watertown Art Association: <br>Website content updates, customizations, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2017waa-website-thumbnail.jpg" class="img-fluid" alt="WAA">
+		    <h6 class="gallery-caption text-center mt-2">Watertown Art Association</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2017onecanhelp-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEBMAESTRO  - One Can Help: <br>Website content updates, customizations, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2017onecanhelp-website-thumbnail.jpg" class="img-fluid" alt="OCH">
+		    <h6 class="gallery-caption text-center mt-2">One Can Help</h6>
+	      </a>
+      </div>
+
+
+      <!-- end of group -->
+
+
+
+      <!-- end of group -->
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2016kellemlawgroup-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Kellem Law Group: <br>Website design, customization, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2016kellemlawgroup-website-thumbnail.jpg" class="img-fluid" alt="Kellem previous site">
+		    <h6 class="gallery-caption text-center mt-2">Kellem Law Group:</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2016thehavencollective-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - The Haven Collective: <br>Website design and customization.">
+		    <img src="../gallery/images/portgd-arch/2016thehavencollective-website-thumbnail.jpg" class="img-fluid" alt="Haven Collective therapy">
+		    <h6 class="gallery-caption text-center mt-2">The Haven Collective</h6>
 	      </a>
       </div>
 
@@ -274,20 +292,20 @@
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2016kellemlawgroup-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Kellem Law Group: <br>Website design, customization, and maintenance.">
-		    <img src="../gallery/images/portgd-arch/2016kellemlawgroup-website-thumbnail.jpg" class="img-fluid" alt="Kellem previous site">
-		    <h6 class="gallery-caption text-center mt-2">Kellem Law Group:</h6>
-	      </a>
-      </div>
 
       <!-- end of group -->
 
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2014macleish-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB CONSULTATION - Morellen MacLeish / Writer: <br>Website consultation, configuration, and maintenance.">
+		    <img src="../gallery/images/portgd-arch/2014macleish-website-thumbnail.jpg" class="img-fluid" alt="Macleish writings">
+		    <h6 class="gallery-caption text-center mt-2">Morellen MacLeish </h6>
+	      </a>
+      </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2016thehavencollective-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - The Haven Collective: <br>Website design and customization.">
-		    <img src="../gallery/images/portgd-arch/2016thehavencollective-website-thumbnail.jpg" class="img-fluid" alt="Haven Collective therapy">
-		    <h6 class="gallery-caption text-center mt-2">The Haven Collective</h6>
+  	    <a href="../gallery/images/portgd-arch/2014parkman-acm-web.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - American Century Music: <br>Website re-design and configuration. Special Features: slideshows, Mail Chimp and Radio Station integration.">
+		    <img src="../gallery/images/portgd-arch/2014parkman-acm-web-thumbnail.jpg" class="img-fluid" alt="ACM redesign">
+		    <h6 class="gallery-caption text-center mt-2">American Century Music</h6>
 	      </a>
       </div>
 
@@ -298,12 +316,6 @@
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2014macleish-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB CONSULTATION - Morellen MacLeish / Writer: <br>Website consultation, configuration, and maintenance.">
-		    <img src="../gallery/images/portgd-arch/2014macleish-website-thumbnail.jpg" class="img-fluid" alt="Macleish writings">
-		    <h6 class="gallery-caption text-center mt-2">Morellen MacLeish </h6>
-	      </a>
-      </div>
 
       <!-- end of group -->
 
@@ -322,15 +334,6 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch/2012ucp-brochures.png" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - United Cerebral Palsy of MetroBoston: <br>Marketing brochures.">
-		    <img src="../gallery/images/portgd-arch/2012ucp-brochures-thumbnail.jpg" class="img-fluid" alt="UCP">
-		    <h6 class="gallery-caption text-center mt-2">United Cerebral Palsy of MetroBoston</h6>
-	      </a>
-      </div>
-
-      <!-- end of group --><!-- possible end of gallery 1 -->
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
   	    <a href="../gallery/images/portgd-arch/Fellow9781111348120-13.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Cengage Learning: <br>College textbook cover.">
 		    <img src="../gallery/images/portgd-arch/Fellow9781111348120-13-thumbnail.jpg" class="img-fluid" alt="Fellow textbook">
 		    <h6 class="gallery-caption text-center mt-2">American Media History</h6>
@@ -344,13 +347,14 @@
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2010addison-food-web.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Good Food For Everyone: <br>Website design and customization.">
-		    <img src="../gallery/images/portgd-arch/2010addison-food-web-thumbnail.jpg" class="img-fluid" alt="Addison site">
-		    <h6 class="gallery-caption text-center mt-2">Good Food For Everyone</h6>
+      <div class="col-sm-4 mb-4 gallery-item graphic-design">
+  	    <a href="../gallery/images/portgd-arch/2012ucp-brochures.png" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - United Cerebral Palsy of MetroBoston: <br>Marketing brochures.">
+		    <img src="../gallery/images/portgd-arch/2012ucp-brochures-thumbnail.jpg" class="img-fluid" alt="UCP">
+		    <h6 class="gallery-caption text-center mt-2">United Cerebral Palsy of MetroBoston</h6>
 	      </a>
       </div>
-      <!-- end of group -->
+
+      <!-- end of group --><!-- possible end of gallery 1 -->
 
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
   	    <a href="../gallery/images/portgd-arch/DayHurwitz9780495913573_12.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Cengage Learning: <br>College textbook cover.">
@@ -366,124 +370,6 @@
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2011fis-web.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Free Investment Score: <br>Design and front-end development of interactive investment site. Special features: slideshow and online test that measures risk and uncertainty within user's financial portfolio.">
-		    <img src="../gallery/images/portgd-arch/2011fis-web-thumbnail.jpg" class="img-fluid" alt="FIS">
-		    <h6 class="gallery-caption text-center mt-2">Free Investment Score</h6>
-	      </a>
-      </div>
-      <!-- end of group -->
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2011zamir-web.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Zamir Chorale of Boston (2011-16): <br>Website design, customization, and maintenance. Special Features: members portal, slide shows, Constant Contact/YouTube/Paypal integration.">
-		    <img src="../gallery/images/portgd-arch/2011zamir-web-thumbnail.jpg" class="img-fluid" alt="Zamir previous site">
-		    <h6 class="gallery-caption text-center mt-2">Zamir Chorale of Boston</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2014parkman-acm-web.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - American Century Music: <br>Website re-design and configuration. Special Features: slideshows, Mail Chimp and Radio Station integration.">
-		    <img src="../gallery/images/portgd-arch/2014parkman-acm-web-thumbnail.jpg" class="img-fluid" alt="ACM redesign">
-		    <h6 class="gallery-caption text-center mt-2">American Century Music</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2010acmweb.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - American Century Music: <br>Website design, customization, and maintenance. Special Features: slideshows, calendar, Mail Chimp and Radio Station integration.">
-		    <img src="../gallery/images/portgd-arch/2010acmweb-thumbnail.jpg" class="img-fluid" alt="ACM previous site">
-		    <h6 class="gallery-caption text-center mt-2">American Century Music</h6>
-	      </a>
-      </div>
-      <!-- end of group -->
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2010eireweb.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Eire Society: <br>Updated coding from tables to CSS &amp; HTML.">
-		    <img src="../gallery/images/portgd-arch/2010eireweb-thumbnail.jpg" class="img-fluid" alt="Eire site">
-		    <h6 class="gallery-caption text-center mt-2">Eire Society</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch/Worthen9781428288140_11.png" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Cengage Learning: <br>College textbook covers.">
-		    <img src="../gallery/images/portgd-arch/Worthen9781428288140_11-thumbnail.jpg" class="img-fluid" alt="Worthen textbook">
-		    <h6 class="gallery-caption text-center mt-2">Wadsworth Anthology of Drama</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch/velasquez049580875x_11.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Cengage Learning: <br> College textbook cover.">
-		    <img src="../gallery/images/portgd-arch/velasquez049580875x_11-thumbnail.jpg" class="img-fluid" alt="Velasquez textbook">
-		    <h6 class="gallery-caption text-center mt-2">Philosophy</h6>
-	      </a>
-      </div>
-      <!-- end of group -->
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch/mitchell0495808962_11.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Cengage Learning: <br>College textbook cover.">
-		    <img src="../gallery/images/portgd-arch/mitchell0495808962_11-thumbnail.jpg" class="img-fluid" alt="Mitchell textbook">
-		    <h6 class="gallery-caption text-center mt-2">Roots of Wisdom</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2012Jmindfuldrawer-web.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - The Mindful Drawer: <br>Design, consultation, and customization on Wordpress website.">
-		    <img src="../gallery/images/portgd-arch/2012Jmindfuldrawer-web-thumbnail.jpg" class="img-fluid" alt="MindfulDrawer site">
-		    <h6 class="gallery-caption text-center mt-2">The Mindful Drawer</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2011scottparkman-web.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Scott Parkman: <br>Website re-design and maintenance.">
-		    <img src="../gallery/images/portgd-arch/2011scottparkman-web-thumbnail.jpg" class="img-fluid" alt="Parkman site">
-		    <h6 class="gallery-caption text-center mt-2">Scott Parkman</h6>
-	      </a>
-      </div>
-      <!-- end of group -->
-      
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2011bcf-web.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Belmont Citizens Forum: <br>Wordpress website design, customization, and maintenance. Migration from static html site to CMS on a new webhost. Special Features: slide show, Google calendar, and Paypal integration. https://www.belmontcitizensforum.org">
-		    <img src="../gallery/images/portgd-arch/2011bcf-web-thumbnail.jpg" class="img-fluid" alt="BCF site">
-		    <h6 class="gallery-caption text-center mt-2">Belmont Citizens Forum</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2010Ruby-gws-web.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN - Great Women Series: <br>Website design, customization, and maintenance. Special Features: Google Analytics, Twitter feed.">
-		    <img src="../gallery/images/portgd-arch/2010Ruby-gws-web-thumbnail.jpg" class="img-fluid" alt="GWS site">
-		    <h6 class="gallery-caption text-center mt-2">Great Women Series</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch/013009thoreau.png" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, &amp; ART - The Thoreau Society: <br>Kids' Tees sold at Shop at Walden Pond. The art is available on Adult Tees in my FAA Shop https://www.askdesign.biz/ask_shop/shop-cat.php">
-		    <img src="../gallery/images/portgd-arch/013009thoreau-thumbnail.jpg" class="img-fluid" alt="Thoreau T-shirts">
-		    <h6 class="gallery-caption text-center mt-2">The Thoreau Society</h6>
-	      </a>
-      </div>
-      <!-- end of group -->
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch/100509pawsrulecorpid.png" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Paws Rule!: <br>Logo, corporate identity, and signage.">
-		    <img src="../gallery/images/portgd-arch/100509pawsrulecorpid-thumbnail.jpg" class="img-fluid" alt="Paws Rule branding">
-		    <h6 class="gallery-caption text-center mt-2">Paws Rule!</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch//gri9780547167336-10.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="ART DIRECTION - Houghton Mifflin Company: <br>College textbook cover.">
-		    <img src="../gallery/images/portgd-arch//gri9780547167336-10-thumbnail.jpg" class="img-fluid" alt="Griffin Moorhead textbook">
-		    <h6 class="gallery-caption text-center mt-2">Organizational Behavior</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch/prideferrell9780547167466-10.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="ART DIRECTION - Houghton Mifflin Company: <br>College textbook cover.">
-		    <img src="../gallery/images/portgd-arch//prideferrell9780547167466-10-thumbnail.jpg" class="img-fluid" alt="Pride Ferrell textbook">
-		    <h6 class="gallery-caption text-center mt-2">Marketing</h6>
-	      </a>
-      </div>
-
-
       <!-- end of group -->
 
     </div><!-- end of row -->
@@ -493,8 +379,9 @@
 
     </div><!-- end of gallery row - portgd-arch -->
 
-
-    <h5><a href="portgd-arch2.php">MORE DESIGN WORK: 10-20 years ago</a></h5>
+    <h5>
+      <a href="portgd-arch2.php"><button type="button" class="btn btn-outline-primary">MORE DESIGN WORK: 15+ years ago</button></a>
+    </h5>
 
 
 
