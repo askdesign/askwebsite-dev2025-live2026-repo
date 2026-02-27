@@ -150,6 +150,281 @@
 
       <div class="row mb-4">
 
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0816-woodlandpond.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WOODLAND POND (0816) Pastel<br>
+        &bull; Original Art: 10&rdquo;x8&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0816-woodlandpond.jpg" class="img-fluid" alt="Pond in a woodsy area">
+		    <h6 class="gallery-caption text-center mt-2">Woodland Pond</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscape pastel">
+  	    <a href="../gallery/images/portart/portil0815-inthewoods.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="IN THE WOODS (0815) Pastel<br>
+		    Mt. Auburn Cemetery, Cambridge, MA.<br>
+		    &bull; Original Art: 9.75&rdquo;x8&rdquo;; with Mat &amp; Frame: 11&rdquo;x14&rdquo;, $210.">
+		    <img src="../gallery/images/portart/portil0815-inthewoods.jpg" class="img-fluid" alt="Spectacle Pond woods">
+		    <h6 class="gallery-caption text-center mt-2">In the Woods</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pencil">
+  	    <a href="../gallery/images/portart/portil0814-tophatzinnias.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="TOP HAT ZINNIAS (0814) Colored Pencil<br>
+        &bull; Original Art: 3.5&rdquo;x5.25&rdquo;; with Mat: 8&rdquo;x10&rdquo;, SOLD">
+		    <img src="../gallery/images/portart/portil0814-tophatzinnias.jpg" class="img-fluid" alt="Tophat zinnias">
+		    <h6 class="gallery-caption text-center mt-2">Top Hat Zinnias</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0813-quintethotzinnias.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="QUINTET: HOT ZINNIAS (0813) Pastel<br>
+        &bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 12&rdquo;x10&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0813-quintethotzinnias.jpg" class="img-fluid" alt="Series of 5 paintings: hot zinnias">
+		    <h6 class="gallery-caption text-center mt-2">Quintet: Hot Zinnias</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0812-quintetcosmos.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="QUINTET: COSMOS (0812) Pastel<br>
+        &bull; Original Art: 8&rdquo;x5.5&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0812-quintetcosmos.jpg" class="img-fluid" alt="Series of 5 paintings: cosmos">
+		    <h6 class="gallery-caption text-center mt-2">Quintet: Cosmos</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0811-quintetmarigolds.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="QUINTET: MARIGOLDS (0811) Pastel<br>
+        &bull; Original Art: 5.5&rdquo;x8&rdquo;; with Mat: 10”x12”, SOLD.">
+		    <img src="../gallery/images/portart/portil0811-quintetmarigolds.jpg" class="img-fluid" alt="Series of 5 paintings: marigolds">
+		    <h6 class="gallery-caption text-center mt-2">Quintet: Marigolds</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0810-quintetpetunias.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="QUINTET: PETUNIAS (0810) Pastel<br>
+		    &bull; Original Art: 5.5&rdquo;x8&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0810-quintetpetunias.jpg" class="img-fluid" alt="Series of 5 paintings: petunias">
+		    <h6 class="gallery-caption text-center mt-2">Quintet: Petunias</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0809-quintetzinnias.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="QUINTET: ZINNIAS (0809) Pastel<br>
+        &bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 12&rdquo;x10&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0809-quintetzinnias.jpg" class="img-fluid" alt="Series of 5 paintings: zinnias">
+		    <h6 class="gallery-caption text-center mt-2">Quintet: Zinnias</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pencil">
+  	    <a href="../gallery/images/portart/portil0808-rainydaybouquet.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="RAINY DAY BOUQUET (0808) Colored Pencil<br>
+		    &bull; Original Art: 5&rdquo;x5&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0808-rainydaybouquet.jpg" class="img-fluid" alt="Bouquet art on a rainy day">
+		    <h6 class="gallery-caption text-center mt-2">Rain Day Bouquet</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0807-reflections.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="REFLECTIONS (0807) Pastel<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0807-reflections.jpg" class="img-fluid" alt="Reflections at Willow Pond">
+		    <h6 class="gallery-caption text-center mt-2">Reflections</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0806-waldenpond.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WALDEN POND (0806) Pastel<br>
+		    Concord, MA.<br>
+        &bull; Original Art: 9&rdquo;x12&rdquo;; with Mat: 12&rdquo;x16&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0806-waldenpond.jpg" class="img-fluid" alt="Relaxing at Walden Pond">
+		    <h6 class="gallery-caption text-center mt-2">Walden Pond</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0805-jardindejuillet.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="JARDIN DE JUILLET (0805) Pastel<br>
+		    Mt. Auburn Cemetery, Cambridge, MA.<br>
+		    &bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0805-jardindejuillet.jpg" class="img-fluid" alt="A garden visit in hot July">
+		    <h6 class="gallery-caption text-center mt-2">Jardin de Juillet</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0804-ptowndeparture.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PROVINCETOWN DEPARTURE (0804) Pastel<br>
+		    &bull; Original Art: 10&rdquo;x3.75&rdquo;; with Mat &amp; Frame: 14&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0804-ptowndeparture.jpg" class="img-fluid" alt="Leaving Provincetown">
+		    <h6 class="gallery-caption text-center mt-2">Provincetown Departure</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0803-ptownarrival.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PROVINCETOWN ARRIVAL (0803) Pastel<br>
+		    &bull; Original Art: 10&rdquo;x3.75&rdquo;; with Mat &amp; Frame: 14&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0803-ptownarrival.jpg" class="img-fluid" alt="Arriving at Provincetown">
+		    <h6 class="gallery-caption text-center mt-2">Provincetown Arrival</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0802-springvalentine.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SPRING VALENTINE (0802) Pastel<br>
+		    Mt. Auburn Cemetery, Cambridge, MA.<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil0802-springvalentine.jpg" class="img-fluid" alt="Bushes in shape of valentine">
+		    <h6 class="gallery-caption text-center mt-2">Spring Valentine</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0801-azaleasonslope.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AZALEAS ON THE SLOPE (0801) Pastel<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0801-azaleasonslope.jpg" class="img-fluid" alt="Cluster of Azaleas on a hill">
+		    <h6 class="gallery-caption text-center mt-2">Azaleas on the Slope</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pencil">
+  	    <a href="../gallery/images/portart/portil0722-altermyria.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ALTERMYRIA (0722) Colored Pencil<br>
+        &bull; Original Art: 7&rdquo;x5&rdquo;; nfs.">
+		    <img src="../gallery/images/portart/portil0722-altermyria.jpg" class="img-fluid" alt="Altermyria bouquet">
+		    <h6 class="gallery-caption text-center mt-2">Altermyria</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0721-islandtime.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ISLAND TIME (0721) Pastel<br>
+		    Bimini, Bahamas.<br>
+        &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0721-islandtime.jpg" class="img-fluid" alt="Island corner">
+		    <h6 class="gallery-caption text-center mt-2">Island Time</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0719-lenoxfarmhouse-c2018.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LENOX FARMHOUSE (0719) Pastel<br>
+		    &bull; Original Art: 12&rdquo;x9&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0719-lenoxfarmhouse-c2018.jpg" class="img-fluid" alt="Farmhouse with garden">
+		    <h6 class="gallery-caption text-center mt-2">Lenox Farmhouse</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0718-portal-c2018.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PORTAL (0718) Pastel<br>
+        &bull; Original Art: 16&rdquo;x12&rdquo;; $315.">
+		    <img src="../gallery/images/portart/portil0718-portal-c2018.jpg" class="img-fluid" alt="Imagining a portal in the mountains">
+		    <h6 class="gallery-caption text-center mt-2">Portal</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0717-anticipation.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ANTICIPATION (0717) Pastel<br>
+		    Lenox, MA.<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $75.">
+		    <img src="../gallery/images/portart/portil0717-anticipation.jpg" class="img-fluid" alt="Anticipating a storm">
+		    <h6 class="gallery-caption text-center mt-2">Anticipation</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0716-return.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="RETURN (0716) Pastel<br>
+		    Lenox, MA.<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0716-return.jpg" class="img-fluid" alt="Fond Return to Lenox">
+		    <h6 class="gallery-caption text-center mt-2">Return</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0715-audubonoverlook.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AUDUBON OVERLOOK (0715) Pastel<br>
+        &bull; Original Art: 7&rdquo;x5&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0715-audubonoverlook.jpg" class="img-fluid" alt="Overlook at Drumlin Farm">
+		    <h6 class="gallery-caption text-center mt-2">Audubon Overlook</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0714-dunesatdawn.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DUNES AT DAWN (0714) Pastel<br>
+		    Provincetown, MA.<br>
+		    &bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil0714-dunesatdawn.jpg" class="img-fluid" alt="Provincetown Dunes at Dawn">
+		    <h6 class="gallery-caption text-center mt-2">Dunes at Dawn</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0713-wellfleetwetlands.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WELLFLEET WETLANDS (0713) Pastel<br>
+		    &bull; Original Art: 16&rdquo;x12&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0713-wellfleetwetlands.jpg" class="img-fluid" alt="Wetlands in Wellfleet">
+		    <h6 class="gallery-caption text-center mt-2">Wellfleet Wetlands</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item animals pastel">
+  	    <a href="../gallery/images/portart/portil0712-biminibubbles-c2018.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BIMINI BUBBLES (0712) Pastel<br>
+        &bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 10&rdquo;x8&rdquo;, $20.">
+		    <img src="../gallery/images/portart/portil0712-biminibubbles-c2018.jpg" class="img-fluid" alt="Dolphin bubbles at Bimini">
+		    <h6 class="gallery-caption text-center mt-2">Bimini Bubbles</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item animals pastel">
+  	    <a href="../gallery/images/portart/portil0711-spottedhello.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SPOTTED HELLO (0711) Pastel<br>
+		    &bull; Original Art: 9&rdquo;x6&rdquo;; with Mat: 12&rdquo;x9&rdquo;, $30.">
+		    <img src="../gallery/images/portart/portil0711-spottedhello.jpg" class="img-fluid" alt="Spotted dolphins saying hello">
+		    <h6 class="gallery-caption text-center mt-2">Spotted Hello</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0710-biminisunrise.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BIMINI SUNRISE (0710) Pastel<br>
+		    &bull; Original Art: 10&rdquo;x3.5&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0710-biminisunrise.jpg" class="img-fluid" alt="Sunrise in Bimini">
+		    <h6 class="gallery-caption text-center mt-2">Bimini Sunrise</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0708-mistedmtns.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MISTED MOUNTAINS (0708) Pastel<br>
+		    &bull; Original Art: 12.5&rdquo;x5&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0708-mistedmtns.jpg" class="img-fluid" alt="Misted Mountains at Kripalu">
+		    <h6 class="gallery-caption text-center mt-2">Misted Mountains</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0707-azaleasinmay.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AZALEAS IN MAY (0707) Pastel<br>
+		    Mt. Auburn Cemetery, Cambridge, MA.<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0707-azaleasinmay.jpg" class="img-fluid" alt="May Azaleas">
+		    <h6 class="gallery-caption text-center mt-2">Azaleas in May</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil0706-heartofspring.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HEART OF SPRING (0706) Pastel<br>
 		    Mt. Auburn Cemetery, Cambridge, MA.<br>
@@ -188,11 +463,11 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
-  	    <a href="../gallery/images/portart/portil0620-flowersymphony.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FLOWER SYMPHONY (0620) Pastel<br>
+  	    <a href="../gallery/images/portart/portil0620-flowersymphony-c2018.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FLOWER SYMPHONY (0620) Pastel<br>
 		    Lenox, MA.<br>
 		    &bull; Licensed for Book Cover <br>
 		    &bull; Original Art: 14&rdquo;x18&rdquo;; with Mat &amp; Frame: 18&rdquo;x22&rdquo;, $315.">
-		    <img src="../gallery/images/portart/portil0620-flowersymphony.jpg" class="img-fluid" alt="Flower Symphony in Lenox">
+		    <img src="../gallery/images/portart/portil0620-flowersymphony-c2018.jpg" class="img-fluid" alt="Flower Symphony in Lenox">
 		    <h6 class="gallery-caption text-center mt-2">Flower Symphony</h6>
 	      </a>
       </div>
