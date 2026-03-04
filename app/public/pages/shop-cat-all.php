@@ -150,6 +150,95 @@
 
       <div class="row mb-4">
 
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1011-BlanketFlowersandCosmos.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLANKET FLOWERS AND COSMOS (1011) Pastel<br>
+		    &bull; Notecard &amp; Print (FAA) &bull; Original Art: 8&rdquo;x10&rdquo;; with Mat: 11&rdquo;x14&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1011-BlanketFlowersandCosmos.jpg" class="img-fluid" alt="A mix of Blanket Flowers and Cosmos">
+		    <h6 class="gallery-caption text-center mt-2">Blanket Flowers and Cosmos</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1010-HotHotPeppers.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HOT, HOT PEPPERS (1010) Pastel<br>
+		    Belmont Farmer's Market, Belmont, MA.<br>
+		    &bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 10&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1010-HotHotPeppers.jpg" class="img-fluid" alt="Hot peppers">
+		    <h6 class="gallery-caption text-center mt-2">Hot, Hot Peppers</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1009-PeacefulBeginnings.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PEACEFUL BEGINNINGS (1009) Pastel<br>
+		    Long Pond Lake, Omega Institute, Rhinebeck, NY.<br>
+		    &bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, SOLD."">
+		    <img src="../gallery/images/portart/portil1009-PeacefulBeginnings.jpg" class="img-fluid" alt="Early morning peace">
+		    <h6 class="gallery-caption text-center mt-2">Peaceful Beginnings</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1008-PtownLitehouse.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PROVINCETOWN LIGHTHOUSE (1008) Pastel<br>
+		    Provincetown, MA.<br>
+		    &bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 10&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1008-PtownLitehouse.jpg" class="img-fluid" alt="Lighthouse at tip of Provincetown">
+		    <h6 class="gallery-caption text-center mt-2">Provincetown Lighthouse</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1007-RestfulRidetoPTown.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="RESTFUL RIDE TO PROVINCETOWN (1007) Pastel<br>
+		    Cape Cod, MA.<br>
+		    &bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 10&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1007-RestfulRidetoPTown.jpg" class="img-fluid" alt="view of ocean on the way to PTown">
+		    <h6 class="gallery-caption text-center mt-2">Restful Ride to Provincetown</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1006-StonyBrookAudubon.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="STONYBROOK AUDUBON (1006) Pastel<br>
+		    Norfolk, MA.<br>
+		    &bull; Original Art: 10&rdquo;x31/2&rdquo;; with Mat: 14&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1006-StonyBrookAudubon.jpg" class="img-fluid" alt="Audubon Sanctuary at Stonybrook">
+		    <h6 class="gallery-caption text-center mt-2">Stonybrook Audubon</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1005-CosmicConeflowers.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="COSMIC CONEFLOWERS (1005) Pastel<br>
+		    &bull; Notecard &amp; Print (FAA) <br>
+		    &bull; Original Art: 8&rdquo;x10&rdquo;; with Mat &amp; Frame: 11&rdquo;x14&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1005-CosmicConeflowers.jpg" class="img-fluid" alt="Large coneflowers">
+		    <h6 class="gallery-caption text-center mt-2">Cosmic Coneflowers</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1004-BetweenRainstorms.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BETWEEN RAINSTORMS (1004) Pastel<br>
+		    Lenox, MA.<br>
+		    &bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1004-BetweenRainstorms.jpg" class="img-fluid" alt="Paint outside between rainstorms">
+		    <h6 class="gallery-caption text-center mt-2">Between Rainstorms</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1003-quiet-on-the-charles.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="QUIET ON THE CHARLES (1003) Pastel<br>
+		    Watertown, MA.<br>
+		    &bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 10&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1003-quiet-on-the-charles.jpg" class="img-fluid" alt="Enjoying a quiet day on the Charles">
+		    <h6 class="gallery-caption text-center mt-2">Quiet on the Charles</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1002-MemoriesAfterRain.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MEMORIES OF AFTER THE RAIN (1002) Pastel<br>
 		    Kripalu Center, Lenox, MA.<br>
