@@ -151,6 +151,170 @@
       <div class="row mb-4">
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0916-thoreausview.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="THOREAU'S VIEW (0916) Pastel<br>
+		    View of Walden Pond in front of Thoreau's home, Concord, MA.<br>
+		    &bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0916-thoreausview.jpg" class="img-fluid" alt="Thoreau's view of Walden Pond">
+		    <h6 class="gallery-caption text-center mt-2">Thoreau's View</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0915-hydrangeasatwillowpond.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HYDRANGEA AT WILLOW POND (0915) Pastel<br>
+		    Mt. Auburn Cemetery, Cambridge, MA.<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0915-hydrangeasatwillowpond.jpg" class="img-fluid" alt="White Hydrangea">
+		    <h6 class="gallery-caption text-center mt-2">Hydrangea at Willow Pond</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0913-heirloomtomatoes.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HEIRLOOM TOMATOES (0913) Pastel<br>
+		    Belmont Farmer's Market, Belmont, MA.<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0913-heirloomtomatoes.jpg" class="img-fluid" alt="Heirloom Tomatoes at farmer's market">
+		    <h6 class="gallery-caption text-center mt-2">Heirloom Tomatoes</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0912-willowpond-summer.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WILLOW POND, SUMMER (0912) Pastel<br>
+		    Mt. Auburn Cemetery, Cambridge, MA.<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $210.">
+		    <img src="../gallery/images/portart/portil0912-willowpond-summer.jpg" class="img-fluid" alt="summer day at Willow Pond">
+		    <h6 class="gallery-caption text-center mt-2">Willow Pond, Summer</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0911-rainbowchard.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="RAINBOW CHARD (0911) Pastel<br>
+		    Belmont Farmer's Market, Belmont, MA.<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0911-rainbowchard.jpg" class="img-fluid" alt="Rainbow Chard at farmer's market">
+		    <h6 class="gallery-caption text-center mt-2">Ranbow Chard</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0910-orangelilies.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ORANGE LILIES (0910) Pastel<br>
+		    &bull; Original Art: 9&rdquo;x12&rdquo;; with Mat: 12&rdquo;x16&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0910-orangelilies.jpg" class="img-fluid" alt="Orange Lilies next door">
+		    <h6 class="gallery-caption text-center mt-2">Orange Lilies</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0909-goodneighbors.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GOOD NEIGHBORS (0909) Pastel<br>
+		    &bull; Original Art: 9&rdquo;x12&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0909-goodneighbors.jpg" class="img-fluid" alt="thanks to our good neighbors">
+		    <h6 class="gallery-caption text-center mt-2">Good Neighbors</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0908-echinacea.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ECHINACEA (0908) Pastel<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0908-echinacea.jpg" class="img-fluid" alt="Echinacea in our garden">
+		    <h6 class="gallery-caption text-center mt-2">Echinacea</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0907-beebalmquad.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BEE BALM QUAD (0907) Pastel<br>
+		    &bull; Original Art: 6&rdquo;x9&rdquo;; with Mat: 9&rdquo;x12&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0907-beebalmquad.jpg" class="img-fluid" alt="4 Bee Balm">
+		    <h6 class="gallery-caption text-center mt-2">Bee Balm Quad</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0906-beebalmsparklers.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BEE BALM SPARKLERS (0906) Pastel<br>
+		    &bull; Original Art: 6&rdquo;x9&rdquo;; with Mat: 9&rdquo;x12&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0906-beebalmsparklers.jpg" class="img-fluid" alt="Bee Balm resembling sparklers">
+		    <h6 class="gallery-caption text-center mt-2">Bee Balm Sparklers</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0905-julypetunias.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="JULY PETUNIAS (0905) Pastel<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0905-julypetunias.jpg" class="img-fluid" alt="Peggy's July Petunias">
+		    <h6 class="gallery-caption text-center mt-2">July Petunias</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0904-charlesriverspring.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CHARLES RIVER, SPRING (0904) Pastel<br>
+		    &bull; Original Art: 12&rdquo;x3-1/4&rdquo;; with Mat &amp; Frame: 16&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0904-charlesriverspring.jpg" class="img-fluid" alt="view of Charles River in spring">
+		    <h6 class="gallery-caption text-center mt-2">Charles River</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes">
+  	    <a href="../gallery/images/portart/portil0902-drums3f-kiwitee.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="3 DRUMS (0902) Digital<br>
+		    &bull; Original Art: 8.5&rdquo;x11&rdquo;; licensed for T-shirt">
+		    <img src="../gallery/images/portart/portil0902-drums3f-kiwitee.jpg" class="img-fluid" alt="Thoreau tee: 3 Drums">
+		    <h6 class="gallery-caption text-center mt-2">Thoreau: 3 Drums</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item animals">
+  	    <a href="../gallery/images/portart/portil0901-childchip-skyblue.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MIRACLE EYES (0901) Digital<br>
+		    &bull; Original Art: 8.5&rdquo;x11&rdquo;; licensed for T-shirt">
+		    <img src="../gallery/images/portart/portil0901-childchip-skyblue.jpg" class="img-fluid" alt="Thoreau tee: Miracle Eyes">
+		    <h6 class="gallery-caption text-center mt-2">Thoreau: Miracle Eyes</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0823-shimmering.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SHIMMERING (0823) Pastel<br>
+		    Bimini, Bahamas.<br>
+        &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil0823-shimmering.jpg" class="img-fluid" alt="Shimmering ocean">
+		    <h6 class="gallery-caption text-center mt-2">Shimmering</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0820-pathtoautumntrees.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PATH TO AUTUMN TREES (0820) Pastel<br>
+        &bull; Original Art: 10&rdquo;x3.5&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil0820-pathtoautumntrees.jpg" class="img-fluid" alt="Path leading to trees in autumn">
+		    <h6 class="gallery-caption text-center mt-2">Path to Autumn Trees</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscape pastel">
+  	    <a href="../gallery/images/portart/portil0819-fallcomfort.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FALL COMFORT (0819) Pastel<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; SOLD">
+		    <img src="../gallery/images/portart/portil0819-fallcomfort.jpg" class="img-fluid" alt="Fall comfort colors">
+		    <h6 class="gallery-caption text-center mt-2">Fall Comfort</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item animals pastel">
+  	    <a href="../gallery/images/portart/portil0817-loon.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LOON (0817) Pastel<br>
+		    Squam Lake, New Hampshire.<br>
+		    &bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 10&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0817-loon.jpg" class="img-fluid" alt="Loon at Squam Lake">
+		    <h6 class="gallery-caption text-center mt-2">Loon</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil0816-woodlandpond.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WOODLAND POND (0816) Pastel<br>
         &bull; Original Art: 10&rdquo;x8&rdquo;; SOLD.">
 		    <img src="../gallery/images/portart/portil0816-woodlandpond.jpg" class="img-fluid" alt="Pond in a woodsy area">
