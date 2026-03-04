@@ -151,6 +151,61 @@
       <div class="row mb-4">
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1002-MemoriesAfterRain.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MEMORIES OF AFTER THE RAIN (1002) Pastel<br>
+		    Kripalu Center, Lenox, MA.<br>
+		    &bull; Original Art: 12&rdquo;x9&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil1002-MemoriesAfterRain.jpg" class="img-fluid" alt="Remembering an earlier painting outing">
+		    <h6 class="gallery-caption text-center mt-2">Memories of After the Rain</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1001-HutchinsFarminFall.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HUTCHINS FARM IN FALL (1001) Pastel &amp; Watercolor<br>
+		    Concord, MA. &bull; Original Art: 12&rdquo;x6-1/4&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1001-HutchinsFarminFall.jpg" class="img-fluid" alt="A fall visit to Hutchins Farm">
+		    <h6 class="gallery-caption text-center mt-2">Hutchins Farm in Fall</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0920-crispkripalumorning-c2010.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CRISP KRIPALU MORNING (0920) Pastel<br>
+		    Kripalu Center, Lenox, MA.<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil0920-crispkripalumorning-c2010.jpg" class="img-fluid" alt="Crisp Morning at Kripalu">
+		    <h6 class="gallery-caption text-center mt-2">Crisp Kripalu Morning</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil0919-thoreauscove.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="THOREAU'S COVE (0919) Pastel<br>
+		    Walden Pond, Concord, MA.<br>
+		    &bull; Original Art: 11&rdquo;x6&rdquo;; with Mat: 14&rdquo;x9&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0919-thoreauscove.jpg" class="img-fluid" alt="Cove near Thoreau's home">
+		    <h6 class="gallery-caption text-center mt-2">Thoreau's Cove</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0918-mexicansunflowers-cleome.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MEXICAN SUNFLOWERS AND CLEOME (0918) Pastel<br>
+		    &bull; Original Art: 9&rdquo;x12&rdquo;; with Mat: 12&rdquo;x16&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0918-mexicansunflowers-cleome.jpg" class="img-fluid" alt="Cleome and Mexican Sunflowers">
+		    <h6 class="gallery-caption text-center mt-2">Mexican Sunflowers and Cleome</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0917-sergisflowers.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SERGI'S SUNFLOWERS (0917) Pastel<br>
+		    &bull; Original Art: 12&rdquo;x9&rdquo;; with Mat: 16&rdquo;x12&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil0917-sergisflowers.jpg" class="img-fluid" alt="Sunflowers at Sergi's farm">
+		    <h6 class="gallery-caption text-center mt-2">Sergi's Sunflowers</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil0916-thoreausview.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="THOREAU'S VIEW (0916) Pastel<br>
 		    View of Walden Pond in front of Thoreau's home, Concord, MA.<br>
 		    &bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, SOLD.">
