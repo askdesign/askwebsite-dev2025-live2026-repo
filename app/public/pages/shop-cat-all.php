@@ -151,8 +151,65 @@
       <div class="row mb-4">
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1102-DogSmiling.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DOG SMILING (1102) Pastel<br>
+		&bull; Original Art: 6&rdquo;x9&rdquo;; with Mat: 9&rdquo;x12&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1102-DogSmiling.jpg" class="img-fluid" alt="Smiling Dog">
+		    <h6 class="gallery-caption text-center mt-2">Dog Smiling</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1101-Columbine.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="COLUMBINE (1101) Pastel<br>
+		&bull; Original Art: 7&rdquo;x5&rdquo;; with Mat &amp; Frame: 10&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1101-Columbine.jpg" class="img-fluid" alt="Columbine in Peggy's garden">
+		    <h6 class="gallery-caption text-center mt-2">Columbine</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1015-UndermountainAutumn.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="UNDERMOUNTAIN AUTUMN (1015) Pastel<br>
+		Lenox, MA.<br>
+		&bull; Original Art: 16&rdquo;x12&rdquo;; with Mat &amp; Frame: 20&rdquo;x16&rdquo;, SOLD. ">
+		    <img src="../gallery/images/portart/portil1015-UndermountainAutumn.jpg" class="img-fluid" alt="Autumn at Undermountain Farm">
+		    <h6 class="gallery-caption text-center mt-2">Undermountain Autumn</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1014-OmegaMeditation.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="OMEGA MEDITATION (1014) Pastel<br>
+		The Sanctuary at Omega Institute, Rhinebeck, NY.<br>
+		&bull; Original Art: 10&rdquo;x6&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1014-OmegaMeditation.jpg" class="img-fluid" alt="The Sanctuary at Omega">
+		    <h6 class="gallery-caption text-center mt-2">Omega Meditation</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1013-MarysFarm.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MARY'S FARM (1013) Pastel<br>
+		Rhinebeck, NY.<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat: 16&rdquo;x12&rdquo;, SOLD">
+		    <img src="../gallery/images/portart/portil1013-MarysFarm.jpg" class="img-fluid" alt="Mary's Farm near Omega">
+		    <h6 class="gallery-caption text-center mt-2">Mary's Farm</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1012-HoneyCrispApples.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HONEY CRISP APPLES (1012) Pastel<br>
+		    &bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 10&rdquo;x8&rdquo;, $20.">
+		    <img src="../gallery/images/portart/portil1012-HoneyCrispApples.jpg" class="img-fluid" alt="Honey Crisp Apples at farmer's market">
+		    <h6 class="gallery-caption text-center mt-2">Honey Crisp Apples</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1011-BlanketFlowersandCosmos.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLANKET FLOWERS AND COSMOS (1011) Pastel<br>
-		    &bull; Notecard &amp; Print (FAA) &bull; Original Art: 8&rdquo;x10&rdquo;; with Mat: 11&rdquo;x14&rdquo;, SOLD.">
+		    &bull; Original Art: 8&rdquo;x10&rdquo;; with Mat: 11&rdquo;x14&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil1011-BlanketFlowersandCosmos.jpg" class="img-fluid" alt="A mix of Blanket Flowers and Cosmos">
 		    <h6 class="gallery-caption text-center mt-2">Blanket Flowers and Cosmos</h6>
 	      </a>
@@ -211,7 +268,6 @@
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1005-CosmicConeflowers.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="COSMIC CONEFLOWERS (1005) Pastel<br>
-		    &bull; Notecard &amp; Print (FAA) <br>
 		    &bull; Original Art: 8&rdquo;x10&rdquo;; with Mat &amp; Frame: 11&rdquo;x14&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil1005-CosmicConeflowers.jpg" class="img-fluid" alt="Large coneflowers">
 		    <h6 class="gallery-caption text-center mt-2">Cosmic Coneflowers</h6>
