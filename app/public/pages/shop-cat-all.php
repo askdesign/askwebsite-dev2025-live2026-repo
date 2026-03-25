@@ -151,6 +151,172 @@
       <div class="row mb-4">
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1201-hydrangea.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HYDRANGEA (1201) Pastel<br>
+		&bull; Original Art: 5&rdquo;x5&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil1201-hydrangea.jpg" class="img-fluid" alt="Peggy's Garden: Hydrangea">
+		    <h6 class="gallery-caption text-center mt-2">Hydrangea</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1119-DelicateArch.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DELICATE ARCH (1119) Pastel &amp; gouache<br>
+		A hike in Arches National Park, Utah.<br>
+		&bull; Original Art: 15&rdquo;x6&rdquo;; with Mat &amp; Frame: 18&rdquo;x9&rdquo;, $265.">
+		    <img src="../gallery/images/portart/portil1119-DelicateArch.jpg" class="img-fluid" alt="A hike in Arches National Park, Utah">
+		    <h6 class="gallery-caption text-center mt-2">Delicate Arch</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1118-Garden-in-the-Woods.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GARDEN IN THE WOOODS (1118) Pastel<br>
+		Framingham, MA.<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat: 16&rdquo;x12&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1118-Garden-in-the-Woods.jpg" class="img-fluid" alt="Garden in the Woods">
+		    <h6 class="gallery-caption text-center mt-2">Garden in the Woods</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1117-Cosmos.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="COSMOS (1117) Pastel<br>
+		&bull; Original Art: 8.5&rdquo;x6.5&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1117-Cosmos.jpg" class="img-fluid" alt="Peggy's Garden: Cosmos">
+		    <h6 class="gallery-caption text-center mt-2">Cosmos</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1116-BostonPublicGarden.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BOSTON PUBLIC GARDEN (1116) Pastel &amp; watercolor<br>
+		&bull; Original Art: 12&rdquo;x6.25&rdquo;; with Mat: 16&rdquo;x10&rdquo;, $65.">
+		    <img src="../gallery/images/portart/portil1116-BostonPublicGarden.jpg" class="img-fluid" alt="Boston Public Garden">
+		    <h6 class="gallery-caption text-center mt-2">Boston Public Garden</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1115-ColeusGoneWild.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="COLEUS GONE WILD (1115) Pastel<br>
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat &amp; Frame: 11&rdquo;x14&rdquo;, $21.">
+		    <img src="../gallery/images/portart/portil1115-ColeusGoneWild.jpg" class="img-fluid" alt="Wild Coleus">
+		    <h6 class="gallery-caption text-center mt-2">Coleus Gone Wild</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1114-Eggplants.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="EGGPLANTS: HUTCHINS FARM (1114) Pastel<br>
+		Belmont Farmer's Market, MA.<br>
+		&bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 10&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1114-Eggplants.jpg" class="img-fluid" alt="Hutchins Farm: Eggplants">
+		    <h6 class="gallery-caption text-center mt-2">Eggplants: Hutchins Farm</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1113-Stargazers.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="STARGAZERS (1113) Pastel<br>
+		&bull; Original Art: 8&rdquo;x10&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil1113-Stargazers.jpg" class="img-fluid" alt="Star-gazers">
+		    <h6 class="gallery-caption text-center mt-2">Star-gazers</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pencil">
+  	    <a href="../gallery/images/portart/portil1112-QuietFallDay.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="QUIET FALL DAY (1112) Colored Pencil<br>
+		&bull; Original Art: 5.5&rdquo;x3.5&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil1112-QuietFallDay.jpg" class="img-fluid" alt="Card: Quiet Fall Day">
+		    <h6 class="gallery-caption text-center mt-2">Quiet Fall Day</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1111-PtownSettingSun.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PROVINCETOWN SUN SETTING (1111) Pastel<br>
+		&bull; Original Art:7&rdquo;x5&rdquo;; nfs.">
+		    <img src="../gallery/images/portart/portil1111-PtownSettingSun.jpg" class="img-fluid" alt="Card: P-Town Sun Setting">
+		    <h6 class="gallery-caption text-center mt-2">P-Town Sun Setting</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1110-PtownDunes.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DUNES (1110) Pastel<br>
+		Provincetown, MA.<br>
+		&bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1110-PtownDunes.jpg" class="img-fluid" alt="Stella de Oro flower">
+		    <h6 class="gallery-caption text-center mt-2">Stella de Oro</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1109-MtAuburn.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MT. AUBURN (Bike 'n Paint) (1109) Pastel<br>
+		Mt. Auburn Cemetery, Cambridge, MA.<br>
+		&bull; Original Art: 9&rdquo;x4.5&rdquo;; with Mat: 12&rdquo;x9&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1109-MtAuburn.jpg" class="img-fluid" alt="MAC: Sweet Auburn">
+		    <h6 class="gallery-caption text-center mt-2">Sweet Auburn</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1108-StoneBridge.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="STONE BRIDGE, WATERTOWN (Bike 'n Paint) (1108) Pastel<br>
+		&bull; Original Art:10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil1108-StoneBridge.jpg" class="img-fluid" alt="Bike 'n Paint: Stone Bridge">
+		    <h6 class="gallery-caption text-center mt-2">Stone Bridge</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1107-Stella-de-Oro.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="STELLA DE ORO (1107) Pastel<br>
+		Belmont, MA.<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1107-Stella-de-Oro.jpg" class="img-fluid" alt="Stella de Oro flower">
+		    <h6 class="gallery-caption text-center mt-2">Stella de Oro</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1106-SweetAuburn.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SWEET AUBURN (1106) Pastel<br>
+		Mt. Auburn Cemetery, Cambridge, MA.<br>
+		&bull; Original Art:10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $210.">
+		    <img src="../gallery/images/portart/portil1106-SweetAuburn.jpg" class="img-fluid" alt="MAC: Sweet Auburn">
+		    <h6 class="gallery-caption text-center mt-2">Sweet Auburn</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1105-FreshPond.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FRESH POND (Bike 'n Paint) (1105) Pastel<br>
+		Cambridge, MA.<br>
+		&bull; Original Art: 10&rdquo;x7&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1105-FreshPond.jpg" class="img-fluid" alt="Bike 'n Paint: Fresh Pond">
+		    <h6 class="gallery-caption text-center mt-2">Fresh Pond</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1104-CharlesRiver.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CHARLES RIVER (Bike 'n Paint) (1104) Pastel <br>
+		Watertown, MA.<br>
+		&bull; Original Art: 9&rdquo;x6&rdquo;; with Mat: 12&rdquo;x9&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1104-CharlesRiver.jpg" class="img-fluid" alt="Bike 'n Paint: Charles River">
+		    <h6 class="gallery-caption text-center mt-2">Charles River</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel watercolor">
+  	    <a href="../gallery/images/portart/portil1103-PolihaleBeach.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="POLIHALE BEACH, KAUAI (1103) Mixed Media<br>
+		&bull; Original Art:11&rdquo;x6-3/4&rdquo;; with Mat: 14&rdquo;x11&rdquo;,  SOLD.">
+		    <img src="../gallery/images/portart/portil1103-PolihaleBeach.jpg" class="img-fluid" alt="Polihale Beach in Kauai">
+		    <h6 class="gallery-caption text-center mt-2">Polihale Beach, Kauai</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item animals pastel">
   	    <a href="../gallery/images/portart/portil1102-DogSmiling.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DOG SMILING (1102) Pastel<br>
 		&bull; Original Art: 6&rdquo;x9&rdquo;; with Mat: 9&rdquo;x12&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil1102-DogSmiling.jpg" class="img-fluid" alt="Smiling Dog">
@@ -169,7 +335,7 @@
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1015-UndermountainAutumn.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="UNDERMOUNTAIN AUTUMN (1015) Pastel<br>
 		Lenox, MA.<br>
-		&bull; Original Art: 16&rdquo;x12&rdquo;; with Mat &amp; Frame: 20&rdquo;x16&rdquo;, SOLD. ">
+		&bull; Original Art: 16&rdquo;x12&rdquo;; with Mat &amp; Frame: 20&rdquo;x16&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil1015-UndermountainAutumn.jpg" class="img-fluid" alt="Autumn at Undermountain Farm">
 		    <h6 class="gallery-caption text-center mt-2">Undermountain Autumn</h6>
 	      </a>
@@ -178,7 +344,7 @@
 <!-- end of row -->
 
 
-      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1014-OmegaMeditation.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="OMEGA MEDITATION (1014) Pastel<br>
 		The Sanctuary at Omega Institute, Rhinebeck, NY.<br>
 		&bull; Original Art: 10&rdquo;x6&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
@@ -187,16 +353,16 @@
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1013-MarysFarm.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MARY'S FARM (1013) Pastel<br>
 		Rhinebeck, NY.<br>
-		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat: 16&rdquo;x12&rdquo;, SOLD">
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat: 16&rdquo;x12&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil1013-MarysFarm.jpg" class="img-fluid" alt="Mary's Farm near Omega">
 		    <h6 class="gallery-caption text-center mt-2">Mary's Farm</h6>
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1012-HoneyCrispApples.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HONEY CRISP APPLES (1012) Pastel<br>
 		    &bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 10&rdquo;x8&rdquo;, $20.">
 		    <img src="../gallery/images/portart/portil1012-HoneyCrispApples.jpg" class="img-fluid" alt="Honey Crisp Apples at farmer's market">
@@ -227,7 +393,7 @@
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1009-PeacefulBeginnings.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PEACEFUL BEGINNINGS (1009) Pastel<br>
 		    Long Pond Lake, Omega Institute, Rhinebeck, NY.<br>
-		    &bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, SOLD."">
+		    &bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil1009-PeacefulBeginnings.jpg" class="img-fluid" alt="Early morning peace">
 		    <h6 class="gallery-caption text-center mt-2">Peaceful Beginnings</h6>
 	      </a>
@@ -306,7 +472,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1001-HutchinsFarminFall.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HUTCHINS FARM IN FALL (1001) Pastel &amp; Watercolor<br>
-		    Concord, MA. &bull; Original Art: 12&rdquo;x6-1/4&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, SOLD.">
+		    Concord, MA. &bull; Original Art: 12&rdquo;x6.25&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil1001-HutchinsFarminFall.jpg" class="img-fluid" alt="A fall visit to Hutchins Farm">
 		    <h6 class="gallery-caption text-center mt-2">Hutchins Farm in Fall</h6>
 	      </a>
@@ -370,7 +536,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil0913-heirloomtomatoes.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HEIRLOOM TOMATOES (0913) Pastel<br>
-		    Belmont Farmer's Market, Belmont, MA.<br>
+		    Belmont Farmer's Market in MA.<br>
 		    &bull; Original Art: 10&rdquo;x8&rdquo;; SOLD.">
 		    <img src="../gallery/images/portart/portil0913-heirloomtomatoes.jpg" class="img-fluid" alt="Heirloom Tomatoes at farmer's market">
 		    <h6 class="gallery-caption text-center mt-2">Heirloom Tomatoes</h6>
@@ -452,7 +618,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil0904-charlesriverspring.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CHARLES RIVER, SPRING (0904) Pastel<br>
-		    &bull; Original Art: 12&rdquo;x3-1/4&rdquo;; with Mat &amp; Frame: 16&rdquo;x8&rdquo;, SOLD.">
+		    &bull; Original Art: 12&rdquo;x3.25&rdquo;; with Mat &amp; Frame: 16&rdquo;x8&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil0904-charlesriverspring.jpg" class="img-fluid" alt="view of Charles River in spring">
 		    <h6 class="gallery-caption text-center mt-2">Charles River</h6>
 	      </a>
@@ -462,7 +628,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item landscapes">
   	    <a href="../gallery/images/portart/portil0902-drums3f-kiwitee.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="3 DRUMS (0902) Digital<br>
-		    &bull; Original Art: 8.5&rdquo;x11&rdquo;; licensed for T-shirt">
+		    &bull; Original Art: 8.5&rdquo;x11&rdquo;; licensed for T-shirt.">
 		    <img src="../gallery/images/portart/portil0902-drums3f-kiwitee.jpg" class="img-fluid" alt="Thoreau tee: 3 Drums">
 		    <h6 class="gallery-caption text-center mt-2">Thoreau: 3 Drums</h6>
 	      </a>
@@ -470,7 +636,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item animals">
   	    <a href="../gallery/images/portart/portil0901-childchip-skyblue.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MIRACLE EYES (0901) Digital<br>
-		    &bull; Original Art: 8.5&rdquo;x11&rdquo;; licensed for T-shirt">
+		    &bull; Original Art: 8.5&rdquo;x11&rdquo;; licensed for T-shirt.">
 		    <img src="../gallery/images/portart/portil0901-childchip-skyblue.jpg" class="img-fluid" alt="Thoreau tee: Miracle Eyes">
 		    <h6 class="gallery-caption text-center mt-2">Thoreau: Miracle Eyes</h6>
 	      </a>
@@ -497,7 +663,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item landscape pastel">
   	    <a href="../gallery/images/portart/portil0819-fallcomfort.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FALL COMFORT (0819) Pastel<br>
-		    &bull; Original Art: 10&rdquo;x8&rdquo;; SOLD">
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; SOLD.">
 		    <img src="../gallery/images/portart/portil0819-fallcomfort.jpg" class="img-fluid" alt="Fall comfort colors">
 		    <h6 class="gallery-caption text-center mt-2">Fall Comfort</h6>
 	      </a>
@@ -533,7 +699,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pencil">
   	    <a href="../gallery/images/portart/portil0814-tophatzinnias.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="TOP HAT ZINNIAS (0814) Colored Pencil<br>
-        &bull; Original Art: 3.5&rdquo;x5.25&rdquo;; with Mat: 8&rdquo;x10&rdquo;, SOLD">
+        &bull; Original Art: 3.5&rdquo;x5.25&rdquo;; with Mat: 8&rdquo;x10&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil0814-tophatzinnias.jpg" class="img-fluid" alt="Tophat zinnias">
 		    <h6 class="gallery-caption text-center mt-2">Top Hat Zinnias</h6>
 	      </a>
