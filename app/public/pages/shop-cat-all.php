@@ -150,10 +150,120 @@
 
       <div class="row mb-4">
 
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1513-betatakin-cliffdwellers.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BETATAKIN CLIFFDWELLERS (1513) Pastel <br>
+		Navajo National Monument, Arizona<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat: 16&rdquo;x12&rdquo;, $200.">
+		    <img src="../gallery/images/portart/portil1513-betatakin-cliffdwellers.jpg" class="img-fluid" alt="Cliffdwellers at Betatakin">
+		    <h6 class="gallery-caption text-center mt-2">Betatakin Cliffdwellers</h6>
+	      </a>
+      </div>
+
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
-  	    <a href="../gallery/images/portart/portil1501.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AZALEAS (1501) Pastel<br>
+  	    <a href="../gallery/images/portart/portil1512-burstofjoy.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BURST OF JOY (1512) Pastel <br>
+		&bull; Original Art: 9&rdquo;x12&rdquo;; with Mat &amp; Frame: 12&rdquo;x16&rdquo;, $265.">
+		    <img src="../gallery/images/portart/portil1512-burstofjoy.jpg" class="img-fluid" alt="neighbor's yard is filled with all kinds of large, colorful lilies.">
+		    <h6 class="gallery-caption text-center mt-2">Burst of Joy</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1511-pink-whispers.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PINK WHISPERS (1511) Pastel <br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $210.">
+		    <img src="../gallery/images/portart/portil1511-pink-whispers.jpg" class="img-fluid" alt="small lilies with compelling color">
+		    <h6 class="gallery-caption text-center mt-2">Pink Whispers</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1510-floating-mist.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FLOATING MIST (1510) Pastel <br>
+		Asheville, North Carolina<br>
+		&bull; Original Art: 6.5&rdquo;x10.5&rdquo;; with Mat &amp; Frame: 11&rdquo;x14&rdquo;, $210.">
+		    <img src="../gallery/images/portart/portil1510-floating-mist.jpg" class="img-fluid" alt="mist over Blue Ridges">
+		    <h6 class="gallery-caption text-center mt-2">Floating Mist</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1509-lovely-lilies.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LOVELY LILIES (1509) Pastel <br>
+		&bull; Original Art: 10&rdquo;x7.5&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1509-lovely-lilies.jpg" class="img-fluid" alt="sweet, lovely lilies">
+		    <h6 class="gallery-caption text-center mt-2">Lovely Lilies</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1508-blueridges2.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLUE RIDGES 2 (1508) Pastel <br>
+		Asheville, North Carolina<br>
+		&bull; Original Art: 11.5&rdquo;x3.75&rdquo;; with Mat: 16&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1508-blueridges2.jpg" class="img-fluid" alt="view of Blue Ridges 2">
+		    <h6 class="gallery-caption text-center mt-2">Blue Ridges 2</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1507-blueridges1.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLUE RIDGES 1 (1507) Pastel <br>
+		Asheville, North Carolina<br>
+		&bull; Original Art: 12&rdquo;x3.75&rdquo;; with Mat: 16&rdquo;x8&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil1507-blueridges1.jpg" class="img-fluid" alt="view of Blue Ridges">
+		    <h6 class="gallery-caption text-center mt-2">Blue Ridges 1</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes mixed">
+  	    <a href="../gallery/images/portart/portil1506-standout-redbush.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="STANDOUT (1506) Pastel &amp; Watercolor <br>
+		Summer at Kripalu Center, Lenox, MA<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, $265.">
+		    <img src="../gallery/images/portart/portil1506-standout-redbush.jpg" class="img-fluid" alt="Red bush standing out">
+		    <h6 class="gallery-caption text-center mt-2">Standout</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1505-vibration-loved-earth.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="VIBRATION OF A LOVED EARTH (1505) Pastel <br>
+		&bull; Original Art: 6.5&rdquo;x9&rdquo;; with Mat: 9&rdquo;x12&rdquo;, $20.">
+		    <img src="../gallery/images/portart/portil1505-vibration-loved-earth.jpg" class="img-fluid" alt="Loved earth vibes">
+		    <h6 class="gallery-caption text-center mt-2">Vibration of a Loved Earth</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1504-hana-heaven.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HANA HEAVEN (1504) Pastel<br>
+		Red Sand Beach, Hana, Maui.<br>
+		&bull; Original Art: 10&rdquo;x8	&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $210.">
+		    <img src="../gallery/images/portart/portil1504-hana-heaven.jpg" class="img-fluid" alt="Heavenly day in Hana">
+		    <h6 class="gallery-caption text-center mt-2">Hana Heaven</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1503-azaleas-in-pink.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AZALEAS IN PINK (1503) Pastel<br>
+		&bull; Original Art: 5&rdquo;x5&rdquo;; with Mat: 10&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1503-azaleas-in-pink.jpg" class="img-fluid" alt="Peggy's garden: Azaleas in Pink">
+		    <h6 class="gallery-caption text-center mt-2">Azaleas in Pink</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1502-allium-geranium.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ALLIUM AND GERANIUM (1502) Pastel<br>
+		&bull; Original Art: 7.5&rdquo;x10&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $210.">
+		    <img src="../gallery/images/portart/portil1502-allium-geranium.jpg" class="img-fluid" alt="Peggy's garden: Allium and Geranium">
+		    <h6 class="gallery-caption text-center mt-2">Allium and Geranium</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1501-azaleas.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AZALEAS (1501) Pastel<br>
 		&bull; Original Art: 7&rdquo;x5&rdquo;; with Mat &amp; Frame: 10&rdquo;x8&rdquo;, SOLD">
-		    <img src="../gallery/images/portart/portil1501.jpg" class="img-fluid" alt="Peggy's Garden: azaleas">
+		    <img src="../gallery/images/portart/portil1501-azaleas.jpg" class="img-fluid" alt="Peggy's Garden: azaleas">
 		    <h6 class="gallery-caption text-center mt-2">Azaleas</h6>
 	      </a>
       </div>
@@ -317,7 +427,7 @@
 
 <!-- end of row -->
 
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel watercolor">
+      <div class="col-sm-4 mb-4 gallery-item landscapes mixed">
   	    <a href="../gallery/images/portart/portil1302-kalalau-valley.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="KALALAU VALLEY (1302) Pastel, watercolor, gouache<br>
 		Kalalau Valley, on the northwest side of the island of Kaua'i in Hawai'i. <br>
 		&bull; Original Art: 15&rdquo;x6.25&rdquo;; with Mat &amp; Frame: 18&rdquo;x9&rdquo;, $265.">
