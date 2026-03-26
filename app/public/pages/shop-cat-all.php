@@ -150,10 +150,92 @@
 
       <div class="row mb-4">
 
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1501.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AZALEAS (1501) Pastel<br>
+		&bull; Original Art: 7&rdquo;x5&rdquo;; with Mat &amp; Frame: 10&rdquo;x8&rdquo;, SOLD">
+		    <img src="../gallery/images/portart/portil1501.jpg" class="img-fluid" alt="Peggy's Garden: azaleas">
+		    <h6 class="gallery-caption text-center mt-2">Azaleas</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes watercolor">
+  	    <a href="../gallery/images/portart/portil1416-definition-wonderful-day.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DEFINITION OF A WONDERFUL DAY (1416) Watercolor <br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; nfs.">
+		    <img src="../gallery/images/portart/portil1416-definition-wonderful-day.jpg" class="img-fluid" alt="Wonderful Day Painting with Tina">
+		    <h6 class="gallery-caption text-center mt-2">Definition of a Wonderful Day</h6>
+	      </a>
+      </div>
+
       <div class="col-sm-4 mb-4 gallery-item landscapes mixed">
-  	    <a href="../gallery/images/portart/portil1408.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LA PASSION (1408) Mixed Media <br> 
+  	    <a href="../gallery/images/portart/portil1415-monument-valley.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MONUMENT VALLEY (1415) Pastel, Gouache, Watercolor <br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1415-monument-valley.jpg" class="img-fluid" alt="Iconic structures of Monument Valley">
+		    <h6 class="gallery-caption text-center mt-2">Monument Valley</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1414-thrugate.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="THROUGH THE GATE (1414) Pastel <br>
+		&bull; Habitat Audubon Sanctuary, Belmont, MA<br>
+		&bull; Original Art: 9&rdquo;x12&rdquo;; with Mat: 12&rdquo;x16&rdquo;, $160.">
+		    <img src="../gallery/images/portart/portil1414-thrugate.jpg" class="img-fluid" alt="Looking at the garden through the gate">
+		    <h6 class="gallery-caption text-center mt-2">Through the Gate</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1413-berkshires-late-fall.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BERKSHIRES: LATE FALL (1413) Pastel <br>
+		&bull; Kripalu Center, Lenox, MA<br>
+		&bull; Original Art: 8.375&rdquo;x4.625&rdquo;; with Mat: 12&rdquo;x9&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1413-berkshires-late-fall.jpg" class="img-fluid" alt="Late Fall in the Berkshires">
+		    <h6 class="gallery-caption text-center mt-2">Berkshires: Late Fall</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1412-lastday.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LAST DAY (1412) Pastel <br>
+		&bull; Omega Institute, Rhinebeck, NY<br>
+		&bull; Original Art: 9&rdquo;x12&rdquo;; with Mat &amp; Frame: 12&rdquo;x16&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1412-lastday.jpg" class="img-fluid" alt="I love painting Long Pond Lake, especially in the morning when all is quiet.">
+		    <h6 class="gallery-caption text-center mt-2">Last Day</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1411-love-ribbons.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LOVE RIBBONS (1411) Pastel <br> 
+		&bull; Original Art: 6.5&rdquo;x8.5&rdquo;; with Mat: 12&rdquo;x9&rdquo;, $50.">
+		    <img src="../gallery/images/portart/portil1411-love-ribbons.jpg" class="img-fluid" alt="Playing with the idea of ribbons floating around a heart shape.">
+		    <h6 class="gallery-caption text-center mt-2">Love Ribbons</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1410-love-rising.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LOVE RISING (1410) Pastel <br> 
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $85.">
+		    <img src="../gallery/images/portart/portil1410-love-rising.jpg" class="img-fluid" alt="Love Rising in the mountains">
+		    <h6 class="gallery-caption text-center mt-2">Love Rising</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item people mixed">
+  	    <a href="../gallery/images/portart/portil1409-louise-boston1944.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LOUISE: BOSTON 1944 (1409) Mixed Media<br>
+		Created in memory of my mother. One of my fave photos of my mother. I surrounded that picture with things that my mother loved: the beach, butterflies, flowers, and the color purple..<br>
+		&bull; Original Art: 10&rdquo;x15.5&rdquo;; nfs.">
+		    <img src="../gallery/images/portart/portil1409-louise-boston1944.jpg" class="img-fluid" alt="Created in memory of my mother. ">
+		    <h6 class="gallery-caption text-center mt-2">Louise: Boston 1944</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes mixed">
+  	    <a href="../gallery/images/portart/portil1408-lapassion.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LA PASSION (1408) Mixed Media <br> 
 		&bull; Original Art: 6.25&rdquo;x10.75&rdquo;; no Mat or Frame, $60.">
-		    <img src="../gallery/images/portart/portil1408.jpg" class="img-fluid" alt="A mixture of my graphic design sensibilities with my love of paper, texture, and language.">
+		    <img src="../gallery/images/portart/portil1408-lapassion.jpg" class="img-fluid" alt="A mixture of my graphic design sensibilities with my love of paper, texture, and language.">
 		    <h6 class="gallery-caption text-center mt-2">La Passion</h6>
 	      </a>
       </div>
