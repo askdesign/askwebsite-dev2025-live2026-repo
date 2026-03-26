@@ -150,6 +150,93 @@
 
       <div class="row mb-4">
 
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel watercolor">
+  	    <a href="../gallery/images/portart/portil1302-kalalau-valley.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="KALALAU VALLEY (1302) Pastel, watercolor, gouache<br>
+		Kalalau Valley, on the northwest side of the island of Kaua'i in Hawai'i. <br>
+		&bull; Original Art: 15&rdquo;x6.25&rdquo;; with Mat &amp; Frame: 18&rdquo;x9&rdquo;, $265.">
+		    <img src="../gallery/images/portart/portil1302-kalalau-valley.jpg" class="img-fluid" alt="Kalalau Valley, Kaua'i">
+		    <h6 class="gallery-caption text-center mt-2">Kalalau Valley</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1301-morning-mist.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MORNING MIST (1301) Pastel<br>
+		An early morning view of Lake Mahkeenac at Kripalu Center, Lenox, MA<br>
+		&bull; Original Art: 12.5&rdquo;x4.75&rdquo;; with Mat: 15&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1301-morning-mist.jpg" class="img-fluid" alt="early morning view of Lake Mahkeenac">
+		    <h6 class="gallery-caption text-center mt-2">Morning Mist</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1208-quiet.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="QUIET (1208) Pastel<br>
+		A quiet fall afternoon at Lake Mahkeenac at Kripalu Center, Lenox, MA.<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1208-quiet.jpg" class="img-fluid" alt="A quiet fall afternoon at Lake Mahkeenac">
+		    <h6 class="gallery-caption text-center mt-2">Quiet</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1207-soft-bend.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SOFT BEND (1207) Pastel<br>
+		View of road in front of Mary's Farm, Rhinebeck, NY.<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1207-soft-bend.jpg" class="img-fluid" alt="View of road in front of Mary's Farm">
+		    <h6 class="gallery-caption text-center mt-2">Garden Welcoming</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1206-walking-meditation.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WALKING MEDITATION (1206) Pastel<br>
+		The labyrinth at Kripalu Center, Lenox, MA.<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil1206-walking-meditation.jpg" class="img-fluid" alt="The labyrinth at Kripalu Center">
+		    <h6 class="gallery-caption text-center mt-2">Walking Meditation</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1205-danceforjoy.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DANCE FOR JOY (1205) Pastel<br>
+		The garden at Omega Institute, Rhinebeck, NY.<br>
+		&bull; Original Art: 7&rdquo;x5&rdquo;; $20.">
+		    <img src="../gallery/images/portart/portil1205-danceforjoy.jpg" class="img-fluid" alt="The garden at Omega Institute">
+		    <h6 class="gallery-caption text-center mt-2">Dance for Joy</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1204-garden-welcoming.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GARDEN WELCOMING (1204) Pastel<br>
+		The garden entrance at Omega Institute, Rhinebeck, NY.<br>
+		&bull; Original Art: 9&rdquo;x7&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1204-garden-welcoming.jpg" class="img-fluid" alt="The garden entrance at Omega Institute, Rhinebeck, NY">
+		    <h6 class="gallery-caption text-center mt-2">Garden Welcoming</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1203-deep-breath.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DEEP BREATH (1203) Pastel<br>
+		Long Pond Lake, Omega Institute, Rhinebeck, NY.<br>
+		&bull; Original Art: 11-1/8&rdquo;x5&rdquo;; with Mat &amp; Frame: 15&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1203-deep-breath.jpg" class="img-fluid" alt="Long Pond Lake, Omega Institute, Rhinebeck, NY">
+		    <h6 class="gallery-caption text-center mt-2">Deep Breath</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1202-waking-up.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WAKING UP (1202) Pastel<br>
+		Crisp fall morning at Kripalu Center, Lenox, MA.<br>
+		&bull; Original Art: 9&rdquo;x12&rdquo;; with Mat &amp; Frame: 12&rdquo;x16&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1202-waking-up.jpg" class="img-fluid" alt="Crisp fall morning at Kripalu Center, Lenox, MA.">
+		    <h6 class="gallery-caption text-center mt-2">Waking Up</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1201-hydrangea.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HYDRANGEA (1201) Pastel<br>
 		&bull; Original Art: 5&rdquo;x5&rdquo;; SOLD.">
@@ -239,12 +326,12 @@
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1110-PtownDunes.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DUNES (1110) Pastel<br>
 		Provincetown, MA.<br>
 		&bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
-		    <img src="../gallery/images/portart/portil1110-PtownDunes.jpg" class="img-fluid" alt="Stella de Oro flower">
-		    <h6 class="gallery-caption text-center mt-2">Stella de Oro</h6>
+		    <img src="../gallery/images/portart/portil1110-PtownDunes.jpg" class="img-fluid" alt="PTown Dunes">
+		    <h6 class="gallery-caption text-center mt-2">Dunes</h6>
 	      </a>
       </div>
 
