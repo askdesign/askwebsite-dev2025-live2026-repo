@@ -140,7 +140,7 @@
         <button type="button" class="btn btn-outline-primary" data-filter=".animals">animals</button>
         <button type="button" class="btn btn-outline-primary" data-filter=".pastel">pastel</button>
         <button type="button" class="btn btn-outline-primary" data-filter=".watercolor">watercolor</button>
-        <button type="button" class="btn btn-outline-primary" data-filter=".penandink">pen and ink</button>
+        <button type="button" class="btn btn-outline-primary" data-filter=".mixed">mixed media</button>
         <button type="button" class="btn btn-outline-primary" data-filter=".pencil">colored pencil</button>
       </div>
 
@@ -149,6 +149,91 @@
     <div class="col-12"><!-- columns -->
 
       <div class="row mb-4">
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes mixed">
+  	    <a href="../gallery/images/portart/portil1408.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LA PASSION (1408) Mixed Media <br> 
+		&bull; Original Art: 6.25&rdquo;x10.75&rdquo;; no Mat or Frame, $60.">
+		    <img src="../gallery/images/portart/portil1408.jpg" class="img-fluid" alt="A mixture of my graphic design sensibilities with my love of paper, texture, and language.">
+		    <h6 class="gallery-caption text-center mt-2">La Passion</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1310-berkshires-late-oct.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BERKSHIRES: LATE AUTUMN (1310) Pastel<br>
+		View of Lake Mahkeenac at Kripalu Center, Lenox, MA.<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil1310-berkshires-late-oct.jpg" class="img-fluid" alt="View of Lake Mahkeenac in October">
+		    <h6 class="gallery-caption text-center mt-2">Berkshires: Late October</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1309-olanaoverlook.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="OLANA OVERLOOK (1309) Pastel<br>
+		Olana State Historic Site, Hudson, NY. The 19th century artist Frederic Edwin Church lived and painted here.<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1309-olanaoverlook.jpg" class="img-fluid" alt="The overlook scene from Olana">
+		    <h6 class="gallery-caption text-center mt-2">Olana Overlook</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1308-raquel-morning-walk.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="RAQUEL'S MORNING WALK (1308) Pastel<br>
+		Long Pond Lake, Omega Institute, Rhinebeck, NY. As I was finishing this painting, a woman walked by and started talking to me about it. She decided to buy the painting right then and there!<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat: 16&rdquo;x12&rdquo;, SOLD. ">
+		    <img src="../gallery/images/portart/portil1308-raquel-morning-walk.jpg" class="img-fluid" alt="Raquel bought this while on her morning walk">
+		    <h6 class="gallery-caption text-center mt-2">Raquel's Morning Walk</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1307-afternoon-rest.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AFTERNOON REST (1307) Pastel<br>
+		Long Pond Lake, Omega Institute, Rhinebeck, NY.<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil1307-afternoon-rest.jpg" class="img-fluid" alt="restful afternoon">
+		    <h6 class="gallery-caption text-center mt-2">Afternoon Rest</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1306-hand-onmy-heart.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HAND ON MY HEART (1306) Pastel<br>
+		Omega Institute, Rhinebeck, NY.<br>
+		&bull; Original Art: 9&rdquo;x6&rdquo;; with Mat &amp; Frame: 12&rdquo;x9&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1306-hand-onmy-heart.jpg" class="img-fluid" alt="Flowers' beauty caused me to place my hand on my heart">
+		    <h6 class="gallery-caption text-center mt-2">Hand on my Heart</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1305-bright-lightness.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BRIGHT LIGHTNESS (1305) Pastel<br>
+		Omega Institute, Rhinebeck, NY.<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1305-bright-lightness.jpg" class="img-fluid" alt="Bright yellow Iris">
+		    <h6 class="gallery-caption text-center mt-2">Bright Lightness</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1304-hosta-pattern.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HOSTA PATTERN (1304) Pastel<br>
+		Omega Institute, Rhinebeck, NY.<br>
+		&bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 10&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1304-hosta-pattern.jpg" class="img-fluid" alt="pattern in Hosta plant">
+		    <h6 class="gallery-caption text-center mt-2">Hosta Pattern</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1303-iris-sweetness.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="IRIS SWEETNESS (1303) Pastel<br>
+		&bull; Original Art: 7&rdquo;x5&rdquo;; with Mat &amp; Frame: 10&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1303-iris-sweetness.jpg" class="img-fluid" alt="Peggy's garden: Iris">
+		    <h6 class="gallery-caption text-center mt-2">Iris Sweetness</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel watercolor">
   	    <a href="../gallery/images/portart/portil1302-kalalau-valley.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="KALALAU VALLEY (1302) Pastel, watercolor, gouache<br>
@@ -393,7 +478,7 @@
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel watercolor">
+      <div class="col-sm-4 mb-4 gallery-item landscapes mixed">
   	    <a href="../gallery/images/portart/portil1103-PolihaleBeach.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="POLIHALE BEACH, KAUAI (1103) Mixed Media<br>
 		&bull; Original Art:11&rdquo;x6-3/4&rdquo;; with Mat: 14&rdquo;x11&rdquo;,  SOLD.">
 		    <img src="../gallery/images/portart/portil1103-PolihaleBeach.jpg" class="img-fluid" alt="Polihale Beach in Kauai">
