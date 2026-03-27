@@ -151,6 +151,91 @@
       <div class="row mb-4">
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1603.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLUE RIDGES MIST 2 (1519) Pastel <br>
+		Asheville, North Carolina<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $85.">
+		    <img src="../gallery/images/portart/portil1603.jpg" class="img-fluid" alt="floating mist in Blue Ridges">
+		    <h6 class="gallery-caption text-center mt-2">tk</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1602.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLUE RIDGES MIST 1 (1518) Pastel <br>
+		Asheville, North Carolina<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 11&rdquo;x14&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1602.jpg" class="img-fluid" alt="morning mist floating in the peaks in the Blue Ridge Mountains">
+		    <h6 class="gallery-caption text-center mt-2">tk</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1520-canyondechelly-cliffdwellers.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CANYON DE CHELLY CLIFFDWELLERS (1520) Pastel <br>
+		Navajo Nation, Arizona<br>
+		&bull; Original Art: 5&rdquo;x9&rdquo;; with Mat: 8&rdquo;x11&rdquo;, $50.">
+		    <img src="../gallery/images/portart/portil1520-canyondechelly-cliffdwellers.jpg" class="img-fluid" alt="amazing cliffs in Canyon de Chelly">
+		    <h6 class="gallery-caption text-center mt-2">Canyon de Chelly Cliffdwellers</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1519-blueridgemist2.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLUE RIDGES MIST 2 (1519) Pastel <br>
+		Asheville, North Carolina<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $85.">
+		    <img src="../gallery/images/portart/portil1519-blueridgemist2.jpg" class="img-fluid" alt="floating mist in Blue Ridges">
+		    <h6 class="gallery-caption text-center mt-2">Blue Ridges Mist 2</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1518-blueridgemist1.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLUE RIDGES MIST 1 (1518) Pastel <br>
+		Asheville, North Carolina<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 11&rdquo;x14&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1518-blueridgemist1.jpg" class="img-fluid" alt="morning mist floating in the peaks in the Blue Ridge Mountains">
+		    <h6 class="gallery-caption text-center mt-2">Blue Ridges Mist 1</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1517-blueridges4.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLUE RIDGES 4 (1517) Pastel <br>
+		Asheville, North Carolina<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, $265.">
+		    <img src="../gallery/images/portart/portil1517-blueridges4.jpg" class="img-fluid" alt="depth and expanse of peaks in the beautiful Blue Ridge Mountains">
+		    <h6 class="gallery-caption text-center mt-2">Blue Ridges 4</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item animals mixed">
+  	    <a href="../gallery/images/portart/portil1516-greenturtlesheaven2.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GREEN TURTLES HEAVEN 2 (1516) Mixed Media <br>
+		&bull; Original Art: 8&rdquo;x8&rdquo;; nfs.">
+		    <img src="../gallery/images/portart/portil1516-greenturtlesheaven2.jpg" class="img-fluid" alt="collage: Green Turtles Heaven 2">
+		    <h6 class="gallery-caption text-center mt-2">Green Turtles Heaven21</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item animals mixed">
+  	    <a href="../gallery/images/portart/portil1515-greenturtlesheaven1.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GREEN TURTLES HEAVEN 1 (1515) Mixed Media <br>
+		&bull; Original Art: 8&rdquo;x8&rdquo;; nfs.">
+		    <img src="../gallery/images/portart/portil1515-greenturtlesheaven1.jpg" class="img-fluid" alt="collage: Green Turtles Heaven 1">
+		    <h6 class="gallery-caption text-center mt-2">Green Turtles Heaven 1</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1514-blueridges3.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLUE RIDGES 3 (1514) Pastel <br>
+		Asheville, North Carolina<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, $265.">
+		    <img src="../gallery/images/portart/portil1514-blueridges3.jpg" class="img-fluid" alt="The morning light in the Blue Ridge Mountains is always changing and intriguing.">
+		    <h6 class="gallery-caption text-center mt-2">Blue Ridges 3</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1513-betatakin-cliffdwellers.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BETATAKIN CLIFFDWELLERS (1513) Pastel <br>
 		Navajo National Monument, Arizona<br>
 		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat: 16&rdquo;x12&rdquo;, $200.">
