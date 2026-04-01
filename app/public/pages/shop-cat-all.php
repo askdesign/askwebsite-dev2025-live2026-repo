@@ -150,21 +150,157 @@
 
       <div class="row mb-4">
 
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil1603.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLUE RIDGES MIST 2 (1519) Pastel <br>
-		Asheville, North Carolina<br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $85.">
-		    <img src="../gallery/images/portart/portil1603.jpg" class="img-fluid" alt="floating mist in Blue Ridges">
-		    <h6 class="gallery-caption text-center mt-2">tk</h6>
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1703.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MYSTERY FLOWER (1615) Pastel <br>
+		&bull; Original Art: 6&rdquo;x6&rdquo;; with Mat: 8&rdquo;x8&rdquo;, $30.">
+		    <img src="../gallery/images/portart/portil1703.jpg" class="img-fluid" alt="Mystery Flower">
+		    <h6 class="gallery-caption text-center mt-2">Mystery Flower</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil1602.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLUE RIDGES MIST 1 (1518) Pastel <br>
-		Asheville, North Carolina<br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 11&rdquo;x14&rdquo;, SOLD.">
-		    <img src="../gallery/images/portart/portil1602.jpg" class="img-fluid" alt="morning mist floating in the peaks in the Blue Ridge Mountains">
-		    <h6 class="gallery-caption text-center mt-2">tk</h6>
+  	    <a href="../gallery/images/portart/portil1702.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="QUIET CORNER (1614) Pastel <br>
+		Boston Public Garden, MA<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1702.jpg" class="img-fluid" alt="Quiet corner in Boston Public Garden">
+		    <h6 class="gallery-caption text-center mt-2">Quiet Corner</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pen">
+  	    <a href="../gallery/images/portart/portil1616-lebata-rest-camp.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LEBATA REST CAMP (1616) Pen & Ink <br>
+		&bull; Original Art: 9&rdquo;x5.75&rdquo;; SOLD.">
+		    <img src="../gallery/images/portart/portil1616-lebata-rest-camp.jpg" class="img-fluid" alt="study: Lebata Rest Camp">
+		    <h6 class="gallery-caption text-center mt-2">Lebata Rest Camp</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1615-mystery-flower.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MYSTERY FLOWER (1615) Pastel <br>
+		&bull; Original Art: 6&rdquo;x6&rdquo;; with Mat: 8&rdquo;x8&rdquo;, $30.">
+		    <img src="../gallery/images/portart/portil1615-mystery-flower.jpg" class="img-fluid" alt="Mystery Flower">
+		    <h6 class="gallery-caption text-center mt-2">Mystery Flower</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1614-quiet-corner.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="QUIET CORNER (1614) Pastel <br>
+		Boston Public Garden, MA<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1614-quiet-corner.jpg" class="img-fluid" alt="Quiet corner in Boston Public Garden">
+		    <h6 class="gallery-caption text-center mt-2">Quiet Corner</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1613-colorful-fence.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="COLORFUL FENCE (1613) Pastel <br>
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat: 11&rdquo;x14&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1613-colorful-fence.jpg" class="img-fluid" alt="Peggy's garden: the colorful fence">
+		    <h6 class="gallery-caption text-center mt-2">Colorful Fence</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1612-on-the-corner.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ON THE CORNER (1612) Pastel <br>
+		&bull; Original Art: 9&rdquo;x12&rdquo;; with Mat: 12&rdquo;x16&rdquo;, $145.">
+		    <img src="../gallery/images/portart/portil1612-on-the-corner.jpg" class="img-fluid" alt="Tree on the cornerr">
+		    <h6 class="gallery-caption text-center mt-2">On the Corner</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1611-no-wonder-he-lived-here.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="NO WONDER HE LIVED HERE (1611) Pastel <br>
+		Frederic Church's home in Olana, Hudson, NY<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil1611-no-wonder-he-lived-here.jpg" class="img-fluid" alt="Frederic Church studio view of Hudson River Valley">
+		    <h6 class="gallery-caption text-center mt-2">No Wonder He Lived Here</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1610-entry-overlook.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ENTRY OVERLOOK (1610) Pastel <br>
+		Lenox, MA<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat: 16&rdquo;x12&rdquo;, $200.">
+		    <img src="../gallery/images/portart/portil1610-entry-overlook.jpg" class="img-fluid" alt="entry overlook">
+		    <h6 class="gallery-caption text-center mt-2">Entry Overlook</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1609-lake-mahkeenac.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LAKE MAHKEENAC (1609) Pastel <br>
+		Lenox, MA<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $85.">
+		    <img src="../gallery/images/portart/portil1609-lake-mahkeenac.jpg" class="img-fluid" alt="Late fall in Lenox brings darker, subdued colors">
+		    <h6 class="gallery-caption text-center mt-2">Lake Mahkeenac</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1608-echinacea-and-gayfeather.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ECHINACEA AND GAY FEATHER (1608) Pastel <br>
+		&bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 10&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1608-echinacea-and-gayfeather.jpg" class="img-fluid" alt="study: echinacea and gay feather">
+		    <h6 class="gallery-caption text-center mt-2">Echinacea and Gay Feather</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1607-daylilies.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DAY LILIES (1607) Pastel <br>
+		&bull; Original Art: 9&rdquo;x6.5&rdquo;; with Mat &amp; Frame: 12&rdquo;x9&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1607-daylilies.jpg" class="img-fluid" alt="Happy yellow flowers">
+		    <h6 class="gallery-caption text-center mt-2">Day Lilies</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1606-yinyang.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="YIN YANG (1606) Pastel <br>
+		Antelope Canyon, Navajo Nation, Arizona<br>
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat &amp; Frame: 11&rdquo;x14&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil1606-yinyang.jpg" class="img-fluid" alt="Other-worldly contours and shapes">
+		    <h6 class="gallery-caption text-center mt-2">Yin Yang</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1605-stelladeoro2.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="STELLA DE ORO #2 (1605) Pastel <br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $85.">
+		    <img src="../gallery/images/portart/portil1605-stelladeoro2.jpg" class="img-fluid" alt="Stella d'Oro in full bloom in front yard garden.">
+		    <h6 class="gallery-caption text-center mt-2">Stella de Oro #2</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1604-fireworks.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FIREWORKS (1604) Pastel <br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1604-fireworks.jpg" class="img-fluid" alt="Fireworks">
+		    <h6 class="gallery-caption text-center mt-2">Fireworks</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1603-canyondechelly-cliffdwellers2.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CANYON DE CHELLY CLIFFDWELLERS #2 (1603) Pastel <br>
+		Navajo Nation, Arizona<br>
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $85.">
+		    <img src="../gallery/images/portart/portil1603-canyondechelly-cliffdwellers2.jpg" class="img-fluid" alt="A lovely hike from the rim to the base of this canyon">
+		    <h6 class="gallery-caption text-center mt-2">Canyon de Chelly Cliffdwellers #2</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1602-giantwindow.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GIANT WINDOW (1602) Pastel <br>
+		Arches National Park, Utah<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $210.">
+		    <img src="../gallery/images/portart/portil1602-giantwindow.jpg" class="img-fluid" alt="Giant Arch at Arches">
+		    <h6 class="gallery-caption text-center mt-2">Giant Window</h6>
 	      </a>
       </div>
 
@@ -212,7 +348,7 @@
   	    <a href="../gallery/images/portart/portil1516-greenturtlesheaven2.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GREEN TURTLES HEAVEN 2 (1516) Mixed Media <br>
 		&bull; Original Art: 8&rdquo;x8&rdquo;; nfs.">
 		    <img src="../gallery/images/portart/portil1516-greenturtlesheaven2.jpg" class="img-fluid" alt="collage: Green Turtles Heaven 2">
-		    <h6 class="gallery-caption text-center mt-2">Green Turtles Heaven21</h6>
+		    <h6 class="gallery-caption text-center mt-2">Green Turtles Heaven2</h6>
 	      </a>
       </div>
 
