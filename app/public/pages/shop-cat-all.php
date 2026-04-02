@@ -151,19 +151,132 @@
       <div class="row mb-4">
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
-  	    <a href="../gallery/images/portart/portil1703.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MYSTERY FLOWER (1615) Pastel <br>
-		&bull; Original Art: 6&rdquo;x6&rdquo;; with Mat: 8&rdquo;x8&rdquo;, $30.">
-		    <img src="../gallery/images/portart/portil1703.jpg" class="img-fluid" alt="Mystery Flower">
-		    <h6 class="gallery-caption text-center mt-2">Mystery Flower</h6>
+  	    <a href="../gallery/images/portart/portil1715-early-spring-buds.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="EARLY SPRING BUDS (1715) Pastel <br>
+		&bull; Original Art: 5&rdquo;x7&rdquo;; with Mat: 8&rdquo;x10&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1715-early-spring-buds.jpg" class="img-fluid" alt="Spring is the sweetest time of year">
+		    <h6 class="gallery-caption text-center mt-2">Early Spring Buds</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1714-late-summer.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PEGGY'S GARDEN IN LATE SUMMER (1714) Pastel <br>
+		Belmont, MA<br>
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $85.">
+		    <img src="../gallery/images/portart/portil1714-late-summer.jpg" class="img-fluid" alt="Late summer in Peggy's garden">
+		    <h6 class="gallery-caption text-center mt-2">Peggy's Garden in Late Summer</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1713-country-garden-inspiration.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="COUNTRY GARDEN INSPIRATION (1713) Pastel <br>
+		Sharon, CT<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $85.">
+		    <img src="../gallery/images/portart/portil1713-country-garden-inspiration.jpg" class="img-fluid" alt="Balo's garden: lots of inspiration">
+		    <h6 class="gallery-caption text-center mt-2">Country Garden Inspiration</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1712-balos-country-garden.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BALO'S COUNTRY GARDEN (1712) Pastel <br>
+		Sharon, CT<br>
+		&bull; Original Art: 9&rdquo;x12&rdquo;; with Mat: 12&rdquo;x16&rdquo;, $200.">
+		    <img src="../gallery/images/portart/portil1712-balos-country-garden.jpg" class="img-fluid" alt="A section of the beautiful garden at my friends' country home.">
+		    <h6 class="gallery-caption text-center mt-2">Balo's Country Garden</h6>
 	      </a>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil1702.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="QUIET CORNER (1614) Pastel <br>
-		Boston Public Garden, MA<br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
-		    <img src="../gallery/images/portart/portil1702.jpg" class="img-fluid" alt="Quiet corner in Boston Public Garden">
-		    <h6 class="gallery-caption text-center mt-2">Quiet Corner</h6>
+  	    <a href="../gallery/images/portart/portil1711-contemplative.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CONTEMPLATIVE (1711) Pastel <br>
+		Walden Pond, Lincoln, MA<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1711-contemplative.jpg" class="img-fluid" alt="A contemplative spot at Walden Pond">
+		    <h6 class="gallery-caption text-center mt-2">Contemplative</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1710-happy-coleus.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HAPPY COLEUS (1710) Pastel <br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $85.">
+		    <img src="../gallery/images/portart/portil1710-happy-coleus.jpg" class="img-fluid" alt="Peggy's garden: coleus planted in enormous pots">
+		    <h6 class="gallery-caption text-center mt-2">Happy Coleus</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1709-setting-sun-on-olifants.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SETTING SUN ON THE OLIFANTS (1709) Pastel <br>
+		South Africa<br>
+		&bull; Original Art: 9.5&rdquo;x7.5&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $85.">
+		    <img src="../gallery/images/portart/portil1709-setting-sun-on-olifants.jpg" class="img-fluid" alt="changing the colors makes this a more abstract rendering of the setting sun">
+		    <h6 class="gallery-caption text-center mt-2">Setting Sun on the Olifants</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1708-riverboat-sunset.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="RIVERBOAT SUNSET (1708) Pastel <br>
+		South Africa<br>
+		&bull; Original Art: 9.5&rdquo;x7.5&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $85.">
+		    <img src="../gallery/images/portart/portil1708-riverboat-sunset.jpg" class="img-fluid" alt="Despite a severe drought, the Olifants River had an abundance of water.">
+		    <h6 class="gallery-caption text-center mt-2">Riverboat Sunset</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1707-lebata-rest-camp.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LEBATA REST CAMP (1707) Pastel <br>
+		Kruger National Park, South Africa<br>
+		&bull; Original Art: 10.5&rdquo;x5.5&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $210.">
+		    <img src="../gallery/images/portart/portil1707-lebata-rest-camp.jpg" class="img-fluid" alt="Stunning vista at our lunch spot, Lebata Rest Camp">
+		    <h6 class="gallery-caption text-center mt-2">Lebata Rest Camp</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1706-afternoon-on-lebata-river.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AFTERNOON ON LEBATA RIVER (1706) Pastel <br>
+		Kruger National Park, South Africa<br>
+		&bull; Original Art: 10.5&rdquo;x6&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $85.">
+		    <img src="../gallery/images/portart/portil1706-afternoon-on-lebata-river.jpg" class="img-fluid" alt="first day on safari in Kruger Park">
+		    <h6 class="gallery-caption text-center mt-2">Afternoon on Lebata River</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1705-trail-to-moholoholo.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="TRAIL TO MOHOLOHOLO (1705) Pastel <br>
+		South Africa<br>
+		&bull; Original Art: 9.5&rdquo;x5.5&rdquo;; with Mat: 12&rdquo;x9&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil1705-trail-to-moholoholo.jpg" class="img-fluid" alt="Moholoho: trail to the animal sanctuary">
+		    <h6 class="gallery-caption text-center mt-2">Trail to Moholoholo</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1704-mountains-at-moholoholo.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MOUNTAINS AT MOHOLOHOLO (1704) Pastel <br>
+		South Africa<br>
+		&bull; Original Art: 9&rdquo;x5.5&rdquo;; with Mat &amp; Frame: 12&rdquo;x9&rdquo;, $100.">
+		    <img src="../gallery/images/portart/portil1704-mountains-at-moholoholo.jpg" class="img-fluid" alt="Moholoho Wildlife Rehabilitation Center">
+		    <h6 class="gallery-caption text-center mt-2">Mountains at Moholoholo</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1703-fantasy-flower.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FANTASY FLOWER (1703) Pastel <br>
+		&bull; Original Art: 3.75&rdquo;x5&rdquo;; with Mat &amp; Frame: 8&rdquo;x10&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil1703-fantasy-flower.jpg" class="img-fluid" alt="this flower emerged from my imagination">
+		    <h6 class="gallery-caption text-center mt-2">Fantasy Flower</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1702-narcissus-hello.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="NARCISSUS HELLO (1702) Pastel <br>
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat &amp; Frame: 11&rdquo;x14&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1702-narcissus-hello.jpg" class="img-fluid" alt="sweet, delicate narcissus">
+		    <h6 class="gallery-caption text-center mt-2">Narcissus Hello</h6>
 	      </a>
       </div>
 
