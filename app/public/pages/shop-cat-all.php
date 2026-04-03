@@ -150,6 +150,179 @@
 
       <div class="row mb-4">
 
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1904-sweet-spot.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SWEET SPOT (1904) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $125.">
+		    <img src="../gallery/images/portart/portil1904-sweet-spot.jpg" class="img-fluid" alt="underneath a thatched roof shelter that overlooks this sweet scene">
+		    <h6 class="gallery-caption text-center mt-2">Sweet Spot</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1903-calusa-clouds.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CALUSA CLOUDS (1903) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil1903-calusa-clouds.jpg" class="img-fluid" alt="Wonderful morning at the botanical garden.">
+		    <h6 class="gallery-caption text-center mt-2">Calusa Clouds</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1902-croton-closeup.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CROTONS CLOSEUP (1902) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 8&rdquo;x8&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $125.">
+		    <img src="../gallery/images/portart/portil1902-croton-closeup.jpg" class="img-fluid" alt="The colors of the croton plant are vibrant and happy!">
+		    <h6 class="gallery-caption text-center mt-2">Crotons Closeup</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1901-first-palmtree.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FIRST PALM TREE (1901) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $125.">
+		    <img src="../gallery/images/portart/portil1901-first-palmtree.jpg" class="img-fluid" alt="I biked downtown and sat at Starbucks while painting my first palm tree!">
+		    <h6 class="gallery-caption text-center mt-2">First Palm Tree</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants animals mixed">
+  	    <a href="../gallery/images/portart/portil1813-first-xmas-in-FL.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FIRST CHRISTMAS IN FLORIDA (1813) Collage <br>
+		Naples, FL<br>
+		&bull; Original Art: 17&rdquo;x11&rdquo;; no Mat: $125.">
+		    <img src="../gallery/images/portart/portil1813-first-xmas-in-FL.jpg" class="img-fluid" alt="a tribute to the wonders of Florida">
+		    <h6 class="gallery-caption text-center mt-2">First Christmas in Florida</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1812-windy-day-lowdermilk.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WINDY DAY AT LOWDERMILK BEACH (1812) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 10&rdquo;x5&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $210.">
+		    <img src="../gallery/images/portart/portil1812-windy-day-lowdermilk.jpg" class="img-fluid" alt="I biked to Lowdermilk Beach and hadn't realized how windy it was until I sat to paint this scene.">
+		    <h6 class="gallery-caption text-center mt-2">Windy Day at Lowdermilk Beach</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1811-lettuce-lake-corkscrew-swamp.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LETTUCE LAKE AT CORKSCREW SWAMP (1811) Pastel<br>
+		Naples, FL<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $125.">
+		    <img src="../gallery/images/portart/portil1811-lettuce-lake-corkscrew-swamp.jpg" class="img-fluid" alt="Water Lettuce is an important part of the ecosystem, providing safe havens for wildlife species to breed and forage">
+		    <h6 class="gallery-caption text-center mt-2">Lettuce Lake at Corkscrew Swamp</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1810-vineyards-view.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="VINEYARDS VIEW (1810) Pastel<br>
+		Naples, FL<br>
+		&bull; Original Art: 10&rdquo;x3.75&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $125.">
+		    <img src="../gallery/images/portart/portil1810-vineyards-view.jpg" class="img-fluid" alt="The bike path on Vineyards Blvd is wide, shaded by trees, and winds along a large pond at one end.">
+		    <h6 class="gallery-caption text-center mt-2">Vineyards View</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1809-corkscrew-corner.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CORKSCREW CORNER (1809) Pastel<br>
+		Naples, FL<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $125.">
+		    <img src="../gallery/images/portart/portil1809-corkscrew-corner.jpg" class="img-fluid" alt="Dragonflies visited me continually in this Corkscrew corner">
+		    <h6 class="gallery-caption text-center mt-2">Corkscrew Corner</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1808-salmon-hibiscus.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SALMON HIBISCUS (1808) Pastel<br>
+		Naples, FL<br>
+		&bull; Original Art: 7&rdquo;x7&rdquo;; with Mat: 10&rdquo;x10&rdquo;, $50.">
+		    <img src="../gallery/images/portart/portil1808-salmon-hibiscus.jpg" class="img-fluid" alt="salmon-colored hibiscus has elaborate, double-layered petals">
+		    <h6 class="gallery-caption text-center mt-2">Salmon Hibiscus</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1807-hibiscus-study.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HIBISCUS STUDY (1807) Pastel<br>
+		Naples, FL<br>
+		&bull; Original Art: 5&rdquo;x3.75&rdquo;; with Mat &amp; Frame: 10&rdquo;x8&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil1807-hibiscus-study.jpg" class="img-fluid" alt="showy and elaborate hibiscus petals, with lots of folds.">
+		    <h6 class="gallery-caption text-center mt-2">Hibiscus Study</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1806-a-tricolored-heron-said-stay.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="A TRICOLORED HERON SAID STAY (1806) Pastel<br>
+		Naples, FL<br>
+		&bull; Original Art: 9&rdquo;x4.25&rdquo;; with Mat: 12&rdquo;x9&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil1806-a-tricolored-heron-said-stay.jpg" class="img-fluid" alt="a tricolored heron flew in as if to say <em>Stay</em>">
+		    <h6 class="gallery-caption text-center mt-2">A Tricolored Heron Said Stay</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1805-hibiscus-enchantment.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HIBISCUS ENCHANTMENT (1805) Pastel<br>
+		Naples, FL<br>
+		&bull; Original Art: 9.75&rdquo;x3.5&rdquo;; with Mat &amp; Frame: 12&rdquo;x9&rdquo;, $100.">
+		    <img src="../gallery/images/portart/portil1805-hibiscus-enchantment.jpg" class="img-fluid" alt="This hibiscus plant towers over me">
+		    <h6 class="gallery-caption text-center mt-2">Hibiscus Enchantment</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1804-sawgrass-palmetto-study.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SAWGRASS PALMETTO STUDY (1804) Pastel<br>
+		Naples, FL<br>
+		&bull; Original Art: 5.5&rdquo;x3.5&rdquo;; $20.">
+		    <img src="../gallery/images/portart/portil1804-sawgrass-palmetto-study.jpg" class="img-fluid" alt="sawgrass palmettos: native to Florida, quite prolific">
+		    <h6 class="gallery-caption text-center mt-2">Sawgrass Palmetto Study</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1803-crotons-catch-my-eye.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CROTONS CATCH MY EYE (1803) Pastel<br>
+		Naples, FL<br>
+		&bull; Original Art: 7&rdquo;x7&rdquo;; with Mat &amp; Frame: 10&rdquo;x10&rdquo;, $100.">
+		    <img src="../gallery/images/portart/portil1803-crotons-catch-my-eye.jpg" class="img-fluid" alt="colorful crotons caught my eye">
+		    <h6 class="gallery-caption text-center mt-2">Crotons Catch my Eye</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pencil">
+  	    <a href="../gallery/images/portart/portil1802-stunning-clouds-at-vanderbilt.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="STUNNING CLOUDS AT VANDERBILT (1802) Colored Pencil<br>
+		Naples, FL<br>
+		&bull; Original Art: 9&rdquo;x5&rdquo;; $30.">
+		    <img src="../gallery/images/portart/portil1802-stunning-clouds-at-vanderbilt.jpg" class="img-fluid" alt="Stunning Clouds at Vanderbilt Beach">
+		    <h6 class="gallery-caption text-center mt-2">Stunning Clouds at Vanderbilt</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item animals pencil">
+  	    <a href="../gallery/images/portart/portil1801-sea-turtle.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SEA TURTLE (1801) Colored Pencil <br>
+		Naples, FL<br>
+		&bull; Original Art: 7&rdquo;x5&rdquo;; $20.">
+		    <img src="../gallery/images/portart/portil1801-sea-turtle.jpg" class="img-fluid" alt="When I became aware of the red tide, I became very concerned for the sea life, especially the sea turtles.">
+		    <h6 class="gallery-caption text-center mt-2">Sea Turtle</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item animals flowersplants mixed">
+  	    <a href="../gallery/images/portart/portil1716-new-traditions.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="NEW TRADITIONS (1716) Mixed Media <br>
+		&bull; Original Art: 8&rdquo;x8&rdquo;; $60.">
+		    <img src="../gallery/images/portart/portil1716-new-traditions.jpg" class="img-fluid" alt="new Christmas eve tradition">
+		    <h6 class="gallery-caption text-center mt-2">New Traditions</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1715-early-spring-buds.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="EARLY SPRING BUDS (1715) Pastel <br>
 		&bull; Original Art: 5&rdquo;x7&rdquo;; with Mat: 8&rdquo;x10&rdquo;, SOLD.">
@@ -1739,7 +1912,7 @@
 
 <!-- end of row -->
 
-      <div class="col-sm-4 mb-4 gallery-item landscapes pencil">
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil0615-heronshome.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HERONS' HOME (0615) Pastel<br>
 		    Wellfleet, MA.<br>
 		    &bull; Original Art: 16&rdquo;x12&rdquo;; with Mat &amp; Frame: 20&rdquo;x16&rdquo;, nfs.">
