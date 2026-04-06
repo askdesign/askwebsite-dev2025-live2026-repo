@@ -150,10 +150,215 @@
 
       <div class="row mb-4">
 
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2001-orchids-for-peggy.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ORCHIDS FOR PEGGY (2001) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2001-orchids-for-peggy.jpg" class="img-fluid" alt="birthday card orchids for Peggy">
+		    <h6 class="gallery-caption text-center mt-2">Orchids for Peggy</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1924-lettucelake.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LETTUCE LAKE IN THE SUN (1924) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat: 16&rdquo;x12&rdquo;, $200.">
+		    <img src="../gallery/images/portart/portil1924-lettucelake.jpg" class="img-fluid" alt="backlit trees in the swamp">
+		    <h6 class="gallery-caption text-center mt-2">Lettuce Lake in the Sun</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1923-pickerelweed.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PICKERELlWEED (1923) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $165.">
+		    <img src="../gallery/images/portart/portil1923-pickerelweed.jpg" class="img-fluid" alt="I love the shape of this plant's leaves and the lavender flower it produces.">
+		    <h6 class="gallery-caption text-center mt-2">Pickerellweed</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1922-triplepink.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="TRIPLE PINK (1922) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 10&rdquo;x3.75&rdquo;; with Mat: 14&rdquo;x8&rdquo;, $165.">
+		    <img src="../gallery/images/portart/portil1922-triplepink.jpg" class="img-fluid" alt="small pink orchids sharing their sweetness with the world">
+		    <h6 class="gallery-caption text-center mt-2">Triple Pink</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1921-corkscrewcypress.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CORKSCREW CYPRESS (1921) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat: 16&rdquo;x12&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1921-corkscrewcypress.jpg" class="img-fluid" alt="incredible trees in the swamp!">
+		    <h6 class="gallery-caption text-center mt-2">Corkscrew Cypress</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1920-encouragement.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ENCOURAGEMENT (1920) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 9.75&rdquo;x5&rdquo;; with Mat: 14&rdquo;x8&rdquo;, $165.">
+		    <img src="../gallery/images/portart/portil1920-encouragement.jpg" class="img-fluid" alt="encouraged to paint at the beach">
+		    <h6 class="gallery-caption text-center mt-2">Encouragement</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1919-firstbeachimmersion.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FIRST BEACH IMMERSION (1919) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;;  with Mat &amp; Frame: 16&rdquo;x12&rdquo;, $300.">
+		    <img src="../gallery/images/portart/portil1919-firstbeachimmersion.jpg" class="img-fluid" alt="My first painting on the beach was an encouraging learning experience.">
+		    <h6 class="gallery-caption text-center mt-2">First Beach Immersion</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1918-waitingwatching.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WAITING AND WATCHING (1918) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 10&rdquo;x3.75&rdquo;; with Mat: 14&rdquo;x8&rdquo;, $125.">
+		    <img src="../gallery/images/portart/portil1918-waitingwatching.jpg" class="img-fluid" alt="sun becoming a bright orange ball">
+		    <h6 class="gallery-caption text-center mt-2">Waiting and Watching</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1917-cloudscape-Keywest.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CLOUDSCAPE ON THE WAY TO KEY WEST (1917) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 5.5&rdquo;x3.75&rdquo;;  with Mat: 10&rdquo;x8&rdquo;, $40.">
+		    <img src="../gallery/images/portart/portil1917-cloudscape-Keywest.jpg" class="img-fluid" alt="A relaxing ride to Key West, painting these beautiful clouds">
+		    <h6 class="gallery-caption text-center mt-2">Cloudscape on the Way to Key West</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1916-allquiet-keywest.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ALL'S QUIET ON THE BOAT TO KEY WEST (1916) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 11.5&rdquo;x3.75&rdquo;;  with Mat: 14&rdquo;x8&rdquo;, $165.">
+		    <img src="../gallery/images/portart/portil1916-allquiet-keywest.jpg" class="img-fluid" alt="boat ride from Ft. Lauderdale to Key West">
+		    <h6 class="gallery-caption text-center mt-2">All's Quiet on the Boat to Key West</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1915-gordonriver-greenway.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SUNDAY ON GORDON RIVER GREENWAY (1915) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat: 16&rdquo;x12&rdquo;, $240.">
+		    <img src="../gallery/images/portart/portil1915-gordonriver-greenway.jpg" class="img-fluid" alt="great spot to paint, as I was sheltered by shade and had a nice view of the river.">
+		    <h6 class="gallery-caption text-center mt-2">Sunday on the Gordon River Greenway</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1914-longarms.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LONG ARMS (1914) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $165.">
+		    <img src="../gallery/images/portart/portil1914-longarms.jpg" class="img-fluid" alt="purple hues and long petals">
+		    <h6 class="gallery-caption text-center mt-2">Long Arms</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1913-tiny-orchid.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="TINY ORCHID (1913) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 5.5&rdquo;x3.75&rdquo;; no Mat: $20.">
+		    <img src="../gallery/images/portart/portil1913-tiny-orchid.jpg" class="img-fluid" alt="Tiny orchid.">
+		    <h6 class="gallery-caption text-center mt-2">Tiny Orchid</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1912-palm-and-orchids.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PALM AND ORCHID (1912) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat &amp; Frame: 11&rdquo;x14&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil1912-palm-and-orchids.jpg" class="img-fluid" alt="This palm tree is my companion.">
+		    <h6 class="gallery-caption text-center mt-2">Orchids on a Palm Tree</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1911-fireflag-rainyday.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FIREFLAG ON A RAINY DAY (1911) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 12.5&rdquo;x4.75&rdquo;; with Mat: 16&rdquo;x8&rdquo;, $200.">
+		    <img src="../gallery/images/portart/portil1911-fireflag-rainyday.jpg" class="img-fluid" alt="The rain creates a mystical overture, with sounds and sights that make you pause and smile.">
+		    <h6 class="gallery-caption text-center mt-2">Fireflag on a Rainy Day</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="row mb-4">
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1910-swaying-vandas.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SWAYING VANDAS (1910) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $165.">
+		    <img src="../gallery/images/portart/portil1910-swaying-vandas.jpg" class="img-fluid" alt="Vanda orchids swaying gently in the breeze.">
+		    <h6 class="gallery-caption text-center mt-2">Swaying Vandas</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1909-finding-voice.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FINDING MY ART VOICE (1909) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 11.5&rdquo;x3.75&rdquo;; no Mat:  $115.">
+		    <img src="../gallery/images/portart/portil1909-finding-voice.jpg" class="img-fluid" alt="Discovering my voice in art was a gradual process.">
+		    <h6 class="gallery-caption text-center mt-2">Finding My Art Voice</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1908-here-i-stand.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HERE I STAND (1908) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil1908-here-i-stand.jpg" class="img-fluid" alt="The tree in the swamp is in an open area, exposed to the elements.">
+		    <h6 class="gallery-caption text-center mt-2">Here I Stand</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1907-siam-tulip.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SIAM TULIP (1907) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 9&rdquo;x12&rdquo;; with Mat: 12&rdquo;x16&rdquo;, $240.">
+		    <img src="../gallery/images/portart/portil1907-siam-tulip.jpg" class="img-fluid" alt="Siam Tulip is striking and bold, a member of the ginger family.">
+		    <h6 class="gallery-caption text-center mt-2">Siam Tulip</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pencil">
+  	    <a href="../gallery/images/portart/portil1906-lavender-orchid.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LAVENDER ORCHID (1906) Colored Pencil <br>
+		Naples, FL<br>
+		&bull; Original Art: 3.75&rdquo;x5&rdquo;; with Mat &amp; Frame: 8&rdquo;x10&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil1906-lavender-orchid.jpg" class="img-fluid" alt="Drawing with colored pencils lets me capture the details.">
+		    <h6 class="gallery-caption text-center mt-2">Lavender Orchid</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil1905-scarlet-passionflower.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SCARLET PASSIONFLOWER (1905) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 9&rdquo;x6&rdquo;; with Mat &amp; Frame: 12&rdquo;x9&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1905-scarlet-passionflower.jpg" class="img-fluid" alt="energetic-looking Passion Flower in a shady spot next to the waterfall">
+		    <h6 class="gallery-caption text-center mt-2">Scarlet Passionflower</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1904-sweet-spot.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SWEET SPOT (1904) Pastel <br>
 		Naples, FL<br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $125.">
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $165.">
 		    <img src="../gallery/images/portart/portil1904-sweet-spot.jpg" class="img-fluid" alt="underneath a thatched roof shelter that overlooks this sweet scene">
 		    <h6 class="gallery-caption text-center mt-2">Sweet Spot</h6>
 	      </a>
@@ -171,7 +376,7 @@
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1902-croton-closeup.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CROTONS CLOSEUP (1902) Pastel <br>
 		Naples, FL<br>
-		&bull; Original Art: 8&rdquo;x8&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $125.">
+		&bull; Original Art: 8&rdquo;x8&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $165.">
 		    <img src="../gallery/images/portart/portil1902-croton-closeup.jpg" class="img-fluid" alt="The colors of the croton plant are vibrant and happy!">
 		    <h6 class="gallery-caption text-center mt-2">Crotons Closeup</h6>
 	      </a>
@@ -182,7 +387,7 @@
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1901-first-palmtree.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FIRST PALM TREE (1901) Pastel <br>
 		Naples, FL<br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $125.">
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $165.">
 		    <img src="../gallery/images/portart/portil1901-first-palmtree.jpg" class="img-fluid" alt="I biked downtown and sat at Starbucks while painting my first palm tree!">
 		    <h6 class="gallery-caption text-center mt-2">First Palm Tree</h6>
 	      </a>
