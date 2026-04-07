@@ -151,6 +151,266 @@
       <div class="row mb-4">
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2102-magnolia.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MAGNOLIA (2102) Watercolor <br>
+		&bull; Original Art: 5&rdquo;x7&rdquo;; with Mat &amp; Frame: 8&rdquo;x10&rdquo;, nfs">
+		    <img src="../gallery/images/portart/portil2102-magnolia.jpg" class="img-fluid" alt="this rose was a stunner!">
+		    <h6 class="gallery-caption text-center mt-2">Magnolia</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2101-floatingmagnolia.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FLOATING MAGNOLIA (2101) Watercolor <br>
+		Belmont, MA<br>
+		&bull; Original Art: 5.25&rdquo;x7&rdquo;; with Mat &amp; Frame: 8&rdquo;x10&rdquo;, $165">
+		    <img src="../gallery/images/portart/portil2101-floatingmagnolia.jpg" class="img-fluid" alt="magnolia trees in our neighborhood are beautiful in springtime">
+		    <h6 class="gallery-caption text-center mt-2">Floating Magnolia</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil2026-hibiscus.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HIBISCUS (2026) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 8&rdquo;x5.25&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2026-hibiscus.jpg" class="img-fluid" alt="an ethereal view of a floating hibiscus">
+		    <h6 class="gallery-caption text-center mt-2">Hibiscus</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2025-rose.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ROSE (2025) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 8&rdquo;x5.25&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil2025-rose.jpg" class="img-fluid" alt="this rose was a stunner!">
+		    <h6 class="gallery-caption text-center mt-2">Rose</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil2024-QuietSaturationontheWest.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="QUIET SATURATION ON THE WEST (2024) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 11&rdquo;x3.75&rdquo;; with Mat: 16&rdquo;x8&rdquo;, $240.">
+		    <img src="../gallery/images/portart/portil2024-QuietSaturationontheWest.jpg" class="img-fluid" alt="west side of the bridge">
+		    <h6 class="gallery-caption text-center mt-2">Quiet Saturation on the West</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil2023-HiddenHomesonEast.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HIDDEN HOMES ON THE EAST (2023) Pastel <br>
+		Naples, FL<br>
+		&bull; Original Art: 12&rdquo;x3.75&rdquo;; with Mat: 16&rdquo;x8&rdquo;, $240.">
+		    <img src="../gallery/images/portart/portil2023-HiddenHomesonEast.jpg" class="img-fluid" alt="east side of the bridge">
+		    <h6 class="gallery-caption text-center mt-2">Hidden Homes on the East</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes watercolor">
+  	    <a href="../gallery/images/portart/portil2022-three-birches-nc.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="THREE BIRCHES (2022) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 3.5&rdquo;x5.25&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2022-three-birches-nc.jpg" class="img-fluid" alt="3 birch trees">
+		    <h6 class="gallery-caption text-center mt-2">Three Birches</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes watercolor">
+  	    <a href="../gallery/images/portart/portil2021-birch-closeup-nc.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BIRCH CLOSEUP (2021) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 3.5&rdquo;x5.125&rdquo;, $30.">
+		    <img src="../gallery/images/portart/portil2021-birch-closeup-nc.jpg" class="img-fluid" alt="closeup of birch bark">
+		    <h6 class="gallery-caption text-center mt-2">Birch Closeup</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes watercolor">
+  	    <a href="../gallery/images/portart/portil2020-birches-at-daybreak.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BIRCHES AT DAYBREAK (2020) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 3.75&rdquo;x5.25&rdquo;, $30.">
+		    <img src="../gallery/images/portart/portil2020-birches-at-daybreak.jpg" class="img-fluid" alt="A quiet morning in the woods of New England.">
+		    <h6 class="gallery-caption text-center mt-2">Birches at Daybreak</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes watercolor">
+  	    <a href="../gallery/images/portart/portil2019-marsh-nc.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MARSH (2019) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 5&rdquo;x2.5&rdquo;, $30.">
+		    <img src="../gallery/images/portart/portil2019-marsh-nc.jpg" class="img-fluid" alt="marsh">
+		    <h6 class="gallery-caption text-center mt-2">Marsh</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes watercolor">
+  	    <a href="../gallery/images/portart/portil2018-beach-nc.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BEACH (2018) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 5.5&rdquo;x3.5&rdquo;, $30.">
+		    <img src="../gallery/images/portart/portil2018-beach-nc.jpg" class="img-fluid" alt="beach notecard">
+		    <h6 class="gallery-caption text-center mt-2">Beach</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2017-lily-for-sue-nc.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LILY FOR SUE (2017) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 6.5&rdquo;x4.5&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2017-lily-for-sue-nc.jpg" class="img-fluid" alt="lily for sue">
+		    <h6 class="gallery-caption text-center mt-2">Lily for Sue</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2016-redongreen.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="RED ON GREEN (2016) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 11&rdquo;x7.5&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil2016-redongreen.jpg" class="img-fluid" alt="lilies bloom in July">
+		    <h6 class="gallery-caption text-center mt-2">Red on Green</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2015-i-see-a-hydrangea.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="I SEE A HYDRANGEA (2015) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 7.5&rdquo;x11&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil2015-i-see-a-hydrangea.jpg" class="img-fluid" alt="Experimenting with a new technique">
+		    <h6 class="gallery-caption text-center mt-2">I See a Hydrangea</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes mixed">
+  	    <a href="../gallery/images/portart/portil2014-celestial-burst.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CELESTIAL BURST (2014) Watercolor and Gouache <br>
+		Naples, FL<br>
+		&bull; Original Art: 7.5&rdquo;x5.5&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil2014-celestial-burst.jpg" class="img-fluid" alt="Abstract, colorful view of the night sky and stars.">
+		    <h6 class="gallery-caption text-center mt-2">Celestial Burst</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2013-hibiscus-for-peggy-nc.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HIBISCUS FOR PEGGY (2013) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 5&rdquo;x7&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2013-hibiscus-for-peggy-nc.jpg" class="img-fluid" alt="hibiscus with complex, ruffled, varied petals">
+		    <h6 class="gallery-caption text-center mt-2">Hibiscus for Peggy</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2012-iris-for-peggy-nc.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="IRIS FOR PEGGY (2012) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 5&rdquo;x7&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2012-iris-for-peggy-nc.jpg" class="img-fluid" alt="Iris are always a welcome site in our garden in the spring">
+		    <h6 class="gallery-caption text-center mt-2">Iris for Peggy</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes mixed">
+  	    <a href="../gallery/images/portart/portil2011-celestial-sky.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CELESTIAL SKY (2011) Watercolor and Gouache<br>
+		Naples, FL<br>
+		&bull; Original Art: 6.75&rdquo;x5.75&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil2011-celestial-sky.jpg" class="img-fluid" alt="Lots of different techniques were used in this painting.">
+		    <h6 class="gallery-caption text-center mt-2">Celestial Sky</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2010-salmon-ruffled-hibiscus1.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SALMON RUFFLED HIBISCUS (2010) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 5&rdquo;x4.5&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2010-salmon-ruffled-hibiscus1.jpg" class="img-fluid" alt="very complex hibiscus, with its ruffled petals of varied widths">
+		    <h6 class="gallery-caption text-center mt-2">Salmon Ruffled Hibiscus</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2009-Vanda-closeup.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="VANDA CLOSEUP (2009) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 8&rdquo;x4.75&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2009-Vanda-closeup.jpg" class="img-fluid" alt="Simple, round petals, with fun details in the lip.">
+		    <h6 class="gallery-caption text-center mt-2">Vanda Closeup</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2008-cattleya-orchids-1.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CATTLEYA ORCHIDS (2008) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 8&rdquo;x7.5&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2008-cattleya-orchids-1.jpg" class="img-fluid" alt="Cattleya orchids have ruffled petals and lots of folds and ridges.">
+		    <h6 class="gallery-caption text-center mt-2">Cattleya Orchids</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2007-orange-orchids.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ORANGE ORCHIDS (2007) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 8.25&rdquo;x5.25&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2007-orange-orchids.jpg" class="img-fluid" alt="set of 3 orchids">
+		    <h6 class="gallery-caption text-center mt-2">Orange Orchids</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2006-cannalily.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CANNALILY (2006) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 5&rdquo;x6&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2006-cannalily.jpg" class="img-fluid" alt="Stunning Cannalily with bright orange petals growing in the lily pond.">
+		    <h6 class="gallery-caption text-center mt-2">Cannalily</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2005-tall-iris-at-the-pond.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="TALL IRIS AT THE POND (2005) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 7&rdquo;x11.25&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2005-tall-iris-at-the-pond.jpg" class="img-fluid" alt="A lovely Iris on the edge of a lily pond.">
+		    <h6 class="gallery-caption text-center mt-2">Tall Iris at the Pond</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2004-shelter.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SHELTER (2004) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 8.25&rdquo;x4.75&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2004-shelter.jpg" class="img-fluid" alt="imagined that I was a gecko in a lily pond">
+		    <h6 class="gallery-caption text-center mt-2">Shelter</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2003-orchid-saturation.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ORCHID SATURATION (2003) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 8.25&rdquo;x7.75&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2003-orchid-saturation.jpg" class="img-fluid" alt="learning how to get deeply saturated colors">
+		    <h6 class="gallery-caption text-center mt-2">Orchid Saturation</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2002-orchid-valentine.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ORCHID VALENTINE (2002) Watercolor <br>
+		Naples, FL<br>
+		&bull; Original Art: 11&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2002-orchid-valentine.jpg" class="img-fluid" alt="final painting for my Nature Journaling class at Naples Botanical Garden">
+		    <h6 class="gallery-caption text-center mt-2">Orchid Valentine</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
   	    <a href="../gallery/images/portart/portil2001-orchids-for-peggy.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ORCHIDS FOR PEGGY (2001) Watercolor <br>
 		Naples, FL<br>
 		&bull; Original Art: 10&rdquo;x8&rdquo;, nfs.">
