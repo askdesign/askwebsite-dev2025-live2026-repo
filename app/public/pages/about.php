@@ -90,7 +90,7 @@
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
                   <li><a class="dropdown-item" href="portart-rec.php">Recent</a></li>
-                  <li><a class="dropdown-item" href="#">Archives</a></li>
+                  <li><a class="dropdown-item" href="portart-arch.php">Archives</a></li>
                 </ul>
         </li>
 
@@ -153,7 +153,7 @@ My name is Anne S. Katzeff and I am the Creative Director of ASK Design. I grew 
               <li>Open Studios: Arlington, Newton, Somerville</li>
               <li>Portfolio Review Board (former member): Mass. College of Art and Design — Graphic Design Certificate Program</li>
               <li>Web Maestro & Founding Member: Belmont Art Association</li>
-              <li>Member: Hull Artists</li>
+              <li>Member: Hull Artists, Duxbury Art Association</li>
               <li>Conservancy of Southwest Florida, Nature Conservancy, NRDC</li>
             </ul>
           </p>

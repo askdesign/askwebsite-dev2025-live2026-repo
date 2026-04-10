@@ -86,21 +86,21 @@
         <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
         <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
 
-        <li class="nav-item dropdown"><a class="nav-link active dropdown-toggle" href="portgd-rec.php" data-bs-toggle="dropdown" aria-expanded="false">Portfolio</a>
+        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="portgd-rec.php" data-bs-toggle="dropdown" aria-expanded="false">Portfolio</a>
                 <ul class="dropdown-menu">
                   <li class="dropdown-header">Design</li>
                   <li><a class="dropdown-item" href="portgd-rec.php">Recent</a></li>
                   <li><a class="dropdown-item" href="portgd-arch.php">Archives</a></li>
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
-                  <li><a class="dropdown-item active" href="portart-rec.php">Recent</a></li>
-                  <li><a class="dropdown-item" href="#">Archives</a></li>
+                  <li><a class="dropdown-item" href="portart-rec.php">Recent</a></li>
+                  <li><a class="dropdown-item" href="portart-arch.php">Archives</a></li>
                 </ul>
         </li>
 
-        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="shop-cat.php" data-bs-toggle="dropdown" aria-expanded="false">Shop</a>
+        <li class="nav-item dropdown"><a class="nav-link active dropdown-toggle" href="shop-cat.php" data-bs-toggle="dropdown" aria-expanded="false">Shop</a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="shop-cat.php">Original Art</a></li>
+                  <li><a class="dropdown-item active" href="shop-cat.php">Original Art</a></li>
                   <li><a class="dropdown-item" href="shop-cat-sale.php">Sale</a></li>
                   <li><a class="dropdown-item" href="shop-cat-cards.php">Cards</a></li>
                   <li><a class="dropdown-item" href="shop-cat-prints.php">Prints</a></li>
@@ -149,6 +149,214 @@
     <div class="col-12"><!-- columns -->
 
       <div class="row mb-4">
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2203-dawnredwood-azaleas.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ASIATIC LILIES (2123) Watercolor <br>
+		&bull; Original Art: 4.25&rdquo;x5&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2203-dawnredwood-azaleas.jpg" class="img-fluid" alt="Dawn Redwood Azaleas">
+		    <h6 class="gallery-caption text-center mt-2">Dawn Redwood Azaleas</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2202-tulips.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="7 YEAR ANNIVERSARY ROSE (2122) Watercolor <br>
+		&bull; Original Art: 4.25&rdquo;x5.5&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2202-tulips.jpg" class="img-fluid" alt="anniversary card for Peggy">
+		    <h6 class="gallery-caption text-center mt-2">Tulips</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2201-waterlily.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="VALENTINE MEMORIES (2121) Watercolor <br>
+		&bull; Original Art: 4.25&rdquo;x5.5&rdquo;; nfs">
+		    <img src="../gallery/images/portart/portil2201-waterlily.jpg" class="img-fluid" alt="valentine memories">
+		    <h6 class="gallery-caption text-center mt-2">Water Lily</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2123-asiatic-lilies.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ASIATIC LILIES (2123) Watercolor <br>
+		&bull; Original Art: 4.25&rdquo;x5&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2123-asiatic-lilies.jpg" class="img-fluid" alt="Asiatic Lilies">
+		    <h6 class="gallery-caption text-center mt-2">Asiatic Lilies</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2122-7year-anniversary-rose.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="7 YEAR ANNIVERSARY ROSE (2122) Watercolor <br>
+		&bull; Original Art: 4.25&rdquo;x5.5&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2122-7year-anniversary-rose.jpg" class="img-fluid" alt="anniversary card for Peggy">
+		    <h6 class="gallery-caption text-center mt-2">7 Year Anniversary Rose</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2121-valentine-memories.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="VALENTINE MEMORIES (2121) Watercolor <br>
+		&bull; Original Art: 4.25&rdquo;x5.5&rdquo;; nfs">
+		    <img src="../gallery/images/portart/portil2121-valentine-memories.jpg" class="img-fluid" alt="valentine memories">
+		    <h6 class="gallery-caption text-center mt-2">Valentine Memories</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil2120-salt-pepper-bridge.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SALT 'N PEPPER BRIDGE (2120) Pastel <br>
+		&bull; Original Art: 9&rdquo;x3.5&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil2120-salt-pepper-bridge.jpg" class="img-fluid" alt="Salt and Pepper Bridge">
+		    <h6 class="gallery-caption text-center mt-2">Salt and Pepper Bridge</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil2119-dahlia.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DAHLIA (2119) Pastel <br>
+		&bull; Original Art: 5&rdquo;x5&rdquo;, $120.">
+		    <img src="../gallery/images/portart/portil2119-dahlia.jpg" class="img-fluid" alt="dahlias are regal flowers">
+		    <h6 class="gallery-caption text-center mt-2">Dahlia</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil2118-grandmother-willow.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GRANDMOTHER WILLOW (2118) Pastel <br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $165.">
+		    <img src="../gallery/images/portart/portil2118-grandmother-willow.jpg" class="img-fluid" alt="grandmother willow tree">
+		    <h6 class="gallery-caption text-center mt-2">Grandmother Willow</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil2117-public-garden-summer.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PUBLIC GARDEN IN SUMMER (2117) Pastel <br>
+		&bull; Original Art: 8.25&rdquo;x3.75&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil2117-public-garden-summer.jpg" class="img-fluid" alt="Public Garden quick sketch">
+		    <h6 class="gallery-caption text-center mt-2">Public Garden in Summer</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil2116-boston-without-bldgs.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BOSTON WITHOUT BUILDINGS (2116) Pastel <br>
+		&bull; Original Art: 12&rdquo;x4.5&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil2116-boston-without-bldgs.jpg" class="img-fluid" alt="what Boston might have looked like before there were buildings">
+		    <h6 class="gallery-caption text-center mt-2">Boston without Buildings</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2115-simplyred-hibiscus.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SIMPLY RED (2115) Watercolor <br>
+		&bull; Original Art: 4.25&rdquo;x5&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil2115-simplyred-hibiscus.jpg" class="img-fluid" alt="Red hibiscus are abundant in Florida">
+		    <h6 class="gallery-caption text-center mt-2">Simply Red</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2114-salmon-ruffled-hibiscus2.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SALMON RUFFLED HIBISCUS #2 (2114) Watercolor <br>
+		&bull; Original Art: 4.75&rdquo;x5&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil2114-salmon-ruffled-hibiscus2.jpg" class="img-fluid" alt="Ruffled hibiscus in Florida">
+		    <h6 class="gallery-caption text-center mt-2">Salmon Ruffled Hibiscus #2</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pencil">
+  	    <a href="../gallery/images/portart/portil2113-extraordinary.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FINDING THE EXTRAORDINARY (2113) Colored Pencil <br>
+		&bull; Original Art: 8.25&rdquo;x7&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $145.">
+		    <img src="../gallery/images/portart/portil2113-extraordinary.jpg" class="img-fluid" alt="Finding the Extraordinary in the Ordinary">
+		    <h6 class="gallery-caption text-center mt-2">Finding the Extraordinary</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowerplants pastel">
+  	    <a href="../gallery/images/portart/portil2112-red-roses-atpond2.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="RED ROSES AT THE POND 2 (2112) Pastel <br>
+		&bull; Original Art: 6&rdquo;x4.75&rdquo;; with Mat &amp; Frame: 8&rdquo;x8&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil2112-red-roses-atpond2.jpg" class="img-fluid" alt="companion piece to Red Roses at the Pond 1">
+		    <h6 class="gallery-caption text-center mt-2">Red Roses at the Pond 2</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil2111-red-roses-atpond1.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="RED ROSES AT THE POND 1 (2111) Pastel <br>
+		&bull; Original Art: 6.25&rdquo;x5.25&rdquo;; with Mat : 8&rdquo;x8&rdquo;, $140.">
+		    <img src="../gallery/images/portart/portil2111-red-roses-atpond1.jpg" class="img-fluid" alt="a conscious effort to loosen up my paintings">
+		    <h6 class="gallery-caption text-center mt-2">Red Roses at the Pond 1</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item animals watercolor">
+  	    <a href="../gallery/images/portart/portil2110-magnolia-warbler.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MAGNOLIA WARBLER (2110) Watercolor <br>
+		&bull; Original Art: 4.5&rdquo;x4.75&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2110-magnolia-warbler.jpg" class="img-fluid" alt="One of my favorite birds!">
+		    <h6 class="gallery-caption text-center mt-2">Magnolia Warbler</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes watercolor">
+  	    <a href="../gallery/images/portart/portil2109-pauseatbarn.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PAUSE AT BARN (2109) Watercolor <br>
+		&bull; Original Art: 4.25&rdquo;x5&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil2109-pauseatbarn.jpg" class="img-fluid" alt="paused to take in the beauty">
+		    <h6 class="gallery-caption text-center mt-2">Pause at Barn</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes watercolor">
+  	    <a href="../gallery/images/portart/portil2108-hometuckedintohill.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HOME TUCKED INTO HILL (2108) Watercolor <br>
+		&bull; Original Art: 9&rdquo;x9.5&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil2108-hometuckedintohill.jpg" class="img-fluid" alt="humble home tucked into the hills">
+		    <h6 class="gallery-caption text-center mt-2">Home Tucked Into a Hill</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2107-irismagic.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="IRIS MAGIC (2107) Watercolor <br>
+		&bull; Original Art: 4.25&rdquo;x6&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil2107-irismagic.jpg" class="img-fluid" alt="This particular painting served as a guide for a much larger acrylic painting on a transformer box.">
+		    <h6 class="gallery-caption text-center mt-2">Iris Magic</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item animals watercolor">
+  	    <a href="../gallery/images/portart/portil2106-cardinal-visiting.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CARDINAL VISITING (2106) Watercolor <br>
+		&bull; Original Art: 4&rdquo;x5.5&rdquo;, $60.">
+		    <img src="../gallery/images/portart/portil2106-cardinal-visiting.jpg" class="img-fluid" alt="cardinals offer us their cheerful color, song, and presence">
+		    <h6 class="gallery-caption text-center mt-2">Cardinal Visiting</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+     <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil2105-azaleasongreen.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AZALEAS ON GREEN (2105) Pastel <br>
+		&bull; Original Art: 5&rdquo;x3.75&rdquo;; with Mat: 8&rdquo;x8&rdquo;, $120.">
+		    <img src="../gallery/images/portart/portil2105-azaleasongreen.jpg" class="img-fluid" alt="azalea bush on a green background">
+		    <h6 class="gallery-caption text-center mt-2">Azaleas on Green</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil2104-azaleasonblue.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AZALEAS ON BLUE (2104) Pastel <br>
+		&bull; Original Art: 4.75&rdquo;x5&rdquo;; with Mat: 8&rdquo;x8&rdquo;, $120.">
+		    <img src="../gallery/images/portart/portil2104-azaleasonblue.jpg" class="img-fluid" alt="azalea bush on a blue background">
+		    <h6 class="gallery-caption text-center mt-2">Azaleas on Blue</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil2103-crazyazaleas.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CRAZY AZALEAS (2103) Pastel <br>
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $165.">
+		    <img src="../gallery/images/portart/portil2103-crazyazaleas.jpg" class="img-fluid" alt="The crazy part of these azaleas is their unbelievable colors!">
+		    <h6 class="gallery-caption text-center mt-2">Crazy Azaleas</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
   	    <a href="../gallery/images/portart/portil2102-magnolia.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MAGNOLIA (2102) Watercolor <br>
