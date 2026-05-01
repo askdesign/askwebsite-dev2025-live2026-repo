@@ -151,6 +151,136 @@
       <div class="row mb-4">
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil2506-omegaechinacea.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DANCING FLOWERS (2506) Pastel <br>
+		&bull; Original Art: 8&rdquo;x5.5&rdquo;; with Mat 10”x8”, $120.">
+		    <img src="../gallery/images/portart/portil2506-omegaechinacea.jpg" class="img-fluid" alt="Echinacea were plentiful and joyful, as if they were dancing.">
+		    <h6 class="gallery-caption text-center mt-2">Dancing Flowers</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item animals watercolor">
+  	    <a href="../gallery/images/portart/portil2502-birdsandwords-list.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BIRDS AND WORDS 2 - LIST (2502) Watercolor <br>
+		&bull; Original Art: 7.5&rdquo;x5&rdquo;; nfs.">
+		    <img src="../gallery/images/portart/portil2502-birdsandwords-list.jpg" class="img-fluid" alt="I loved crafting a single, large word and placing birds on it.">
+		    <h6 class="gallery-caption text-center mt-2">Birds and Words 2 - List</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil2412-clouds-allerton-harbor.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ALLERTON HARBOR (2412) Pastel<br>
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat & Frame: 14”x11”, $250.">
+		    <img src="../gallery/images/portart/portil2412-clouds-allerton-harbor.jpg" class="img-fluid" alt="A serene sailboat glides across a tranquil turquoise sea under a sky filled with fluffy clouds.">
+		    <h6 class="gallery-caption text-center mt-2">Allerton Harbor</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil2411-spectaclepond-weddingspot.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="OUR WEDDING SPOT (2411) Pastel <br>
+		&bull; Original Art: 9&rdquo;x4&rdquo;; with Mat 12”x9”, $130.">
+		    <img src="../gallery/images/portart/portil2411-spectaclepond-weddingspot.jpg" class="img-fluid" alt="our wedding spot at Mt. Auburn Cemetery">
+		    <h6 class="gallery-caption text-center mt-2">Our Wedding Spot</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil2410-gratitude.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GRATITUDE (2410) Pastel <br>
+		&bull; Original Art: 5.5&rdquo;x8&rdquo;; with Mat & Frame: 8”x10”, nfs.">
+		    <img src="../gallery/images/portart/portil2410-gratitude.jpg" class="img-fluid" alt="grateful to paint at Habitat Education Center & Wildlife Sanctuary">
+		    <h6 class="gallery-caption text-center mt-2">Gratitude</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil2409-sunflower.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="OMEGA SUNFLOWER (2409) Pastel<br>
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat & Frame: 11”x14”, $250.">
+		    <img src="../gallery/images/portart/portil2409-sunflower.jpg" class="img-fluid" alt="One vibrant yellow sunflower seemed to be waving to me.">
+		    <h6 class="gallery-caption text-center mt-2">Omega Sunflower</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil2408-morninglight-at-wellfleet.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MORNING LIGHT AT WELLFLEET BAY(2408) Pastel <br>
+		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat 16”x12”, $250.">
+		    <img src="../gallery/images/portart/portil2408-morninglight-at-wellfleet.jpg" class="img-fluid" alt="Wellfleet Bay, I missed you!">
+		    <h6 class="gallery-caption text-center mt-2">Morning Light at Wellfleet Bay</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2407-lilies-pak.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LILY FOR PEGGY (2407) Watercolor <br>
+		&bull; Original Art: 4.75&rdquo;x6.75&rdquo;; with Frame: 8”x10”, nfs.">
+		    <img src="../gallery/images/portart/portil2407-lilies-pak.jpg" class="img-fluid" alt="vibrant orange lily">
+		    <h6 class="gallery-caption text-center mt-2">Lily for Peggy</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2406-roses-pak.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BRATTLE STREET ROSES (2406) Watercolor<br>
+		&bull; Original Art: 7&rdquo;x9&rdquo;; with Frame: 8”x10”, nfs.">
+		    <img src="../gallery/images/portart/portil2406-roses-pak.jpg" class="img-fluid" alt="I was astounded by the hundreds of pink roses gracefully arching over a white picket fence.">
+		    <h6 class="gallery-caption text-center mt-2">Brattle Street Roses</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil2405-dogwood-at-willow-pond2.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DOGWOOD AT WILLOW POND (2405) Pastel <br>
+		&bull; Original Art: 5&rdquo;x5&rdquo;; with Mat 8”x8”, $120.">
+		    <img src="../gallery/images/portart/portil2405-dogwood-at-willow-pond2.jpg" class="img-fluid" alt="2nd painting of a vibrant tree">
+		    <h6 class="gallery-caption text-center mt-2">Dogwood at Willow Pond 2</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil2404-dogwood-at-willow-pond1.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DOGWOOD AT WILLOW POND (2404) Pastel <br>
+		&bull; Original Art: 5.5&rdquo;x8&rdquo;; with Mat: 8”x10”, $120.">
+		    <img src="../gallery/images/portart/portil2404-dogwood-at-willow-pond1.jpg" class="img-fluid" alt="vibrant tree really caught my eye">
+		    <h6 class="gallery-caption text-center mt-2">Dogwood at Willow Pond 1</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2403-amaryllis-bday-carl.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AMARYLLIS FOR CARL (2403) Watercolor<br>
+		&bull; Original Art: 10&rdquo;x13&rdquo;; nfs.">
+		    <img src="../gallery/images/portart/portil2403-amaryllis-bday-carl.jpg" class="img-fluid" alt="amaryllis has soft, blended hues of pink, purple, and orange">
+		    <h6 class="gallery-caption text-center mt-2">Amaryllis for Carl</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2402-valentine-rose.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="VALENTINE ROSE (2402) Watercolor <br>
+		&bull; Original Art: 5&rdquo;x3.5&rdquo;; nfs.">
+		    <img src="../gallery/images/portart/portil2402-valentine-rose.jpg" class="img-fluid" alt="Valentine rose">
+		    <h6 class="gallery-caption text-center mt-2">Valentine Rose</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
+  	    <a href="../gallery/images/portart/portil2401-10year-anniversary-rose.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="10 YEAR ANNIVERSARY ROSE (2401) Watercolor <br>
+		&bull; Original Art: 5&rdquo;x7&rdquo;; nfs.">
+		    <img src="../gallery/images/portart/portil2401-10year-anniversary-rose.jpg" class="img-fluid" alt="10h Anniversary card for Peggy">
+		    <h6 class="gallery-caption text-center mt-2">10 Year Anniversary Rose</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil2302-midnightmarvel.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MIDNIGHT MARVEL (2302) Pastel <br>
+		&bull; Original Art: 9&rdquo;x12&rdquo;; with Mat & Frame: 12”x16”, $300.">
+		    <img src="../gallery/images/portart/portil2302-midnightmarvel.jpg" class="img-fluid" alt="amazing cluster of enormous hibiscus (Midnight Marvel)">
+		    <h6 class="gallery-caption text-center mt-2">Midnight Marvel</h6>
+	      </a>
+      </div>
+
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil2301-willowpond-lateaugust.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WILLOW POND, LATE AUGUST (2301) Pastel <br>
 		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat & Frame: 14”x11”, $250.">
 		    <img src="../gallery/images/portart/portil2301-willowpond-lateaugust.jpg" class="img-fluid" alt="I was completely taken out of my intense busyness while painting this quiet, meditative scene.">
@@ -192,7 +322,7 @@
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item animals watercolor">
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil2216-daris-hydrangea.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DARI'S HYDRANGEA (2216) Pastel <br>
 		&bull; Original Art: 5.5&rdquo;x8&rdquo;; with Mat & Frame: 8”x10”, SOLD.">
 		    <img src="../gallery/images/portart/portil2216-daris-hydrangea.jpg" class="img-fluid" alt="My painting friend, Dari, invited me to paint in her garden.">
