@@ -151,62 +151,10 @@
       <div class="row mb-4">
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2515-firsttownhallhull.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FIRST TOWN HALL, HULL (2515) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat 10”x8”, $165.">
-		    <img src="../gallery/images/portart/portil2515-firsttownhallhull.jpg" class="img-fluid" alt="Hull's first Town Hall & School 1848">
-		    <h6 class="gallery-caption text-center mt-2">First Town Hall, Hull</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item flowers pastel">
-  	    <a href="../gallery/images/portart/portil2514-mayflowers.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MAY FLOWERS (2514) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat & Frame 7”x5”, $120.">
-		    <img src="../gallery/images/portart/portil2514-mayflowers.jpg" class="img-fluid" alt="flowers emerging in a serene corner">
-		    <h6 class="gallery-caption text-center mt-2">May Flowers</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2513-solsticesky.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SOLSTICE SKY (2513) Pastel <br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat 6”x5”, $120.">
-		    <img src="../gallery/images/portart/portil2513-solsticesky.jpg" class="img-fluid" alt="Glorious views of Hull Bay on the solstice.">
-		    <h6 class="gallery-caption text-center mt-2">Solstice Sky</h6>
-	      </a>
-      </div>
-
-<!-- end of row -->
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2512-tuckedaway.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="TUCKED AWAY (2512) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat 9”x5”, $140.">
-		    <img src="../gallery/images/portart/portil2512-tuckedaway.jpg" class="img-fluid" alt="beautiful area, tucked into neighborhood">
-		    <h6 class="gallery-caption text-center mt-2">Tucked Away</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2511-viewfrombillsdeck.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="VIEW FROM BILL'S DECK (2511) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat & Frame 10”x8”, $165.">
-		    <img src="../gallery/images/portart/portil2511-viewfrombillsdeck.jpg" class="img-fluid" alt="We gathered on the back deck of a private home, with nice views of Allerton Bay and Spinnaker Island.">
-		    <h6 class="gallery-caption text-center mt-2">View from Bill's Deck</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2510-scituateshore.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SCITUATE SHORT (2510) Pastel <br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat 11.5”x3.5”, $165.">
-		    <img src="../gallery/images/portart/portil2510-scituateshore.jpg" class="img-fluid" alt="Scituate Harbor">
-		    <h6 class="gallery-caption text-center mt-2">Scituate Shore</h6>
-	      </a>
-      </div>
-
-<!-- end of row -->
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2509-travelinglight.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="TRAVELING LIGHT (2509) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat 5”x6”, $120.">
-		    <img src="../gallery/images/portart/portil2509-travelinglight.jpg" class="img-fluid" alt="Spectacular light on Japanese Maple kept moving">
-		    <h6 class="gallery-caption text-center mt-2">Traveling Light</h6>
+  	    <a href="../gallery/images/portart/portil2508-autumnatcorkscrew.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="REPEAT / AUTUMN AT CORKSCREW SANCTUARY (2508) Pastel <br>
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat & Frame 11”x14”, $265.">
+		    <img src="../gallery/images/portart/portil2508-autumnatcorkscrew.jpg" class="img-fluid" alt="subtle autumn colors">
+		    <h6 class="gallery-caption text-center mt-2">Autumn at Corkscrew Sanctuary</h6>
 	      </a>
       </div>
 
@@ -221,7 +169,7 @@
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil2507-treeatthebridge.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="TREE AT THE BRIDGE (2507) Pastel <br>
 		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat 14”x11”, $165.">
-		    <img src="../gallery/images/portart/portil2507-treeatthebridge.jpg" class="img-fluid" alt="iconic scene with the Yoshino Cherry tree near the Swan Boats">
+		    <img src="../gallery/images/portart/portil2507-treeatthebridge.jpg" class="img-fluid" alt="conic scene with the Yoshino Cherry tree near the Swan Boats">
 		    <h6 class="gallery-caption text-center mt-2">Tree at the Bridge</h6>
 	      </a>
       </div>
