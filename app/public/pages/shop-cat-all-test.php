@@ -55,8 +55,8 @@
       include '../includes/nav2.inc.php'; 
       ?> 
 
-    </div><!-- end of collapse navbar-collapse -->
-  </div><!-- end of container-fluid -->
+    </div>
+  </div>
 </nav>
 
 <!-- header -->
@@ -142,171 +142,13 @@
         <button type="button" class="btn btn-outline-primary" data-filter=".watercolor">watercolor</button>
         <button type="button" class="btn btn-outline-primary" data-filter=".mixed">mixed media</button>
         <button type="button" class="btn btn-outline-primary" data-filter=".pencil">colored pencil</button>
-      </div><!-- END OF btn-group -->
+      </div>
 
     <div id="portart-rec" class="gallery row">
 
     <div class="col-12"><!-- columns -->
 
       <div class="row mb-4">
-
-<!-- first row has only 3 entries -->
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2526-nantasketbeach.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="NANTASKET BEACH (2526) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat & Frame 10”x8”, SOLD.">
-		    <img src="../gallery/images/portart/portil2526-nantasketbeach.jpg" class="img-fluid" alt="late summer view of Nantasket Beach">
-		    <h6 class="gallery-caption text-center mt-2">Nantasket Beach 2025</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2525-weirriverestuary.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WEIR RIVER ESTUARY (2525) pastel <br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat 10”x8”, $250.">
-		    <img src="../gallery/images/portart/portil2525-weirriverestuary.jpg" class="img-fluid" alt="my first real experience of the marsh at the Weir River Estuary">
-		    <h6 class="gallery-caption text-center mt-2">Weir River Estuary</h6>
-	      </a>
-      </div>
-
-<!-- end of row -->
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2524-suddenly.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SUDDENLY (2524) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat 10”x8”, nfs.">
-		    <img src="../gallery/images/portart/portil2524-suddenly.jpg" class="img-fluid" alt="a storm suddenly emerged">
-		    <h6 class="gallery-caption text-center mt-2">Suddenly</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2523-aroundthebend.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AROUND THE BEND (2523) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat & Frame 6”x5”, $165.">
-		    <img src="../gallery/images/portart/portil2523-aroundthebend.jpg" class="img-fluid" alt="curious about what lies around the bend in Hull Gut">
-		    <h6 class="gallery-caption text-center mt-2">Around the Bend</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2522-ptallterton.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="POINT ALLERTON (2522) pastel <br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat 10”x8”, $250.">
-		    <img src="../gallery/images/portart/portil2522-ptallterton.jpg" class="img-fluid" alt="concave curve of the land, the perspective, and the protrusion of Point Allerton in the distance">
-		    <h6 class="gallery-caption text-center mt-2">Point Allerton</h6>
-	      </a>
-      </div>
-
-<!-- end of row -->
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2521-watersedge.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WATER'S EDGE (2521) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat 10”x8”, $165.">
-		    <img src="../gallery/images/portart/portil2521-watersedge.jpg" class="img-fluid" alt="quiet and relaxing vibe on Sunset Point">
-		    <h6 class="gallery-caption text-center mt-2">Water's Edge</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2520-earlysummer.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="EARLY SUMMER (2520) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat & Frame 10”x8”, $165.">
-		    <img src="../gallery/images/portart/portil2520-earlysummer.jpg" class="img-fluid" alt="tree with amazing red leaves">
-		    <h6 class="gallery-caption text-center mt-2">Early Summer</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2519-bobsboat.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BOB'S BOAT (2519) pastel <br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat 10”x8”, $165.">
-		    <img src="../gallery/images/portart/portil2519-bobsboat.jpg" class="img-fluid" alt="Bob's boat moving through Mariner's Park.">
-		    <h6 class="gallery-caption text-center mt-2">Bob's Boat</h6>
-	      </a>
-      </div>
-
-<!-- end of row -->
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2518-paintingwithlesley.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PAINTING WITH LESLEY (2518) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat 5.5”x6.75”, $80.">
-		    <img src="../gallery/images/portart/portil2518-paintingwithlesley.jpg" class="img-fluid" alt="Painting with Lesley at Steamboat Wharf Marina">
-		    <h6 class="gallery-caption text-center mt-2">Painting with Lesley</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2517-movingclouds.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WORLD'S END CLOUDS (2517) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat & Frame 11.5”x3.5”, $165.">
-		    <img src="../gallery/images/portart/portil2517-movingclouds.jpg" class="img-fluid" alt="These moving clouds were spectacular!">
-		    <h6 class="gallery-caption text-center mt-2">World's End Clouds</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
-  	    <a href="../gallery/images/portart/portil2516-roseofsharon.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ROSE OF SHARON (2516) watercolor <br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat 5”x7”, nfs.">
-		    <img src="../gallery/images/portart/portil2516-roseofsharon.jpg" class="img-fluid" alt="Rose of Sharon take my breath away!">
-		    <h6 class="gallery-caption text-center mt-2">Rose of Sharon</h6>
-	      </a>
-      </div>
-
-<!-- end of row -->
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2515-firsttownhallhull.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FIRST TOWN HALL, HULL (2515) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat 10”x8”, $165.">
-		    <img src="../gallery/images/portart/portil2515-firsttownhallhull.jpg" class="img-fluid" alt="Hull's first Town Hall & School 1848">
-		    <h6 class="gallery-caption text-center mt-2">First Town Hall, Hull</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
-  	    <a href="../gallery/images/portart/portil2514-mayflowers.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MAY FLOWERS (2514) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat & Frame 7”x5”, $120.">
-		    <img src="../gallery/images/portart/portil2514-mayflowers.jpg" class="img-fluid" alt="flowers emerging in a serene corner">
-		    <h6 class="gallery-caption text-center mt-2">May Flowers</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2513-solsticesky.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SOLSTICE SKY (2513) Pastel <br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat 6”x5”, $120.">
-		    <img src="../gallery/images/portart/portil2513-solsticesky.jpg" class="img-fluid" alt="Glorious views of Hull Bay on the solstice.">
-		    <h6 class="gallery-caption text-center mt-2">Solstice Sky</h6>
-	      </a>
-      </div>
-
-<!-- end of row -->
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2512-tuckedaway.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="TUCKED AWAY (2512) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat 9”x5”, $140.">
-		    <img src="../gallery/images/portart/portil2512-tuckedaway.jpg" class="img-fluid" alt="beautiful area, tucked into neighborhood">
-		    <h6 class="gallery-caption text-center mt-2">Tucked Away</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2511-viewfrombillsdeck.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="VIEW FROM BILL'S DECK (2511) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat & Frame 10”x8”, $165.">
-		    <img src="../gallery/images/portart/portil2511-viewfrombillsdeck.jpg" class="img-fluid" alt="We gathered on the back deck of a private home, with nice views of Allerton Bay and Spinnaker Island.">
-		    <h6 class="gallery-caption text-center mt-2">View from Bill's Deck</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2510-scituateshore.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SCITUATE SHORT (2510) Pastel <br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat 11.5”x3.5”, $165.">
-		    <img src="../gallery/images/portart/portil2510-scituateshore.jpg" class="img-fluid" alt="Scituate Harbor">
-		    <h6 class="gallery-caption text-center mt-2">Scituate Shore</h6>
-	      </a>
-      </div>
-
-<!-- end of row -->
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2509-travelinglight.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="TRAVELING LIGHT (2509) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat 5”x6”, $120.">
-		    <img src="../gallery/images/portart/portil2509-travelinglight.jpg" class="img-fluid" alt="Spectacular light on Japanese Maple kept moving">
-		    <h6 class="gallery-caption text-center mt-2">Traveling Light</h6>
-	      </a>
-      </div>
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil2508-autumnatcorkscrew.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AUTUMN AT CORKSCREW SANCTUARY (2508) Pastel <br>
@@ -319,18 +161,25 @@
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil2507-treeatthebridge.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="TREE AT THE BRIDGE (2507) Pastel <br>
 		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat 14”x11”, $165.">
-		    <img src="../gallery/images/portart/portil2507-treeatthebridge.jpg" class="img-fluid" alt="iconic scene with the Yoshino Cherry tree near the Swan Boats">
+		    <img src="../gallery/images/portart/portil2507-treeatthebridge.jpg" class="img-fluid" alt="conic scene with the Yoshino Cherry tree near the Swan Boats">
 		    <h6 class="gallery-caption text-center mt-2">Tree at the Bridge</h6>
 	      </a>
       </div>
-
-<!-- end of row -->
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil2506-omegaechinacea.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DANCING FLOWERS (2506) Pastel <br>
 		&bull; Original Art: 8&rdquo;x5.5&rdquo;; with Mat 10”x8”, $120.">
 		    <img src="../gallery/images/portart/portil2506-omegaechinacea.jpg" class="img-fluid" alt="Echinacea were plentiful and joyful, as if they were dancing.">
 		    <h6 class="gallery-caption text-center mt-2">Dancing Flowers</h6>
+	      </a>
+      </div>
+<!-- end of row -->
+
+      <div class="col-sm-4 mb-4 gallery-item animals watercolor">
+  	    <a href="../gallery/images/portart/portil2505-tropical-fish-fun.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="TROPICAL FISH FUN (2505) Watercolor <br>
+		&bull; Original Art: 7&rdquo;x4.5&rdquo;; nfs.">
+		    <img src="../gallery/images/portart/portil2505-tropical-fish-fun.jpg" class="img-fluid" alt="Had fun painting this tropical fish.">
+		    <h6 class="gallery-caption text-center mt-2">Tropical Fish Fun</h6>
 	      </a>
       </div>
 
@@ -606,7 +455,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil2204-dawnredwood-azaleas.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DAWN REDWOOD AZALEAS 2 (2204) Pastel<br>
-		&bull; Original Art: 5&rdquo;x4.75&rdquo;; with Mat & Frame: 8”x8”, $140.">
+		&bull; Original Art: 5&rdquo;x4.75&rdquo;; with Mat: 8”x8”, $120.">
 		    <img src="../gallery/images/portart/portil2204-dawnredwood-azaleas.jpg" class="img-fluid" alt="remarkable magenta and rose colors of the Dawn Redwood Azaleas">
 		    <h6 class="gallery-caption text-center mt-2">Dawn Redwood Azaleas 2</h6>
 	      </a>
@@ -617,7 +466,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil2203-dawnredwood-azaleas.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DAWN REDWOOD AZALEAS 1 (2203) Pastel <br>
-		&bull; Original Art: 5&rdquo;x4.75&rdquo;; with Mat & Frame: 8”x8”, $140.">
+		&bull; Original Art: 5&rdquo;x4.75&rdquo;; with Mat: 8”x8”, $120.">
 		    <img src="../gallery/images/portart/portil2203-dawnredwood-azaleas.jpg" class="img-fluid" alt="remarkable magenta and rose colors of the Dawn Redwood Azaleas">
 		    <h6 class="gallery-caption text-center mt-2">Dawn Redwood Azaleas 1</h6>
 	      </a>
@@ -834,7 +683,7 @@
       <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
   	    <a href="../gallery/images/portart/portil2101-floatingmagnolia.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FLOATING MAGNOLIA (2101) Watercolor <br>
 		Belmont, MA<br>
-		&bull; Original Art: 5.25&rdquo;x7&rdquo;; with Mat &amp; Frame: 8&rdquo;x10&rdquo;, $165">
+		&bull; Original Art: 5.25&rdquo;x7&rdquo;; with Mat: 8&rdquo;x10&rdquo;, $120">
 		    <img src="../gallery/images/portart/portil2101-floatingmagnolia.jpg" class="img-fluid" alt="magnolia trees in our neighborhood are beautiful in springtime">
 		    <h6 class="gallery-caption text-center mt-2">Floating Magnolia</h6>
 	      </a>
@@ -1155,7 +1004,7 @@
 		Naples, FL<br>
 		&bull; Original Art: 10&rdquo;x3.75&rdquo;; with Mat: 14&rdquo;x8&rdquo;, $125.">
 		    <img src="../gallery/images/portart/portil1918-waitingwatching.jpg" class="img-fluid" alt="sun becoming a bright orange ball">
-		    <h6 class="gallery-caption text-center mt-2">Waiting and Watching</h6>
+		    <h6 class="gallery-caption text-center mt-2">Waiting and Watching - Trashed</h6>
 	      </a>
       </div>
 
@@ -1226,9 +1075,9 @@
 	      </a>
       </div>
 
-</div><!-- END OF row mb-4-->
+<!-- end of row -->
 
-<div class="row mb-4">
+      <div class="row mb-4">
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1910-swaying-vandas.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SWAYING VANDAS (1910) Pastel <br>
@@ -2170,7 +2019,7 @@
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1119-DelicateArch.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DELICATE ARCH (1119) Pastel &amp; gouache<br>
 		A hike in Arches National Park, Utah.<br>
-		&bull; Original Art: 15&rdquo;x6&rdquo;; with Mat &amp; Frame: 18&rdquo;x9&rdquo;, $265.">
+		&bull; Original Art: 15&rdquo;x6&rdquo;; with Mat &amp; Frame: 18&rdquo;x9&rdquo;, $300.">
 		    <img src="../gallery/images/portart/portil1119-DelicateArch.jpg" class="img-fluid" alt="A hike in Arches National Park, Utah">
 		    <h6 class="gallery-caption text-center mt-2">Delicate Arch</h6>
 	      </a>
@@ -2375,7 +2224,7 @@
   	    <a href="../gallery/images/portart/portil1012-HoneyCrispApples.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HONEY CRISP APPLES (1012) Pastel<br>
 		    &bull; Original Art: 7&rdquo;x5&rdquo;; with Mat: 10&rdquo;x8&rdquo;, $20.">
 		    <img src="../gallery/images/portart/portil1012-HoneyCrispApples.jpg" class="img-fluid" alt="Honey Crisp Apples at farmer's market">
-		    <h6 class="gallery-caption text-center mt-2">Honey Crisp Apples</h6>
+		    <h6 class="gallery-caption text-center mt-2">Honey Crisp Apples - Trashed</h6>
 	      </a>
       </div>
 
@@ -3167,6 +3016,7 @@
 
 
 <!-- end of row -->
+     
       
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
@@ -3367,6 +3217,7 @@
  
 <!-- end of row -->
 
+
       <div class="col-sm-4 mb-4 gallery-item animals pastel">
   	    <a href="../gallery/images/portart/portil0318-infinity3.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="INFINITY 3 (0318) Pastel<br>
     		&bull; Original Art: 18&rdquo;x12&rdquo;; with Mat &amp; Frame: 24&rdquo;x18&rdquo;, SOLD.">
@@ -3393,17 +3244,19 @@
       </div>
 
 
-</div><!-- END OF row mb-4-->
 
 
-    </div><!-- END OF col-12 -->
+      </div><!-- end of row mb-4 -->
 
-    </div><!-- END OF portart-rec ID and gallery row -->
-    
-    </section><!-- END OF content -->
 
-  </div><!-- END OF container-xxl -->
-</main><!-- END OF MAIN -->
+    </div><!-- col-12 columns -->
+
+    </div><!-- end of portart-rec gallery row -->
+
+    </section><!-- end of content area -->
+
+  </div><!-- end of container-xxl -->
+</main><!-- end of main -->
 
 <section class="subscribe-section"><!-- subscribe -->
   <div class="container-fluid">
@@ -3440,7 +3293,7 @@
       ?> 
 
     </div><!-- end of navbar -->
-  </div><!-- end of container-fluid -->
+  </div><!-- end of container -->
 </nav>
   
 </footer><!-- end of footer bottom -->
