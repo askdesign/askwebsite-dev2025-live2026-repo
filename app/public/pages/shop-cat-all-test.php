@@ -124,9 +124,9 @@
   <div class="container-xxl">
 
     <section class="page-title-lead">   
-          <h2 class="page-title">Portfolio - Art - Shop Cat All</h2>
-          <h3 class="page lead subhd">Recent Art Work</h3>
-          <p class="page lead">These are samples of my recent art and illustration work.</p>
+          <h2 class="page-title">Shop - Original Art - Cat All</h2>
+          <h3 class="page lead subhd">Original Art Work</h3>
+          <p class="page lead">This is a catalog of artwork available for purchase. Most pastel pieces are matted, and many are framed. The art may be purchased without the frame: please inquire! To purchase original artwork, please go to my <a href="contact.php">Contact</a> page.</p>
           <p><em>NOTE: click on the thumbnail image to see it enlarged in a slideshow!</em></p>
     </section>
 
