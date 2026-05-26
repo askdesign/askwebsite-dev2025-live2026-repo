@@ -611,7 +611,7 @@
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil0904-charlesriverspring.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CHARLES RIVER, SPRING (0904) Pastel<br>
 		    &bull; Original Art: 12&rdquo;x3.25&rdquo;; with Mat &amp; Frame: 16&rdquo;x8&rdquo;, SOLD.">
-		    <img src="../gallery/images/portart/portil0904-charlesriversprin-thumbnail.jpg" class="img-fluid" alt="view of Charles River in spring">
+		    <img src="../gallery/images/portart/portil0904-charlesriverspring-thumbnail.jpg" class="img-fluid" alt="view of Charles River in spring">
 		    <h6 class="gallery-caption text-center mt-2">Charles River</h6>
 	      </a>
       </div>

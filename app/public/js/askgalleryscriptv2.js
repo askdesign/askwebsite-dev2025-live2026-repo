@@ -1,4 +1,5 @@
 // external js: isotope.pkgd.js
+// use this one!
 
 // init Isotope
 var iso = new Isotope( '.gallery', {

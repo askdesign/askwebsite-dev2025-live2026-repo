@@ -1,5 +1,5 @@
-// external js: isotope.pkgd.js
-// same as askgalleryscript2.js
+// external js: isotope.pkgd.js and https://codepen.io/desandro/pen/LYpbOL
+// same as askgalleryscript.js
 
 // init Isotope
 var iso = new Isotope( '.gallery', {
