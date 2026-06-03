@@ -279,7 +279,7 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2017tford-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT &amp; MAINTENANCE - TFord - General Contractors: <br>The site was about 10 years old and needed a complete overhaul to make the design more contemporary and meet current coding standards. My friend and colleague, Janice Moore, was the lead designer and I was the front-end developer implementing her design. The site was rebuilt on the Bootstrap framework and is now mobile responsive. Special features: fly-out navigation menu and full-width image on home page.">
+  	    <a href="../gallery/images/portgd-arch/2017tford-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT &amp; MAINTENANCE - TFord - General Contractors: <br>Site was about 10 years old and needed a complete overhaul to make the design more contemporary and meet current coding standards. Friend and colleague, Janice Moore, was the lead designer. I was the front-end developer. Rebuilt on the Bootstrap framework and now mobile responsive. Special features: fly-out navigation menu and full-width hero image on home page.">
 		    <img src="../gallery/images/portgd-arch/2017tford-website-thumbnail.jpg" class="img-fluid" alt="TFord previous website">
 		    <h6 class="gallery-caption text-center mt-2">TFord</h6>
 	      </a>
@@ -336,80 +336,11 @@
 
       <!-- end of group -->
 
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2014macleish-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB CONSULTATION - Morellen MacLeish / Writer: <br>Website consultation, configuration, and maintenance.">
-		    <img src="../gallery/images/portgd-arch/2014macleish-website-thumbnail.jpg" class="img-fluid" alt="Macleish writings">
-		    <h6 class="gallery-caption text-center mt-2">Morellen MacLeish </h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2014parkman-acm-web.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - American Century Music: <br>Website re-design and configuration. Special Features: slideshows, Mail Chimp and Radio Station integration.">
-		    <img src="../gallery/images/portgd-arch/2014parkman-acm-web-thumbnail.jpg" class="img-fluid" alt="ACM redesign">
-		    <h6 class="gallery-caption text-center mt-2">American Century Music</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch//2013wellness-web.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - The Wellness Room Newton: <br>Website design and customization. Special Features: lightbox, calendar.">
-		    <img src="../gallery/images/portgd-arch//2013wellness-web-thumbnail.jpg" class="img-fluid" alt="Wellnes Room therapy">
-		    <h6 class="gallery-caption text-center mt-2">The Wellness Room Newton</h6>
-	      </a>
-      </div>
 
 
-      <!-- end of group -->
+      <!-- end of group --><!-- end of gallery 1 -->
 
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch/Kellem-corpid-2013-final-all.png" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="GRAPHIC DESIGN - David Kellem Law Group: <br>Corporate ID (logo, letterhead, business cards, envelopes, and mailing labels).">
-		    <img src="../gallery/images/portgd-arch/Kellem-corpid-2013-final-all-thumbnail.jpg" class="img-fluid" alt="Kellem Corp. ID">
-		    <h6 class="gallery-caption text-center mt-2">David Kellem Law Group</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd-arch/2013bodeau-rockpine-web.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Rock and Pine Healing: <br>Logo design, website design, customization, and maintenance.">
-		    <img src="../gallery/images/portgd-arch/2013bodeau-rockpine-web-thumbnail.jpg" class="img-fluid" alt="RockandPine">
-		    <h6 class="gallery-caption text-center mt-2">Rock and Pine Healing</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch/Fellow9781111348120-13.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Cengage Learning: <br>College textbook cover.">
-		    <img src="../gallery/images/portgd-arch/Fellow9781111348120-13-thumbnail.jpg" class="img-fluid" alt="Fellow textbook">
-		    <h6 class="gallery-caption text-center mt-2">American Media History</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch/Gillon9781133309857-13.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Cengage Learning: <br>College textbook cover.">
-		    <img src="../gallery/images/portgd-arch/Gillon9781133309857-13-thumbnail.jpg" class="img-fluid" alt="Gillon textbook">
-		    <h6 class="gallery-caption text-center mt-2">The American Paradox</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch/2012ucp-brochures.png" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - United Cerebral Palsy of MetroBoston: <br>Marketing brochures.">
-		    <img src="../gallery/images/portgd-arch/2012ucp-brochures-thumbnail.jpg" class="img-fluid" alt="UCP">
-		    <h6 class="gallery-caption text-center mt-2">United Cerebral Palsy of MetroBoston</h6>
-	      </a>
-      </div>
-
-      <!-- end of group --><!-- possible end of gallery 1 -->
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch/DayHurwitz9780495913573_12.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Cengage Learning: <br>College textbook cover.">
-		    <img src="../gallery/images/portgd-arch/DayHurwitz9780495913573_12-thumbnail.jpg" class="img-fluid" alt="DayHurwitz textbook">
-		    <h6 class="gallery-caption text-center mt-2">Children and Their Art</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd-arch/KolinConcise0495901946_12.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Cengage Learning: <br>College textbook cover.">
-		    <img src="../gallery/images/portgd-arch/KolinConcise0495901946_12-thumbnail.jpg" class="img-fluid" alt="Kolin textbook">
-		    <h6 class="gallery-caption text-center mt-2">Successful Writing at Work</h6>
-	      </a>
-      </div>
+ 
 
       <!-- end of group -->
 
@@ -421,7 +352,7 @@
     </div><!-- end of gallery row - portgd-arch -->
 
     <h5>
-      <a href="portgd-arch2.php"><button type="button" class="btn btn-outline-primary">MORE DESIGN WORK: 15+ years ago</button></a>
+      <a href="portgd-arch2.php"><button type="button" class="btn btn-outline-primary">MORE DESIGN WORK: 10+ years ago</button></a>
     </h5>
 
 
