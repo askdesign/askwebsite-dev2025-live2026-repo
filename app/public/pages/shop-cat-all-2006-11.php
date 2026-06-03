@@ -94,7 +94,7 @@
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
                   <li><a class="dropdown-item" href="portart-rec.php">Recent</a></li>
-                  <li><a class="dropdown-item" href="portart-arch.php">Archives</a></li>
+                  <li><a class="dropdown-item" href="portart-lic.php">Licensed</a></li>
                 </ul>
         </li>
 
@@ -964,6 +964,14 @@
 	      </a>
       </div>
 
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastels">
+  	    <a href="../gallery/images/portart/portil0704rtask.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SUNBURST (0704) Oil Pastel<br>
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; NFS, LICENSED.">
+		    <img src="../gallery/images/portart/portil0704rtask-thumbnail.jpg" class="img-fluid" alt="Sunrise">
+		    <h6 class="gallery-caption text-center mt-2">Sunburst</h6>
+	      </a>
+      </div>
+
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil0622-evergreen.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="EVER GREEN (0622) Pastel &amp; Gouache <br>
 		    Lenox, MA.<br>
@@ -1159,7 +1167,7 @@
 
     </div><!-- END OF portart-rec ID and gallery row -->
     <h5>
-      <a href="shop-cat-all-2006-11.php"><button type="button" class="btn btn-outline-primary">MORE ART</button></a>
+      <a href="shop-cat-all-2003-05.php"><button type="button" class="btn btn-outline-primary">MORE ART</button></a>
     </h5>
 
     

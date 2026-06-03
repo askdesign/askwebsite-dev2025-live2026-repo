@@ -94,7 +94,7 @@
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
                   <li><a class="dropdown-item" href="portart-rec.php">Recent</a></li>
-                  <li><a class="dropdown-item" href="#">Archives</a></li>
+                  <li><a class="dropdown-item" href="portart-lic.php">Licensed</a></li>
                 </ul>
         </li>
 
@@ -158,7 +158,7 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
-	      <a href="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART - Peggy Kornegger:<br> Cover and Interior of Peggy's book &quot;Breast Cancer &amp; Beyond: An Unexpected Soul Path&quot;, available on Amazon.com! The art licensed for this cover is a watercolor painting titled &quot;Magnolia&quot;. Notecards of the art are available for purchase: https://fineartamerica.com/featured/magnolia-anne-katzeff.html">
+	      <a href="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART - Peggy Kornegger:<br> Cover and Interior of Peggy's book &quot;Breast Cancer &amp; Beyond: An Unexpected Soul Path&quot;, available on Amazon.com! The art licensed for this cover is a watercolor painting titled &quot;Magnolia&quot;. Reproductions on sale: https://fineartamerica.com/featured/magnolia-anne-katzeff.html. Several more of my paintings are licensed for this book interior.">
 		    <img src="../gallery/images/portgd/kornegger-breastcancerbeyond-cover-ofcp-kdp-thumbnail.jpg" class="img-fluid" alt="Breast Cancer and Beyond">
 		    <h6 class="gallery-caption text-center mt-2">Breast Cancer & Beyond</h6>
 	      </a>
@@ -203,7 +203,7 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
-        <a href="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="graphic-design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART - Peggy Kornegger: </br>Cover and Interior of Peggy's &quot;Inside the Rainbow: Soul Connection in Nature&quot;, available on Amazon.com! The art licensed for this cover is a pastel painting titled &quot;Palm and Orchid&quot;. Notecards of the art are available for purchase: https://fineartamerica.com/featured/palm-and-orchid-anne-katzeff.html">
+        <a href="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="graphic-design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, and ART - Peggy Kornegger: </br>Cover and Interior of Peggy's &quot;Inside the Rainbow: Soul Connection in Nature&quot;, available on Amazon.com! The art licensed for this cover is a pastel painting titled &quot;Palm and Orchid&quot;. Reproductions on sale: https://fineartamerica.com/featured/palm-and-orchid-anne-katzeff.html. Several more of my paintings are licensed for this book interior.">
 		    <img src="../gallery/images/portgd/kornegger-rainbow-cover-ofcp-kdp-thumbnail.jpg" class="img-fluid" alt="Rainbow book cover">
 		    <h6 class="gallery-caption text-center mt-2">Inside the Rainbow</h6>
 	      </a>
@@ -211,21 +211,7 @@
 
 <!-- end of row -->
 
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2021robertdix-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Robert Dix: </br>
-        Created website for musician on WordPress platform. Moderate customizations, consult, and maintenance.	https://robertdix.org/">
-		    <img src="../gallery/images/portgd/2021robertdix-website-thumbnail.jpg" class="img-fluid" alt="Musician Dix">
-		    <h6 class="gallery-caption text-center mt-2">Robert Dix</h6>
-	      </a>
-      </div>
 
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2021abbeyk-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - AbbeyK: </br>
-        Updated site with more user-friendly theme; improved functionality and mobile-responsiveness; increased site speed.">
-		    <img src="../gallery/images/portgd/2021abbeyk-website-thumbnail.jpg" class="img-fluid" alt="Interior Designer site">
-		    <h6 class="gallery-caption text-center mt-2">AbbeyK</h6>
-	      </a>
-      </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd/2020barrett-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Mike Barrett: </br>
@@ -245,13 +231,6 @@
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2020alarmenti-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Al Armenti: </br>
-        Clone site from WordPress.com to WordPress.org subdomain, customizations, and consult. https://alarmenti.larainearmenti.com/">
-		    <img src="../gallery/images/portgd/2020alarmenti-website-thumbnail.jpg" class="img-fluid" alt="Tribute to Al Armenti">
-		    <h6 class="gallery-caption text-center mt-2">Al Armenti</h6>
-	      </a>
-      </div>
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd/2019baa-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Belmont Art Association: </br>
@@ -279,24 +258,11 @@
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2018perpetualmobiles-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Perpetual Mobiles: </br>
-        Website design, customization, and maintenance. https://www.perpetualmobiles.com">
-		    <img src="../gallery/images/portgd/2018perpetualmobiles-website-thumbnail.jpg" class="img-fluid" alt="Mobile artist">
-		    <h6 class="gallery-caption text-center mt-2">Perpetual Mobiles</h6>
-	      </a>
-      </div>
 
 <!-- end of row -->
 
 
-      <div class="col-sm-4 mb-4 gallery-item web-design">
-  	    <a href="../gallery/images/portgd/2018morse-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Helen Morse / Photographer: </br>
-        Photoshelter platform customization, and maintenance. https://www.helenmorse.com">
-		    <img src="../gallery/images/portgd/2018morse-website-thumbnail.jpg" class="img-fluid" alt="Morse Photography">
-		    <h6 class="gallery-caption text-center mt-2">Helen Morse / Photographer</h6>
-	      </a>
-      </div>
+
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd/2017bga-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Belmont Gallery of Art: </br>
@@ -318,7 +284,9 @@
 
       <div class="col-sm-4 mb-4 gallery-item web-design">
   	    <a href="../gallery/images/portgd/2016pak-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Peggy Kornegger: </br>
-        Site configuration, theme settings, consult. https://spiritflower.wordpress.com/">
+        Site configuration, theme settings, consult. https://spiritflower.wordpress.com/<br>
+        The art licensed for this cover is a pastel painting titled &quot;Flower Symphony&quot;. <br>
+        Reproductions on sale in my Shop: https://fineartamerica.com/featured/flower-symphony-anne-katzeff.html.">
 		    <img src="../gallery/images/portgd/2016pak-website-thumbnail.jpg" class="img-fluid" alt="Spirit Flower">
 		    <h6 class="gallery-caption text-center mt-2">Peggy Kornegger</h6>
 	      </a>
@@ -326,19 +294,13 @@
 
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
   	    <a href="../gallery/images/portgd/kornegger-loseyourmind-cover-reprint-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, ART - Peggy Kornegger: </br>
-        Cover &amp; Interior for Peggy's book &quot;Lose Your Mind, Open Your Heart&quot;, available on Amazon.com! The art licensed for this cover is a pastel painting titled &quot;Flower Symphony&quot;. Notecards are available for purchase in my Fine Art America shop.">
+        Cover &amp; Interior for Peggy's book &quot;Lose Your Mind, Open Your Heart&quot;, available on Amazon.com! The art licensed for this cover is a pastel painting titled &quot;Flower Symphony&quot;. Reproductions on sale in my Shop: https://fineartamerica.com/featured/flower-symphony-anne-katzeff.html. Several more of my paintings are licensed for this book interior.">
 		    <img src="../gallery/images/portgd/kornegger-loseyourmind-cover-reprint-ofcp-kdp-thumbnail.jpg" class="img-fluid" alt="Lose Your Mind">
 		    <h6 class="gallery-caption text-center mt-2">Peggy Kornegger</h6>
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd/010413ts-longwoodcentbklt-chap1.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Longwood Cricket Club:  </br>
-        Design production and photo retouching. Winner of N.E. Book Show Award!">
-		    <img src="../gallery/images/portgd/010413ts-longwoodcentbklt-chap1-thumbnail.jpg" class="img-fluid" alt="LCC Centennial Book">
-		    <h6 class="gallery-caption text-center mt-2">Longwood Cricket Club</h6>
-	      </a>
-      </div>
+
 
 <!-- end of row -->
 
@@ -351,16 +313,8 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item graphic-design">
-  	    <a href="../gallery/images/portgd/092710addison-gf4e-cover-1600.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN - Tina Addison: </br>
-        Cover and Interior for Tina's cookbook &quot;Good Food For Everyone&quot;. Consultation and coordination with self-publishing vendor. Image scans, color correction, and retouching. The proceeds of sales for this cookbook go to food pantries.">
-		    <img src="../gallery/images/portgd/092710addison-gf4e-cover-thumbnail.jpg" class="img-fluid" alt="Good Food for Everyone">
-		    <h6 class="gallery-caption text-center mt-2">Tina Addison</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item graphic-design">
   	    <a href="../gallery/images/portgd/kornegger-livingwithspirit-cover-reprint-ofcp-kdp-1600.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN, ART - Peggy Kornegger: </br>
-        Cover &amp; Interior for Peggy's book  &quot;Living With Spirit&quot;, available on Amazon.com! The art licensed for this cover is a pastel painting titled &quot;Infinity&quot;, which is available on a notecard in my Shop: https://fineartamerica.com/featured/infinity-anne-katzeff.html">
+        Cover &amp; Interior for Peggy's book  &quot;Living With Spirit&quot;, available on Amazon.com! The art licensed for this cover is a pastel painting titled &quot;Infinity&quot;. Reproductions on sale in my Shop: https://fineartamerica.com/featured/infinity-anne-katzeff.html. Several more of my paintings are licensed for this book interior.">
 		    <img src="../gallery/images/portgd/kornegger-livingwithspirit-cover-reprint-ofcp-kdp-thumbnail.jpg" class="img-fluid" alt="Living with Spirit">
 		    <h6 class="gallery-caption text-center mt-2">Peggy Kornegger</h6>
 	      </a>

@@ -94,7 +94,7 @@
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
                   <li><a class="dropdown-item" href="portart-rec.php">Recent</a></li>
-                  <li><a class="dropdown-item" href="#">Archives</a></li>
+                  <li><a class="dropdown-item" href="portart-lic.php">Licensed</a></li>
                 </ul>
         </li>
 
@@ -145,6 +145,47 @@
     <div class="col-12"><!-- columns -->
 
       <div class="row mb-4">
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2020alarmenti-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DEVELOPMENT - Al Armenti: </br>
+        Clone site from WordPress.com to WordPress.org subdomain, customizations, and consult. https://alarmenti.larainearmenti.com/">
+		    <img src="../gallery/images/portgd-arch/2020alarmenti-website-thumbnail.jpg" class="img-fluid" alt="Tribute to Al Armenti">
+		    <h6 class="gallery-caption text-center mt-2">Al Armenti</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2018perpetualmobiles-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Perpetual Mobiles: </br>
+        Website design, customization, and maintenance. https://www.perpetualmobiles.com">
+		    <img src="../gallery/images/portgd-arch/2018perpetualmobiles-website-thumbnail.jpg" class="img-fluid" alt="Mobile artist">
+		    <h6 class="gallery-caption text-center mt-2">Perpetual Mobiles</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item web-design">
+  	    <a href="../gallery/images/portgd-arch/2018morse-website.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="WEB DESIGN &amp; DEVELOPMENT - Helen Morse / Photographer: </br>
+        Photoshelter platform customization, and maintenance. https://www.helenmorse.com">
+		    <img src="../gallery/images/portgd-arch/2018morse-website-thumbnail.jpg" class="img-fluid" alt="Morse Photography">
+		    <h6 class="gallery-caption text-center mt-2">Helen Morse / Photographer</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item graphic-design">
+  	    <a href="../gallery/images/portgd-arch/010413ts-longwoodcentbklt-chap1.jpg" class="" data-toggle="lightbox" data-gallery="design"  data-size="xl" data-caption="GRAPHIC DESIGN - Longwood Cricket Club:  </br>
+        Design production and photo retouching. Winner of N.E. Book Show Award!">
+		    <img src="../gallery/images/portgd-arch/010413ts-longwoodcentbklt-chap1-thumbnail.jpg" class="img-fluid" alt="LCC Centennial Book">
+		    <h6 class="gallery-caption text-center mt-2">Longwood Cricket Club</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item graphic-design">
+  	    <a href="../gallery/images/portgd-arch/092710addison-gf4e-cover-1600.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="ART DIRECTION, GRAPHIC DESIGN - Tina Addison: </br>
+        Cover and Interior for Tina's cookbook &quot;Good Food For Everyone&quot;. Consultation and coordination with self-publishing vendor. Image scans, color correction, and retouching. The proceeds of sales for this cookbook go to food pantries.">
+		    <img src="../gallery/images/portgd-arch/092710addison-gf4e-cover-thumbnail.jpg" class="img-fluid" alt="Good Food for Everyone">
+		    <h6 class="gallery-caption text-center mt-2">Tina Addison</h6>
+	      </a>
+      </div>
+      
       <div class="col-sm-4 mb-4 gallery-item web-design">
         <a href="../gallery/images/portgd-arch/2021janetsmith-website.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="WEB DEVELOPMENT - Janet Smith Photos: <br>Content updates, customizations, maintenance, and improved functionality.">
 		    <img src="../gallery/images/portgd-arch/2021janetsmith-website-thumbnail.jpg" class="img-fluid" alt="JSmith previous site">

@@ -94,7 +94,7 @@
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
                   <li><a class="dropdown-item" href="portart-rec.php">Recent</a></li>
-                  <li><a class="dropdown-item" href="#">Archives</a></li>
+                  <li><a class="dropdown-item" href="portart-lic.php">Licensed</a></li>
                 </ul>
         </li>
 
@@ -332,7 +332,7 @@
 
       <div class="col-sm-3 mb-4 gallery-item graphic-design">
         <a href="../gallery/images/portgd-arch//boy9780618396894-10.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="ART DIRECTION - Houghton Mifflin Company: <br>College textbook cover.">
-		    <img src="../gallery/images/portgd-arch//boy9780618396894-10-thumbnail.jpg" class="img-fluid" alt="Boyle/Scanlon textbook">
+		    <img src="../gallery/images/portgd-arch/boy9780618396894-10-thumbnail.jpg" class="img-fluid" alt="Boyle/Scanlon textbook">
 		    <h6 class="gallery-caption text-center mt-2">Methods and Strategies for Teaching Students with Mild Disabilities</h6>    
         </a>
       </div>
@@ -340,7 +340,7 @@
       <div class="col-sm-3 mb-4 gallery-item graphic-design">
         <a href="../gallery/images/portgd-arch/hopper9780547199962-10.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="ART DIRECTION - Houghton Mifflin Company: <br>College textbook cover.">
 		    <img src="../gallery/images/portgd-arch/hopper9780547199962-10-thumbnail.jpg" class="img-fluid" alt="Hopper textbook">
-		    <h6 class="gallery-caption text-center mt-2">Practicing College Learning Strategies</h6>    
+		    <h6 class="gallery-caption text-center mt-2">Practicing College <br>Learning Strategies</h6>    
         </a>
       </div>
 
@@ -354,7 +354,7 @@
       <div class="col-sm-3 mb-4 gallery-item graphic-design">
         <a href="../gallery/images/portgd-arch/gar9780618938735-08.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="ART DIRECTION - Houghton Mifflin Company: <br>College textbook cover.">
 		    <img src="../gallery/images/portgd-arch/gar9780618938735-08-thumbnail.jpg" class="img-fluid" alt="Garman textbook">
-		    <h6 class="gallery-caption text-center mt-2">Personal Finance</h6>    
+		    <h6 class="gallery-caption text-center mt-2">Personal <br>Finance</h6>    
         </a>
       </div>
       <!-- end of group -->
@@ -450,7 +450,7 @@
       <div class="col-sm-3 mb-4 gallery-item graphic-design">
         <a href="../gallery/images/portgd-arch//sam0618348948-08.jpg" class="" data-toggle="lightbox" data-gallery="design" data-size="xl" data-caption="ART DIRECTION - Houghton Mifflin Company: <br>College textbook cover.">
 		    <img src="../gallery/images/portgd-arch/sam0618348948-08-thumbnail.jpg" class="img-fluid" alt="Samaniego textbook">
-		    <h6 class="gallery-caption text-center mt-2">De Una Vez</h6>    
+		    <h6 class="gallery-caption text-center mt-2"><br>De Una Vez</h6>    
         </a>
       </div>
 

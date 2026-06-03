@@ -94,7 +94,7 @@
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
                   <li><a class="dropdown-item" href="portart-rec.php">Recent</a></li>
-                  <li><a class="dropdown-item" href="portart-arch.php">Archives</a></li>
+                  <li><a class="dropdown-item" href="portart-lic.php">Licensed</a></li>
                 </ul>
         </li>
 

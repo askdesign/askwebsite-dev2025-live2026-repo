@@ -89,8 +89,8 @@
                   <li><a class="dropdown-item" href="pages/portgd-arch.php">Archives</a></li>
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
-                  <li><a class="dropdown-item" href="#">Recent</a></li>
-                  <li><a class="dropdown-item" href="#">Archives</a></li>
+                  <li><a class="dropdown-item" href="portart-rec.php#">Recent</a></li>
+                  <li><a class="dropdown-item" href="portart-lic.php">Licensed</a></li>
                 </ul>
         </li>
 
