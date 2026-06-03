@@ -37,8 +37,8 @@
 
 
 
+    <title>ASK Design | Shop - Original Art - Cat 2006 to 2011</title>
 
-    <title>ASK Design | Art Portfolio - Shop Cat All - 2006 to 2011</title>
   </head>
 
   
@@ -123,7 +123,7 @@
 <main>
   <div class="container-xxl">
     <section class="page-title-lead">   
-          <h2 class="page-title">Shop - Original Art - Cat 2006-11</h2>
+          <h2 class="page-title">Shop - Original Art - Cat 2006 to 2011</h2>
           <h3 class="page lead subhd">Original Art Work</h3>
           <p class="page lead">This is a catalog of artwork available for purchase. Most pastel pieces are matted, and many are framed. The art may be purchased without the frame: please inquire! To purchase original artwork, please go to my <a href="contact.php">Contact</a> page.</p>
           <p><em>NOTE: click on the thumbnail image to see it enlarged in a slideshow!</em></p>
