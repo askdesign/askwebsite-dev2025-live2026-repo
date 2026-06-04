@@ -1,20 +1,11 @@
-// external js: isotope.pkgd.js, imagesloaded.pkgd.js
-// demo on https://codepen.io/desandro/pen/LYpbOL
-// documentation on https://imagesloaded.desandro.com/
-
-// same as askgalleryscriptv3-imagesloaded.js
+// external js: isotope.pkgd.js and https://codepen.io/desandro/pen/LYpbOL
+// same as askgalleryscript.js
 
 // init Isotope
 var iso = new Isotope( '.gallery', {
   itemSelector: '.gallery-item',
   layoutMode: 'fitRows'
 });
-
-// use imagesLoaded to trigger a layout after each image loads
-imagesLoaded( '.gallery' ).on( 'progress', function() {
-  iso.layout();
-});
-
 
 // filter functions
 var filterFns = {

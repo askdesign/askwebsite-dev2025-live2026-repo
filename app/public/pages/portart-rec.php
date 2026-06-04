@@ -531,8 +531,10 @@
     <!-- BS Lightbox required scripts -->
     <script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.5/dist/index.bundle.min.js"></script>
 
-    <!-- Isotope for filtering -->
-    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
+    <!-- Isotope for filtering and loading images -->
+  	<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+  	<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+
     <script src="../js/askgalleryscript.js"></script>
 
   </body>
