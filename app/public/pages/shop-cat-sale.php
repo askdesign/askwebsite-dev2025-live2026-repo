@@ -154,13 +154,11 @@
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil2518-paintingwithlesley.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PAINTING WITH LESLEY (2518) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; 5.5”x6.75”, $80.">
+		&bull; Original Art: 5.5&rdquo;x6.75&rdquo;, $80.">
 		    <img src="../gallery/images/portart/portil2518-paintingwithlesley-thumbnail.jpg" class="img-fluid" alt="Painting with Lesley at Steamboat Wharf Marina">
 		    <h6 class="gallery-caption text-center mt-2">Painting with Lesley</h6>
 	      </a>
       </div>
-
-<!-- end of row -->
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil2408-morninglight-at-wellfleet.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MORNING LIGHT AT WELLFLEET BAY(2408) Pastel <br>
@@ -169,8 +167,6 @@
 		    <h6 class="gallery-caption text-center mt-2">Morning Light at Wellfleet Bay</h6>
 	      </a>
       </div>
-
-<!-- end of row -->
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil2405-dogwood-at-willow-pond2.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DOGWOOD AT WILLOW POND (2405) Pastel <br>
@@ -182,7 +178,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil2404-dogwood-at-willow-pond1.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DOGWOOD AT WILLOW POND (2404) Pastel <br>
-		&bull; Original Art: 5.5&rdquo;x8&rdquo;; with Mat: 8”x10”, $120.">
+		&bull; Original Art: 5.5&rdquo;x8&rdquo;; with Mat: 10”x8”, $120.">
 		    <img src="../gallery/images/portart/portil2404-dogwood-at-willow-pond1-thumbnail.jpg" class="img-fluid" alt="vibrant tree really caught my eye">
 		    <h6 class="gallery-caption text-center mt-2">Dogwood at Willow Pond 1</h6>
 	      </a>
@@ -200,7 +196,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil2214-butterly-garden-corner.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BUTTERFLY GARDEN CORNER (2214) Pastel <br>
-		&bull; Original Art: 5.5&rdquo;x8&rdquo;; $60.">
+		&bull; Original Art: 5.5&rdquo;x8&rdquo;, $60.">
 		    <img src="../gallery/images/portart/portil2214-butterly-garden-corner-thumbnail.jpg" class="img-fluid" alt="The butterfly garden is filled with colorful flowers that attract butterflies and bees!">
 		    <h6 class="gallery-caption text-center mt-2">Butterfly Garden Corner</h6>
 	      </a>
@@ -210,7 +206,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants watercolor">
   	    <a href="../gallery/images/portart/portil2201-waterlily.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WATERLILY CALM (2201) Watercolor <br>
-		&bull; Original Art: 5.75&rdquo;x5&rdquo;; $60.">
+		&bull; Original Art: 5.75&rdquo;x5&rdquo;, $60.">
 		    <img src="../gallery/images/portart/portil2201-waterlily-thumbnail.jpg" class="img-fluid" alt="waterlilies represent quiet and calm">
 		    <h6 class="gallery-caption text-center mt-2">Water Lily Calm</h6>
 	      </a>
@@ -296,7 +292,7 @@
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1917-cloudscape-Keywest.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CLOUDSCAPE ON THE WAY TO KEY WEST (1917) Pastel <br>
 		Naples, FL<br>
-		&bull; Original Art: 5.5&rdquo;x3.75&rdquo;;  with Mat: 10&rdquo;x8&rdquo;, $40.">
+		&bull; Original Art: 5.5&rdquo;x3.75&rdquo;; with Mat: 10&rdquo;x8&rdquo;, $40.">
 		    <img src="../gallery/images/portart/portil1917-cloudscape-Keywest-thumbnail.jpg" class="img-fluid" alt="A relaxing ride to Key West, painting these beautiful clouds">
 		    <h6 class="gallery-caption text-center mt-2">Cloudscape on the Way to Key West</h6>
 	      </a>
@@ -348,7 +344,7 @@
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1804-sawgrass-palmetto-study.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SAWGRASS PALMETTO STUDY (1804) Pastel<br>
 		Naples, FL<br>
-		&bull; Original Art: 5.5&rdquo;x3.5&rdquo;; $20.">
+		&bull; Original Art: 5.5&rdquo;x3.5&rdquo;, $20.">
 		    <img src="../gallery/images/portart/portil1804-sawgrass-palmetto-study-thumbnail.jpg" class="img-fluid" alt="sawgrass palmettos: native to Florida, quite prolific">
 		    <h6 class="gallery-caption text-center mt-2">Sawgrass Palmetto Study</h6>
 	      </a>
@@ -362,16 +358,6 @@
 		&bull; Original Art: 7&rdquo;x5&rdquo;; $20.">
 		    <img src="../gallery/images/portart/portil1801-sea-turtle-thumbnail.jpg" class="img-fluid" alt="When I became aware of the red tide, I became very concerned for the sea life, especially the sea turtles.">
 		    <h6 class="gallery-caption text-center mt-2">Sea Turtle</h6>
-	      </a>
-      </div>
-
-<!-- end of row -->
-
-      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
-  	    <a href="../gallery/images/portart/portil1715-early-spring-buds.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="EARLY SPRING BUDS (1715) Pastel <br>
-		&bull; Original Art: 5&rdquo;x7&rdquo;; with Mat: 8&rdquo;x10&rdquo;, SOLD.">
-		    <img src="../gallery/images/portart/portil1715-early-spring-buds-thumbnail.jpg" class="img-fluid" alt="Spring is the sweetest time of year">
-		    <h6 class="gallery-caption text-center mt-2">Early Spring Buds</h6>
 	      </a>
       </div>
 
@@ -410,7 +396,7 @@
 
      <div class="col-sm-4 mb-4 gallery-item animals mixed">
   	    <a href="../gallery/images/portart/portil1516-greenturtlesheaven2.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GREEN TURTLES HEAVEN 2 (1516) Mixed Media <br>
-		&bull; Original Art: 8&rdquo;x8&rdquo;; nfs.">
+		&bull; Original Art: 8&rdquo;x8&rdquo;; $40.">
 		    <img src="../gallery/images/portart/portil1516-greenturtlesheaven2-thumbnail.jpg" class="img-fluid" alt="collage: Green Turtles Heaven 2">
 		    <h6 class="gallery-caption text-center mt-2">Green Turtles Heaven2</h6>
 	      </a>
@@ -418,7 +404,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item animals mixed">
   	    <a href="../gallery/images/portart/portil1515-greenturtlesheaven1.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GREEN TURTLES HEAVEN 1 (1515) Mixed Media <br>
-		&bull; Original Art: 8&rdquo;x8&rdquo;; nfs.">
+		&bull; Original Art: 8&rdquo;x8&rdquo;, $40.">
 		    <img src="../gallery/images/portart/portil1515-greenturtlesheaven1-thumbnail.jpg" class="img-fluid" alt="collage: Green Turtles Heaven 1">
 		    <h6 class="gallery-caption text-center mt-2">Green Turtles Heaven 1</h6>
 	      </a>
@@ -440,9 +426,6 @@
 		    <h6 class="gallery-caption text-center mt-2">Vibration of a Loved Earth</h6>
 	      </a>
       </div>
-
-<!-- end of row -->
-
  
 <!-- end of row -->
 

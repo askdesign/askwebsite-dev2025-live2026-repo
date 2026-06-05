@@ -179,7 +179,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil2523-aroundthebend.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AROUND THE BEND (2523) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat & Frame 6”x5”, $165.">
+		&bull; Original Art: 6&rdquo;x5&rdquo;; with Mat & Frame 8”x8”, $165.">
 		    <img src="../gallery/images/portart/portil2523-aroundthebend-thumbnail.jpg" class="img-fluid" alt="curious about what lies around the bend in Hull Gut">
 		    <h6 class="gallery-caption text-center mt-2">Around the Bend</h6>
 	      </a>
@@ -283,7 +283,7 @@
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil2511-viewfrombillsdeck.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="VIEW FROM BILL'S DECK (2511) Pastel <br>
-		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat & Frame 10”x8”, $165.">
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat 14”x11”, $165.">
 		    <img src="../gallery/images/portart/portil2511-viewfrombillsdeck-thumbnail.jpg" class="img-fluid" alt="We gathered on the back deck of a private home, with nice views of Allerton Bay and Spinnaker Island.">
 		    <h6 class="gallery-caption text-center mt-2">View from Bill's Deck</h6>
 	      </a>
