@@ -100,7 +100,7 @@
 
         <li class="nav-item dropdown"><a class="nav-link active dropdown-toggle" href="shop-cat.php" data-bs-toggle="dropdown" aria-expanded="false">Shop</a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item active" href="shop-cat.php">Original Art</a></li>
+                  <li><a class="dropdown-item active" aria-current="page" href="shop-cat.php">Original Art</a></li>
                   <li><a class="dropdown-item" href="shop-cat-sale.php">Sale</a></li>
                   <li><a class="dropdown-item" href="shop-cat-cards.php">Cards</a></li>
                   <li><a class="dropdown-item" href="shop-cat-prints.php">Prints</a></li>
@@ -143,7 +143,7 @@
         <button type="button" class="btn btn-outline-primary" data-filter=".pencil">colored pencil</button>
       </div><!-- END OF btn-group -->
 
-    <div id="portart-rec" class="gallery row">
+    <div id="portart" class="gallery row">
 
     <div class="col-12"><!-- columns -->
 

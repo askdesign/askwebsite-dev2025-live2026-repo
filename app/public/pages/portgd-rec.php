@@ -89,7 +89,7 @@
         <li class="nav-item dropdown"><a class="nav-link active dropdown-toggle" href="portgd-rec.php" data-bs-toggle="dropdown" aria-expanded="false">Portfolio</a>
                 <ul class="dropdown-menu">
                   <li class="dropdown-header">Design</li>
-                  <li><a class="dropdown-item active" href="portgd-rec.php">Recent</a></li>
+                  <li><a class="dropdown-item active" aria-current="page" href="">Recent</a></li>
                   <li><a class="dropdown-item" href="portgd-arch.php">Archives</a></li>
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
@@ -139,7 +139,7 @@
         <button type="button" class="btn btn-outline-primary" data-filter=".graphic-design">graphic design</button>
       </div>
 
-    <div id="portgd-rec" class="gallery row">
+    <div id="portgd" class="gallery row">
     <div class="col-12"><!-- columns -->
 
       <div class="row mb-4">

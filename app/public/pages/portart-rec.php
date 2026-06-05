@@ -93,7 +93,7 @@
                   <li><a class="dropdown-item" href="portgd-arch.php">Archives</a></li>
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
-                  <li><a class="dropdown-item active" href="">Recent</a></li>
+                  <li><a class="dropdown-item active" aria-current="page" href="">Recent</a></li>
                   <li><a class="dropdown-item" href="portart-lic.php">Licensed</a></li>
                 </ul>
         </li>

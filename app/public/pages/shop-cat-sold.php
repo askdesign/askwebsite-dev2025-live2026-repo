@@ -105,7 +105,7 @@
                   <li><a class="dropdown-item" href="shop-cat-cards.php">Cards</a></li>
                   <li><a class="dropdown-item" href="shop-cat-prints.php">Prints</a></li>
                   <li><a class="dropdown-item" href="shop-cat-tees.php">Tees</a></li>
-                  <li><a class="dropdown-item active" href="shop-cat-sold.php">Sold/NFS</a></li>
+                  <li><a class="dropdown-item active" aria-current="page" href="shop-cat-sold.php">Sold/NFS</a></li>
                   <li class="dropdown-header divider"></li>
                   <li><a class="dropdown-item" href="shop-order.php">Order</a></li>
                 </ul>
@@ -144,7 +144,7 @@
         <button type="button" class="btn btn-outline-primary" data-filter=".pencil">colored pencil</button>
       </div><!-- END OF btn-group -->
 
-    <div id="portart-rec" class="gallery row">
+    <div id="portart" class="gallery row">
 
     <div class="col-12"><!-- columns -->
 

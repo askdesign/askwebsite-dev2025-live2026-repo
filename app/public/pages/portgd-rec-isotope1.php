@@ -89,7 +89,7 @@
         <li class="nav-item dropdown"><a class="nav-link active dropdown-toggle" href="portgd-rec.php" data-bs-toggle="dropdown" aria-expanded="false">Portfolio</a>
                 <ul class="dropdown-menu">
                   <li class="dropdown-header">Design</li>
-                  <li><a class="dropdown-item active" href="portgd-rec.php">Recent</a></li>
+                  <li><a class="dropdown-item active" aria-current="page" href="portgd-rec.php">Recent</a></li>
                   <li><a class="dropdown-item" href="portgd-arch.php">Archives</a></li>
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
