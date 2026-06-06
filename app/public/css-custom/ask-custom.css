@@ -426,20 +426,25 @@ ul.float-start-img {
   border-right: 1px solid var(--bs-gray-400);
 }
 
-
-
-.title, .title-small {
+.title, .title-small, .title a, .title a:hover {
   font-family: var(--bs-font-serif);
   font-size: 48px;
   color: var(--bs-primary);
   font-weight: 700;
   margin-bottom: 0;
+  text-decoration: none;
 }
 
-.title-small {
+.title-small, .title-small a, .title-small a:hover {
   font-size: 24px;
   color: var(--bs-primary-700);
+  text-decoration: none;
 }
+
+.logo, .logo-small, .logo a, .logo-small a {
+  text-decoration: none;
+}
+
 
 /* --- Primary Nav --- */
 .navbar-nav {

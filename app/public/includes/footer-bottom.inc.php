@@ -7,11 +7,11 @@
 
 		<div class="brand-small col-xl-4 col-lg-4 col-md-12">
           <div class="gap-4 d-sm-flex justify-content-sm-center align-items-end"> 
-            <div class="logo-small">
-              <img src="/images/images-common/sled3-resize-100.png" alt="logo">
+            <div class="logo-small"><a href="../index.php">
+              <img src="/images/images-common/sled3-resize-100.png" alt="logo"></a>
             </div>
 
-              <h2 class="title-small">ASK Design</h2>
+              <h2 class="title-small"><a href="../index.php">ASK Design</a></h2>
           </div> 
         </div><!-- end of col -->
 

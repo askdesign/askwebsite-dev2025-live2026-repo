@@ -1784,7 +1784,7 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil0714-dunesatdawn-thumbnail.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DUNES AT DAWN (0714) Pastel<br>
+  	    <a href="../gallery/images/portart/portil0714-dunesatdawn.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DUNES AT DAWN (0714) Pastel<br>
 		    Provincetown, MA.<br>
 		    &bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, nfs.">
 		    <img src="../gallery/images/portart/portil0714-dunesatdawn-thumbnail.jpg" class="img-fluid" alt="Provincetown Dunes at Dawn">
@@ -2154,9 +2154,9 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item animals pencil">
-  	    <a href="../gallery/images/portart/portil0405-greetings-colpencil.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GREETINGS (0404) Colored Pencil<br>
+  	    <a href="../gallery/images/portart/portil0404-greetings-colpencil.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GREETINGS (0404) Colored Pencil<br>
     		&bull; Original Art: 5&rdquo;x8&rdquo;; with Mat &amp; Frame: 8&rdquo;x10&rdquo;, SOLD.">
-		    <img src="../gallery/images/portart/portil0405-greetings-colpencil-thumbnail.jpg" class="img-fluid" alt="3 Dolphins greeting">
+		    <img src="../gallery/images/portart/portil0404-greetings-colpencil-thumbnail.jpg" class="img-fluid" alt="3 Dolphins greeting">
 		    <h6 class="gallery-caption text-center mt-2">Greetings</h6>
 	      </a>
       </div>

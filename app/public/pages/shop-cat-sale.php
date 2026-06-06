@@ -126,7 +126,7 @@
     <section class="page-title-lead">   
           <h2 class="page-title">Shop - Sale Items</h2>
           <h3 class="page lead subhd">Reduced Prices</h3>
-          <p class="page lead">The artwork listed here is available for purchase at significantly reduced prices. Most pastel pieces are matted, and many are framed. The art may be purchased without the frame: please inquire! To purchase original artwork, please go to my <a href="contact.php">Contact</a> page.</p>
+          <p class="page lead">The artwork listed here is on sale at significantly reduced prices. Most pieces are matted, and many are framed. You can buy the art without the frame, just ask! To purchase original artwork, fill out the form at the top of my <a href="contact.php">Contact</a> page.</p>
           <p><em>NOTE: click on the thumbnail image to see it enlarged in a slideshow!</em></p>
     </section>
 

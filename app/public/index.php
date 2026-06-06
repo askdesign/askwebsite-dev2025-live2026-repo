@@ -125,11 +125,11 @@
         <div class="row sub-primary-nav-cta mx-auto">
           <div class="gap-4 d-sm-flex justify-content-between align-items-center"> 
 
-          <div class="sub-primary-nav-cta-item"><a class="nav-link" aria-current="page" href="#">Designer</a></div>
+          <div class="sub-primary-nav-cta-item"><a class="nav-link" href="pages/portgd-rec.php">Designer</a></div>
           <div class="sub-primary-nav-cta-item divider">|</div>
-          <div class="sub-primary-nav-cta-item"><a class="nav-link" href="pages/about.php">Artist</a></div>
+          <div class="sub-primary-nav-cta-item"><a class="nav-link" href="pages/shop-cat.php">Artist</a></div>
           <div class="sub-primary-nav-cta-item divider">|</div>
-          <div class="sub-primary-nav-cta-item"><a class="nav-link" href="pages/services.php">Teacher</a></div>
+          <div class="sub-primary-nav-cta-item"><a class="nav-link" href="https://www.askdesign.biz/blog/">Teacher</a></div>
         </div>
 
         </div><!-- end of nav cta -->
@@ -174,7 +174,7 @@
           </div>
 
           <div class="cta-item-button">
-            <a href="pages/shop.php"><button type="button" class="btn btn-outline-primary btn-lg">SHOP</button></a>
+            <a href="pages/shop-cat.php"><button type="button" class="btn btn-outline-primary btn-lg">SHOP</button></a>
           </div>
           
         </div><!-- end of cta-item -->

@@ -126,7 +126,7 @@
     <section class="page-title-lead">   
           <h2 class="page-title">Shop - Original Art - Cat All</h2>
           <h3 class="page lead subhd">Original Art Work</h3>
-          <p class="page lead">This is a catalog of artwork available for purchase. Most pastel pieces are matted, and many are framed. The art may be purchased without the frame: please inquire! To purchase original artwork, please go to my <a href="contact.php">Contact</a> page.</p>
+          <p class="page lead">This is a catalog of artwork available for purchase. Most pieces are matted, and many are framed. You can buy the art without the frame, just ask! To purchase original artwork, fill out the form at the top of my <a href="contact.php">Contact</a> page.</p>
           <p><em>NOTE: click on the thumbnail image to see it enlarged in a slideshow!</em></p>
     </section>
 
@@ -2900,7 +2900,7 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil0714-dunesatdawn-thumbnail.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DUNES AT DAWN (0714) Pastel<br>
+  	    <a href="../gallery/images/portart/portil0714-dunesatdawn.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DUNES AT DAWN (0714) Pastel<br>
 		    Provincetown, MA.<br>
 		    &bull; Original Art: 12&rdquo;x9&rdquo;; with Mat &amp; Frame: 16&rdquo;x12&rdquo;, nfs.">
 		    <img src="../gallery/images/portart/portil0714-dunesatdawn-thumbnail.jpg" class="img-fluid" alt="Provincetown Dunes at Dawn">
@@ -3332,9 +3332,9 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item animals pencil">
-  	    <a href="../gallery/images/portart/portil0405-greetings-colpencil.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GREETINGS (0404) Colored Pencil<br>
+  	    <a href="../gallery/images/portart/portil0404-greetings-colpencil.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GREETINGS (0404) Colored Pencil<br>
     		&bull; Original Art: 5&rdquo;x8&rdquo;; with Mat &amp; Frame: 8&rdquo;x10&rdquo;, SOLD.">
-		    <img src="../gallery/images/portart/portil0405-greetings-colpencil-thumbnail.jpg" class="img-fluid" alt="3 Dolphins greeting">
+		    <img src="../gallery/images/portart/portil0404-greetings-colpencil-thumbnail.jpg" class="img-fluid" alt="3 Dolphins greeting">
 		    <h6 class="gallery-caption text-center mt-2">Greetings</h6>
 	      </a>
       </div>
