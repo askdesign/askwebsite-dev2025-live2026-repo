@@ -619,6 +619,14 @@ ul.float-start-img {
   border-bottom: 1px solid var(--bs-gray-200);
 }
 
+.page-bottom-lead {
+  margin-top: 60px;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  border-top: 1px solid var(--bs-gray-200);
+}
+
+
 .page-title {
   font-size: 48px;
   font-family: var(--bs-font-serif);

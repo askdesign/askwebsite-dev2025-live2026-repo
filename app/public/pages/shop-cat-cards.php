@@ -135,15 +135,6 @@
 			<p>Be sure to specify the art title and number when filling out the order form. Otherwise, I'll send you a mixed sampler.</p>
     		</div><!-- end of page lead list -->
 
-          <h3 class="page lead subhd">Purchase from FAA Shop</h3>
-          <p class="page lead">If the card you want isn't displayed on this page, check out my Fine Art America shop! You'll find a lot more cards to choose from. All sorts of beautiful reproductions are in my shop: cards, prints, masks, tees, mugs, and more! If the art you like isn't already reproduced, special arrangements can be made, so <a href="contact.php">Contact</a> me!</p>
-
-			<div class="row page lead list">
-			<p><strong>Notecards: </strong>Printed on 110 lb. paper, coated with a semi-gloss finish. Blank inside has a matte white finish; can be customized with a text message. 5”x7” in size; includes white envelope.</p>
-			<p><a href="https://fineartamerica.com/profiles/anne-katzeff/shop"><button type="button" class="btn btn-outline-primary btn-lg">BROWSE ANNE'S FAA SHOP</button></a></p>
-
-    		</div><!-- end of page lead list -->
-
 	        <p><em>NOTE: click on the thumbnail image to see it enlarged in a slideshow!</em></p>
     </section>
 
@@ -352,7 +343,19 @@
 
     </div><!-- END OF col-12 -->
 
-    </div><!-- END OF portart-rec ID and gallery row -->
+    </div><!-- END OF portart ID and gallery row -->
+
+	<section class="page-bottom-lead">   
+
+	    <h3 class="page lead subhd">Purchase from FAA Shop</h3>
+          <p class="page lead">If the card you want isn't displayed on this page, check out my Fine Art America shop! You'll find a lot more cards to choose from. All sorts of beautiful reproductions are in my shop: cards, prints, masks, tees, mugs, and more! If the art you like isn't already reproduced, special arrangements can be made, so <a href="contact.php">Contact</a> me!</p>
+
+		<div class="row page lead list">
+			<p><strong>Notecards: </strong>Printed on 110 lb. paper, coated with a semi-gloss finish. Blank inside has a matte white finish; can be customized with a text message. 5”x7” in size; includes white envelope.</p>
+			<p><a href="https://fineartamerica.com/profiles/anne-katzeff/shop"><button type="button" class="btn btn-outline-primary btn-lg">BROWSE ANNE'S FAA SHOP</button></a></p>
+    	</div><!-- end of page lead list -->
+	</section>
+
     
     </section><!-- END OF content -->
 
