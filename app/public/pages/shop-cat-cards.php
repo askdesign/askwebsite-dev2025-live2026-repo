@@ -35,8 +35,8 @@
     </script>
   	<!-- end of Global site tag (gtag.js) - Google Analytics GA4 -->
 
-
-
+	<!-- Paypal script -->
+	<script src="https://www.paypalobjects.com/ncp/cart/cart.js" data-merchant-id="L4382JETLWMYU"></script>
 
     <title>ASK Design | Shop - Cards</title>
   </head>
@@ -131,7 +131,7 @@
 
 			<div class="row page lead list">
         	<p><strong>Postcards: </strong>Printed on coated paper, 6”x4-1/4”. Sold in sets of 5 and 10</p>
-			<p><strong>Notecards: </strong>Printed on soft-white, smooth, uncoated, recycled paper. Blank inside. A6 size (6”x4-1/2” when folded); includes envelopes. Sold in sets of 10 and 15. </p>
+			<p><strong>Notecards: </strong>Printed on soft-white, smooth, uncoated, recycled paper. Blank inside. A6 size (6”x4-1/2” when folded); includes envelopes. Sold in sets of 10 and 16. </p>
 			<p>Be sure to specify the art title and number when filling out the order form. Otherwise, I'll send you a mixed sampler.</p>
     		</div><!-- end of page lead list -->
 
@@ -344,6 +344,33 @@
     </div><!-- END OF col-12 -->
 
     </div><!-- END OF portart ID and gallery row -->
+
+
+
+
+
+	<section class="order-form-section">
+    <div class="row justify-content-center">
+	<div class="col-xl-5 col-lg-8 col-sm-10">
+
+          	<div class="order-box">
+	
+<paypal-cart-button data-id="pp-view-cart"></paypal-cart-button>
+<script>
+  cartPaypal.Cart({ id: "pp-view-cart" })
+</script>
+
+	<!-- NOTE: styling to come; perhaps center it across 6 columns -->
+<paypal-add-to-cart-button data-id="J6JYUU7GFXV4U"></paypal-add-to-cart-button>
+<script>
+  cartPaypal.AddToCart({ id: "J6JYUU7GFXV4U" })
+</script>
+		</div><!-- contact box -->
+	</div><!-- columns -->
+	</div><!-- row -->
+	</section><!-- paypal cart -->
+
+
 
 	<section class="page-bottom-lead">   
 
