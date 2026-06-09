@@ -353,14 +353,14 @@
     <div class="row justify-content-center">
 	<div class="col-xl-5 col-lg-8 col-sm-10">
 
-          	<div class="order-box">
-	
+        <div class="order-box">
+<!-- View Cart -->
 <paypal-cart-button data-id="pp-view-cart"></paypal-cart-button>
 <script>
   cartPaypal.Cart({ id: "pp-view-cart" })
 </script>
 
-	<!-- NOTE: styling to come; perhaps center it across 6 columns -->
+<!-- Add to Cart -->
 <paypal-add-to-cart-button data-id="J6JYUU7GFXV4U"></paypal-add-to-cart-button>
 <script>
   cartPaypal.AddToCart({ id: "J6JYUU7GFXV4U" })

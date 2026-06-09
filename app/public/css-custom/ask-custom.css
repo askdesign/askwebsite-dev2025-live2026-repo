@@ -798,7 +798,10 @@ ul.mc {
 }
 
 /* --- Override Paypal inline styles --- */
-#form-container-J6JYUU7GFXV4U.css-178qcrb {
+/* --- Cards --- */
+#form-container-J6JYUU7GFXV4U,
+#form-container-T5JD4BXGE7LLA,
+#form-container-TMNS8DUYRFF8E {
     max-width: 100% !important;
 }
 
