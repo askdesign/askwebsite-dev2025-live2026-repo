@@ -490,7 +490,7 @@
 	      </a>
       </div>
 
-      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil2217-magnetic-reds.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MAGNETIC REDS (2217) Pastel <br>
 		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14”x11”, $165.">
 		    <img src="../gallery/images/portart/portil2217-magnetic-reds-thumbnail.jpg" class="img-fluid" alt="The flowers in Magnetic Reds live in bright sunlight.">
@@ -1433,7 +1433,7 @@
 
 <!-- end of row -->
 
-      <div class="col-sm-4 mb-4 gallery-item flowersplants pencil">
+      <div class="col-sm-4 mb-4 gallery-item landscapes pencil">
   	    <a href="../gallery/images/portart/portil1802-stunning-clouds-at-vanderbilt.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="STUNNING CLOUDS AT VANDERBILT (1802) Colored Pencil<br>
 		Naples, FL<br>
 		&bull; Original Art: 9&rdquo;x5&rdquo;; $30.">

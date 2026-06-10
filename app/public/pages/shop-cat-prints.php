@@ -299,7 +299,7 @@
   cartPaypal.AddToCart({ id: "T5JD4BXGE7LLA" })
 </script>
 
-		</div><!-- contact box -->
+		</div><!-- order box -->
 	</div><!-- columns -->
 	</div><!-- row -->
 	</section><!-- paypal cart -->

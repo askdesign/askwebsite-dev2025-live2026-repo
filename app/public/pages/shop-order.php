@@ -36,9 +36,9 @@
   	<!-- end of Global site tag (gtag.js) - Google Analytics GA4 -->
 
 	<!-- Paypal script -->
-  <script src="https://www.paypalobjects.com/ncp/cart/cart.js" data-merchant-id="L4382JETLWMYU"></script>
+	<script src="https://www.paypalobjects.com/ncp/cart/cart.js" data-merchant-id="L4382JETLWMYU"></script>
 
-    <title>ASK Design | Shop - Tees</title>
+    <title>ASK Design | Shop - Order</title>
   </head>
 
   
@@ -104,10 +104,10 @@
                   <li><a class="dropdown-item" href="shop-cat-sale.php">Sale</a></li>
                   <li><a class="dropdown-item" href="shop-cat-cards.php">Cards</a></li>
                   <li><a class="dropdown-item" href="shop-cat-prints.php">Prints</a></li>
-                  <li><a class="dropdown-item active" aria-current="page" href="shop-cat-tees.php">Tees</a></li>
+                  <li><a class="dropdown-item" href="shop-cat-tees.php">Tees</a></li>
                   <li><a class="dropdown-item" href="shop-cat-sold.php">Sold/NFS</a></li>
                   <li class="dropdown-header divider"></li>
-                  <li><a class="dropdown-item" href="shop-order.php">Order</a></li>
+                  <li><a class="dropdown-item active" aria-current="page" href="shop-order.php">Order</a></li>
                 </ul>
         </li>
 
@@ -124,57 +124,79 @@
   <div class="container-xxl">
 
     <section class="page-title-lead">   
-          <h2 class="page-title">Shop - Tees</h2>
+          <h2 class="page-title">Shop - Order</h2>
           <h3 class="page lead subhd">Purchase from Anne</h3>
 
-          <p class="page lead">The two T-shirts displayed on this page can be purchased directly from me. My illustrations are paired with one of his famous quotes. I designed these T-shirts to honor Henry David Thoreau; they initially sold exclusively at the Walden Pond State Reservation shop. Now, you can get them here!</p>
-            
-          <p class="page lead">Please use the order form at the bottom of the page.</p>
+          <p class="page lead">The order forms on this page are for the cards, prints, and tees that you can purchases directly from me. </p>
 
-	        <p><em>NOTE: click on the thumbnail image to see it enlarged in a slideshow!</em></p>
     </section>
 
     <section class="content"><!-- content area -->
 
-    <div id="portart" class="gallery row">
+	  <section class="order-form-section">
 
-    <div class="col-12"><!-- columns -->
-
-      <div class="row mb-4">
-
-      <div class="col-sm-4 mb-4 gallery-item landscapes">
-  	    <a href="../gallery/images/portart/portil0902-drums3f-kiwitee.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="3 DRUMS (0902) Digital<br>
-		    &bull; Original Art: 8.5&rdquo;x11&rdquo;; licensed for T-shirt.">
-		    <img src="../gallery/images/portart/portil0902-drums3f-kiwitee-thumbnail.jpg" class="img-fluid" alt="Thoreau tee: 3 Drums">
-		    <h6 class="gallery-caption text-center mt-2">Thoreau: 3 Drums</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item animals">
-  	    <a href="../gallery/images/portart/portil0901-childchip-skyblue.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MIRACLE EYES (0901) Digital<br>
-		    &bull; Original Art: 8.5&rdquo;x11&rdquo;; licensed for T-shirt.">
-		    <img src="../gallery/images/portart/portil0901-childchip-skyblue-thumbnail.jpg" class="img-fluid" alt="Thoreau tee: Miracle Eyes">
-		    <h6 class="gallery-caption text-center mt-2">Thoreau: Miracle Eyes</h6>
-	      </a>
-      </div>
-
-
-</div><!-- END OF row mb-4-->
-
-
-    </div><!-- END OF col-12 -->
-
-    </div><!-- END OF portart ID and gallery row -->
-
-
-
-
-
-	<section class="order-form-section">
-    <div class="row justify-content-center">
+    <div class="row"><!-- Cards -->
 	  <div class="col-xl-5 col-lg-8 col-sm-10">
-
       <div class="order-box">
+
+<!-- View Cart -->
+<paypal-cart-button data-id="pp-view-cart"></paypal-cart-button>
+<script>
+  cartPaypal.Cart({ id: "pp-view-cart" })
+</script>
+
+<!-- Add to Cart -->
+<paypal-add-to-cart-button data-id="J6JYUU7GFXV4U"></paypal-add-to-cart-button>
+<script>
+  cartPaypal.AddToCart({ id: "J6JYUU7GFXV4U" })
+</script>
+
+		  </div><!-- order box -->
+	  </div><!-- columns -->
+
+    <div class="col-xl-7 order-form-list">
+      <p><strong>Postcards: </strong>Printed on coated paper, 6”x4-1/4”. Sold in sets of 5 and 10</p>
+			<p><strong>Notecards: </strong>Printed on soft-white, smooth, uncoated, recycled paper. Blank inside. A6 size (6”x4-1/2” when folded); includes envelopes. Sold in sets of 10 and 16. </p>
+			<p>Be sure to specify the art title and number when filling out the order form. Otherwise, I'll send you a mixed sampler.</p>
+    </div><!-- end of list -->
+
+	  </div><!-- row -->
+
+      <div class="divider"></div>
+
+    <div class="row"><!-- Prints -->
+	  <div class="col-xl-5 col-lg-8 col-sm-10">
+      <div class="order-box">
+
+<!-- View Cart -->
+<paypal-cart-button data-id="pp-view-cart"></paypal-cart-button>
+<script>
+  cartPaypal.Cart({ id: "pp-view-cart" })
+</script>
+
+<!-- Add to Cart -->
+<paypal-add-to-cart-button data-id="T5JD4BXGE7LLA"></paypal-add-to-cart-button>
+<script>
+  cartPaypal.AddToCart({ id: "T5JD4BXGE7LLA" })
+</script>
+
+
+		  </div><!-- order box -->
+	  </div><!-- columns -->
+
+  <div class="col-xl-7 order-form-list">
+      <p><strong>Prints: </strong>All giclees are fine art inkjet prints, on archival Crescent Velvet Art paper, sold with standard-size acid-free mat. All are available in the Small 5”x7” size. Only 2 paintings are available in the Large 11”x14” size: Celebration (#0607) and Butterfly Garden (#0605). Be sure to specify the art title and number of the print(s) you want when filling out the order form.</p>
+
+  </div><!-- end of list -->
+
+	  </div><!-- row -->
+
+      <div class="divider"></div>
+
+    <div class="row"><!-- Tees -->
+	  <div class="col-xl-5 col-lg-8 col-sm-10">
+      <div class="order-box">
+
 <!-- View Cart -->
 <paypal-cart-button data-id="pp-view-cart"></paypal-cart-button>
 <script>
@@ -188,20 +210,37 @@
 </script>
 
 
-		</div><!-- order box -->
-	</div><!-- columns -->
-	</div><!-- row -->
-	</section><!-- paypal cart -->
+
+		  </div><!-- order box -->
+	  </div><!-- columns -->
+
+  <div class="col-xl-7 order-form-list">
+      <p>Two T-shirts can be purchased directly from me. My illustrations are paired with one of his famous quotes. I designed these T-shirts to honor Henry David Thoreau; they initially sold exclusively at the Walden Pond State Reservation shop. Now, you can get them here!</p>
+
+
+  </div><!-- end of list -->
+
+	  </div><!-- row -->
+
+        <div class="divider"></div>
+
+    <div class="row justify-content-center"><!-- Original Art -->
+	  <div class="col-xl-5 col-lg-8 col-sm-10">
+	  <h3 class="page lead subhd text-center">Original Artwork</h3>
+    <p class="page lead text-center">To purchase original artwork, please go to my <a href="contact.php">Contact</a> page.</p>
+	  </div><!-- columns -->
+
+
+	  </div><!-- row -->
+
+	  </section><!-- paypal carts -->
 
 
 
 	<section class="page-bottom-lead">   
 
 	    <h3 class="page lead subhd">Purchase from FAA Shop</h3>
-          <p class="page lead">Check out my Fine Art America shop, where you'll find a lot more to choose from. All sorts of Tees and other kinds of reproductions are in my shop: cards, prints, masks, mugs, and more! If the art you like isn't already reproduced, special arrangements can be made, so <a href="contact.php">Contact</a> me!</p>
-
-			<p><a href="https://fineartamerica.com/profiles/anne-katzeff/shop"><button type="button" class="btn btn-outline-primary btn-lg">BROWSE ANNE'S FAA SHOP</button></a></p>
-
+          <p class="page lead">If the item you want isn't displayed on my website, check out my Fine Art America shop! You'll find a lot more to choose from. All sorts of beautiful reproductions are in my shop: cards, prints, masks, tees, mugs, and more! If the art you like isn't already reproduced, special arrangements can be made, so <a href="contact.php">Contact</a> me!</p>
 	</section>
 
     
