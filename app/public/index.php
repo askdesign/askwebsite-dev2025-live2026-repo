@@ -181,7 +181,7 @@
 				</div>
 
 				<div class="col-lg-4 col-sm-6">
-        <div class="cta-item d-grid align-content-between">
+        <div class="cta-item-last d-grid align-content-between">
           <div class-="cta-item-content">
 						<h3 class="cta-item-hd">Newest Blog Post</h3>
 						<p class="cta-item-text">Gallery Block Layouts - WordPress offers many options for creative folks to showcase their work. One engaging way is to display multiple images in a grid of rows and columns. In this tutorial, we’ll explore the standard Gallery block. Then, we’ll compare it to the advanced version provided by the Kadence blocks plugin</p>

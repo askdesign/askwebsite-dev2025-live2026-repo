@@ -559,6 +559,8 @@ ul.float-start-img {
 .sub-primary-nav-cta-item.divider {
   font-size: 30px;
   font-weight: 400;
+  border-bottom: 0px solid var(--bs-gray-200);
+  margin-bottom: 0;
 }
 
 /* --- CTA items --- */
@@ -566,7 +568,7 @@ ul.float-start-img {
   margin-bottom: 80px;
 }
 
-.cta-item {
+.cta-item, .cta-item-last {
     background-color: var(--bs-gray-100);
     border: 1px solid var(--bs-primary-200);
     border-radius: var(--bs-border-radius);
@@ -898,11 +900,32 @@ ul.mc {
     --bs-btn-border-radius: var(--bs-border-radius);
 }
 
-/* -- MEDIA QUERIES - Bootstrap breakpoints -- */
+/* -- MEDIA QUERIES - Bootstrap & Google (G) breakpoints -- */
 
 
-/* --`xxl` applies to x-large devices (large desktops, less than 1400px) -- */
+/* -- Laptop L (G) -- */
+@media (max-width: 1440px) {
+    
+
+
+
+
+
+}
+
+
+/* -- `xxl` applies to x-large devices (large desktops, less than 1400px) -- */
 @media (max-width: 1400px) {
+    
+
+
+
+
+
+}
+
+/* -- Laptop (G) -- */
+@media (max-width: 1280px) {
     
 
 
@@ -913,7 +936,10 @@ ul.mc {
 
 /* -- `xl` applies to large devices (desktops, less than 1200px) -- */
 @media (max-width: 1200px) {
-    
+
+.cta-item, .cta-item-last {
+  height: 480px;
+}
 
 
 
@@ -932,15 +958,32 @@ ul.mc {
   border-left: 0px solid var(--bs-gray-200);
 }
 
+.cta-item, .cta-item-last {
+  height: 560px;
+}
 
+.navbar-nav, .navbar-nav2 {
+  padding-top: 1rem;
+}
 
-
+.dropdown-menu[data-bs-popper] {
+    margin-top: 0;
+    margin-left: 2.5rem;
+}
 
 }
 
-/* -- `md` applies to small devices (landscape phones, less than 768px) -- */
-@media (max-width: 768px) {
+/* -- Mobile device (G) -- */
+@media (max-width: 960px) {
     
+.cta-item, .cta-item-last {
+  height: 440px;
+}
+
+.cta-item-last {
+  margin-top: 40px;
+}
+
 .copyright, .policies {
   text-align: center;
   padding-bottom: 40px;
@@ -958,6 +1001,34 @@ ul.mc {
 
 
 
+}
+
+/* -- Kindle (G) -- */
+@media (max-width: 800px) {
+    
+
+
+
+
+
+}
+
+/* -- `md` applies to small devices (landscape phones, less than 768px) & Table (G) -- */
+@media (max-width: 768px) {
+    
+
+
+
+
+}
+
+/* -- Generic (G) -- */
+@media (max-width: 600px) {
+    
+
+
+
+
 
 }
 
@@ -967,6 +1038,48 @@ ul.mc {
 
 
 }
+
+/* -- Generic (G) -- */
+@media (max-width: 480px) {
+    
+
+
+
+
+
+}
+
+/* -- Mobile L (G) -- */
+@media (max-width: 425px) {
+    
+
+
+
+
+
+}
+
+/* -- Mobile M (G) -- */
+@media (max-width: 375px) {
+    
+
+
+
+
+
+}
+
+/* -- Mobile S (G) -- */
+@media (max-width: 320px) {
+    
+
+
+
+
+
+}
+
+
 
 
 /* -- TESTS -- */
