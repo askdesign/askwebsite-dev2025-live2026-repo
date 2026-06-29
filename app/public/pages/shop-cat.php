@@ -1496,7 +1496,7 @@
 
      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1108-StoneBridge.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="STONE BRIDGE, WATERTOWN (Bike 'n Paint) (1108) Pastel<br>
-		&bull; Original Art:10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $60.">
+		&bull; Original Art:10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $85.">
 		    <img src="../gallery/images/portart/portil1108-StoneBridge-thumbnail.jpg" class="img-fluid" alt="Bike 'n Paint: Stone Bridge">
 		    <h6 class="gallery-caption text-center mt-2">Stone Bridge</h6>
 	      </a>

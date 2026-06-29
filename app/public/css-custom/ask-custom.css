@@ -413,8 +413,8 @@ ul.float-start-img {
 
 /* --- Header > Brand Area --- */
 .brand {
-  margin-top: 4rem;
-  margin-bottom: 4rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
   padding-top: .5rem;
 }
 
@@ -1015,10 +1015,56 @@ ul.mc {
 
 /* -- `md` applies to small devices (landscape phones, less than 768px) & Table (G) -- */
 @media (max-width: 768px) {
-    
 
+/* -- header - items reduced approx. 90% -- */
+.brand {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
 
+.logo img { 
+  height: 108px;
+}
 
+.title, .title-small, .title a, .title a:hover {
+  font-size: 43px;
+}
+
+/* -- buttons -- */
+.btn-group-lg>.btn, .btn-lg {
+  --bs-btn-padding-x: 2.25rem;
+  --bs-btn-font-size: 1.25rem;
+}
+
+/* -- Hero & CTA sections -- */
+.hero {
+  height: 500px;
+  background-position: -300px 0;
+}
+
+.sub-primary-nav-cta {
+  max-width: 550px;
+  height: 66px;
+  padding: 0 36px;
+  margin-top: 0px;
+}
+
+.description.lead {
+  margin-top: 36px;
+  font-size: 22px;
+}
+
+.cta-item-hd {
+  font-size: 22px;
+}
+
+.cta-item-text {
+  font-size: 16px;
+}
+
+.subscription-box-hd, .contact-form-hd {
+  font-size: 36px;
+}
 
 }
 
@@ -1026,8 +1072,15 @@ ul.mc {
 @media (max-width: 600px) {
     
 
+.hero {
+  height: 500px;
+  background-position: -150px 0;
+}
 
-
+.col-sm-6 > .cta-item,
+.cta-item ~ .col-sm-6 {
+  width: 100%;
+}
 
 
 }
