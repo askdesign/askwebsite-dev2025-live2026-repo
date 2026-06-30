@@ -150,7 +150,7 @@
     <div class="container-xxl">
 			<div class="row cta-section justify-content-center">
 				<!-- cta-item -->
-				<div class="col-lg-4 col-sm-6">
+				<div class="col-lg-4 col-md-6">
         <div class="cta-item d-grid align-content-between">
           <div class-="cta-item-content">
 
@@ -166,7 +166,7 @@
         </div><!-- end of cta-item -->
 				</div>
 
-				<div class="col-lg-4 col-sm-6">
+				<div class="col-lg-4 col-md-6">
         <div class="cta-item d-grid align-content-between">
           <div class-="cta-item-content">
 						<h3 class="cta-item-hd">Artwork</h3>
@@ -180,7 +180,7 @@
         </div><!-- end of cta-item -->
 				</div>
 
-				<div class="col-lg-4 col-sm-6">
+				<div class="col-lg-4 col-md-6">
         <div class="cta-item-last d-grid align-content-between">
           <div class-="cta-item-content">
 						<h3 class="cta-item-hd">Newest Blog Post</h3>

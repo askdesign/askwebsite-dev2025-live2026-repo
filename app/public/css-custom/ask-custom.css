@@ -947,6 +947,19 @@ ul.mc {
 
 }
 
+/* -- laptop (G) -- */
+@media (max-width: 1024px) {
+
+.cta-item, .cta-item-last {
+  height: 560px;
+}
+
+
+
+
+
+}
+
 /* -- `lg` applies to medium devices (tablets, less than 992px)-- */
 @media (max-width: 992px) {
     
@@ -956,10 +969,6 @@ ul.mc {
 
 .border-left {
   border-left: 0px solid var(--bs-gray-200);
-}
-
-.cta-item, .cta-item-last {
-  height: 560px;
 }
 
 .navbar-nav, .navbar-nav2 {
