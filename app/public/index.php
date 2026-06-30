@@ -121,7 +121,7 @@
     <div class="hero">   
 
       <div class="px-4 py-5 text-center"> 
-        <div class="col-lg-6 mx-auto"> 
+        <div class="col-xl-6 mx-auto"> 
         <div class="row sub-primary-nav-cta mx-auto">
           <div class="gap-4 d-sm-flex justify-content-between align-items-center"> 
 
@@ -203,7 +203,7 @@
 <section class="subscribe-section"><!-- subscribe -->
   <div class="container-fluid">
 	  <div class="row justify-content-center">
-		  <div class="col-xl-5 col-lg-8 col-sm-10">
+		  <div class="col-xl-5 col-lg-8 col-sm-12">
 
       <?php 
       include 'includes/subscribe.inc.php'; 

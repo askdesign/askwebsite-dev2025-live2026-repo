@@ -950,6 +950,10 @@ ul.mc {
 /* -- laptop (G) -- */
 @media (max-width: 1024px) {
 
+.sub-primary-nav-cta {
+  margin-top: 50px;
+}
+
 .cta-item, .cta-item-last {
   height: 560px;
 }
@@ -1035,7 +1039,7 @@ ul.mc {
   height: 108px;
 }
 
-.title, .title-small, .title a, .title a:hover {
+.title, .title a, .title a:hover {
   font-size: 43px;
 }
 
@@ -1078,19 +1082,39 @@ ul.mc {
 }
 
 /* -- Generic (G) -- */
+@media (max-width: 767px) {
+
+
+
+}
+
+/* -- Generic (G) -- */
 @media (max-width: 600px) {
     
 
 .hero {
-  height: 500px;
   background-position: -150px 0;
+  margin-bottom: 20px;
 }
 
-.col-sm-6 > .cta-item,
-.cta-item ~ .col-sm-6 {
-  width: 100%;
+.cta-section {
+    margin-bottom: 40px;
 }
 
+.cta-item, .cta-item-last {
+  height: auto;
+  margin-top: 20px;
+}
+
+.subscribe-section {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.subscription-box {
+  padding: 20px;
+  max-width: 100%;
+}
 
 }
 
@@ -1103,11 +1127,43 @@ ul.mc {
 
 /* -- Generic (G) -- */
 @media (max-width: 480px) {
-    
+.logo img {
+  height: 100px;
+}
 
+.title, .title a {
+  font-size: 36px;
+}
 
+.sub-primary-nav-cta {
+  max-width: 50%;
+  height: auto;
+  padding: 0 18px;
+  margin-top: -1.5rem;
+}
 
+.sub-primary-nav-cta-item a, .sub-primary-nav-cta-item {
+  font-size: 28px;
+}
 
+.sub-primary-nav-cta-item.divider {
+  font-size: 0px; /* -- change vertical rule to horizontal rule -- */
+  border-bottom: .5px solid var(--bs-gray-600);
+}
+
+.description.lead {
+  margin-top: 220px;
+  font-size: 20px;
+  padding: 0 20px;
+}
+
+.subscription-box-hd, .contact-form-hd {
+  font-size: 28px;
+}
+
+.lead {
+    font-size: 1rem;
+}
 
 }
 
