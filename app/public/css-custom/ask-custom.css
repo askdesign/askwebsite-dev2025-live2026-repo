@@ -1137,8 +1137,15 @@ ul.mc {
   height: 100px;
 }
 
-.title, .title a {
+.title, .title a
+{
   font-size: 36px;
+}
+
+.page-title
+{
+  font-size: 36px;
+  margin-bottom: 40px;
 }
 
 .brand-small {
@@ -1167,6 +1174,15 @@ ul.mc {
   padding: 0 20px;
 }
 
+.page.lead {
+  font-size: 20px;
+  margin-bottom: 24px;
+}
+
+.page.lead.subhd, .page.lead.subhd2 {
+    font-size: 1.25rem;
+}
+
 .subscription-box-hd, .contact-form-hd {
   font-size: 28px;
 }
@@ -1187,8 +1203,19 @@ ul.mc {
 }
 
 .social-faa {
-  background-size: 6%;
+  background-size: 8%;
   background-position: 6px 6px;
+}
+
+/* -- Floating images -- */
+img.float-start {
+  margin: 0 auto;
+  float: none !important;
+  display: block;
+}
+
+ul.float-start-img {
+  margin-left: 0;
 }
 
 }
