@@ -25,9 +25,9 @@ Sign up to get periodic updates on Anne's design and art adventures, and receive
             <div class="mc-field-group">
               <p>I'd like to subscribe to: </p>
               <ul class="mc input-group">
-                <li class="d-sm-flex gap-3 pb-2 align-items-center"><input type="checkbox" name="group[4657][1]" id="mce-group[4657]-4657-0" value="" class="mc-input-checkbox">
+                <li class="d-flex gap-3 pb-2 align-items-center"><input type="checkbox" name="group[4657][1]" id="mce-group[4657]-4657-0" value="" class="mc-input-checkbox">
                   <label for="mce-group[4657]-4657-0">ASK Design Blog</label></li>
-                <li class="d-sm-flex gap-3 pb-2 align-items-center"><input type="checkbox" name="group[4657][2]" id="mce-group[4657]-4657-1" value="" class="mc-input-checkbox">
+                <li class="d-flex gap-3 pb-2 align-items-center"><input type="checkbox" name="group[4657][2]" id="mce-group[4657]-4657-1" value="" class="mc-input-checkbox">
                   <label for="mce-group[4657]-4657-1">Exhibits/Events/Activities Notifications</label></li>
               </ul>
             </div>

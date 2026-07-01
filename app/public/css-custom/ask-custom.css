@@ -984,13 +984,19 @@ ul.mc {
     margin-left: 2.5rem;
 }
 
+.navbar-expand-lg .navbar-nav .nav-link {
+  border-right: 1px solid transparent;
+}
+
+
+
 }
 
 /* -- Mobile device (G) -- */
 @media (max-width: 960px) {
     
 .cta-item, .cta-item-last {
-  height: 440px;
+  height: 480px;
 }
 
 .cta-item-last {
@@ -1135,6 +1141,10 @@ ul.mc {
   font-size: 36px;
 }
 
+.brand-small {
+  text-align: center;
+}
+
 .sub-primary-nav-cta {
   max-width: 50%;
   height: auto;
@@ -1165,6 +1175,22 @@ ul.mc {
     font-size: 1rem;
 }
 
+/* -- navbar-nav2 -- */
+
+.navbar-nav, .navbar-nav2 {
+  flex-direction: column;
+}
+
+.navbar-expand-lg .navbar-nav2 .nav-link {
+    padding-right: .75rem;
+    padding-left: .75rem;
+}
+
+.social-faa {
+  background-size: 6%;
+  background-position: 6px 6px;
+}
+
 }
 
 /* -- Mobile L (G) -- */
@@ -1179,8 +1205,15 @@ ul.mc {
 
 /* -- Mobile M (G) -- */
 @media (max-width: 375px) {
-    
 
+.hero {
+  height: 400px;
+  background-size: 145%;
+}
+
+.description.lead {
+  margin-top: 110px;
+}
 
 
 
@@ -1189,7 +1222,24 @@ ul.mc {
 
 /* -- Mobile S (G) -- */
 @media (max-width: 320px) {
-    
+
+.hero {
+  height: 340px;
+  background-position: -100px 0;
+}
+
+.sub-primary-nav-cta {
+  max-width: 75%;
+}
+
+.description.lead {
+  margin-top: 65px;
+  font-size: 18px;
+}
+
+.mc-field-group label, .form-group label {
+    font-size: 12px;
+}
 
 
 
