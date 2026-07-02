@@ -485,7 +485,7 @@
 <section class="subscribe-section"><!-- subscribe -->
   <div class="container-fluid">
 	  <div class="row justify-content-center">
-		  <div class="col-xl-5 col-lg-8 col-sm-10">
+		  <div class="col-xl-5 col-lg-8 col-sm-12">
 
       <?php 
       include '../includes/subscribe.inc.php'; 

@@ -988,7 +988,9 @@ ul.mc {
   border-right: 1px solid transparent;
 }
 
-
+.contact-form-section, .order-form-section {
+    margin-bottom: 24px;
+}
 
 }
 
@@ -1112,15 +1114,20 @@ ul.mc {
   margin-top: 20px;
 }
 
+.content {
+    margin-bottom: 16px;
+}
+
 .subscribe-section {
-  padding-top: 0;
+  padding-top: 20px;
   padding-bottom: 0;
 }
 
-.subscription-box {
+.subscription-box, .contact-box, .order-box {
   padding: 20px;
   max-width: 100%;
 }
+
 
 }
 
@@ -1137,13 +1144,17 @@ ul.mc {
   height: 100px;
 }
 
-.title, .title a
-{
+.title, .title a {
   font-size: 36px;
 }
 
-.page-title
-{
+.page-title-lead {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-bottom: 16px;
+}
+
+.page-title {
   font-size: 36px;
   margin-bottom: 40px;
 }
@@ -1203,7 +1214,7 @@ ul.mc {
 }
 
 .social-faa {
-  background-size: 8%;
+  background-size: 6%;
   background-position: 6px 6px;
 }
 
