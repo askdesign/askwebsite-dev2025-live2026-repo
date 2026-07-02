@@ -195,7 +195,7 @@ I look at your business from a systems viewpoint and examine how everything work
 <section class="subscribe-section"><!-- subscribe -->
   <div class="container-fluid">
 	  <div class="row justify-content-center">
-		  <div class="col-xl-5 col-lg-8 col-sm-12">
+		  <div class="col-xl-6 col-lg-8 col-sm-12">
 
       <?php 
       include '../includes/subscribe.inc.php'; 

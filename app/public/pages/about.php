@@ -182,7 +182,7 @@ My name is Anne S. Katzeff and I am the Creative Director of ASK Design. I grew 
 <section class="subscribe-section"><!-- subscribe -->
   <div class="container-fluid">
 	  <div class="row justify-content-center">
-		  <div class="col-xl-5 col-lg-8 col-sm-12">
+		  <div class="col-xl-6 col-lg-8 col-sm-12">
 
       <?php 
       include '../includes/subscribe.inc.php'; 

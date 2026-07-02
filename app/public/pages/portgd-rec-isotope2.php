@@ -255,7 +255,7 @@ These are samples of my recent web design and graphic design work.</p>
 <section class="subscribe-section"><!-- subscribe -->
   <div class="container-fluid">
 	  <div class="row justify-content-center">
-		  <div class="col-xl-5 col-lg-8 col-sm-12">
+		  <div class="col-xl-6 col-lg-8 col-sm-12">
 
       <?php 
       include '../includes/subscribe.inc.php'; 

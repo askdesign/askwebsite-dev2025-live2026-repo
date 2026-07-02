@@ -847,6 +847,8 @@ ul.mc {
   color: var(--bs-gray-400);
   font-size: 22px;
   font-weight: 200;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 .copyright, .copyright a, .policies, .policies a {
@@ -1229,6 +1231,11 @@ ul.float-start-img {
   margin-left: 0;
 }
 
+/* -- gallery -- */
+.gallery .img-fluid {
+  width: 100%;
+}
+
 }
 
 /* -- Mobile L (G) -- */
@@ -1279,9 +1286,14 @@ ul.float-start-img {
     font-size: 12px;
 }
 
+.copyright-year-name {
+  max-width: 190px;
+  margin: 0 auto;
+}
 
-
-
+.copyright-year-name .footer-bottom-content-divider {
+  display: none;
+}
 
 }
 
