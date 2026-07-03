@@ -683,22 +683,6 @@
 
 <!-- end of row -->
 
-     <div class="col-sm-4 mb-4 gallery-item animals mixed">
-  	    <a href="../gallery/images/portart/portil1516-greenturtlesheaven2.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GREEN TURTLES HEAVEN 2 (1516) Mixed Media <br>
-		&bull; Original Art: 8&rdquo;x8&rdquo;, nfs.">
-		    <img src="../gallery/images/portart/portil1516-greenturtlesheaven2-thumbnail.jpg" class="img-fluid" alt="collage: Green Turtles Heaven 2">
-		    <h6 class="gallery-caption text-center mt-2">Green Turtles Heaven2</h6>
-	      </a>
-      </div>
-
-      <div class="col-sm-4 mb-4 gallery-item animals mixed">
-  	    <a href="../gallery/images/portart/portil1515-greenturtlesheaven1.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GREEN TURTLES HEAVEN 1 (1515) Mixed Media <br>
-		&bull; Original Art: 8&rdquo;x8&rdquo;, nfs.">
-		    <img src="../gallery/images/portart/portil1515-greenturtlesheaven1-thumbnail.jpg" class="img-fluid" alt="collage: Green Turtles Heaven 1">
-		    <h6 class="gallery-caption text-center mt-2">Green Turtles Heaven 1</h6>
-	      </a>
-      </div>
-
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1509-lovely-lilies.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LOVELY LILIES (1509) Pastel <br>
 		&bull; Original Art: 10&rdquo;x7.5&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
@@ -931,6 +915,15 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1119-DelicateArch.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="DELICATE ARCH (1119) Pastel &amp; gouache<br>
+		A hike in Arches National Park, Utah.<br>
+		&bull; Original Art: 15&rdquo;x6&rdquo;; with Mat &amp; Frame: 18&rdquo;x9&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil1119-DelicateArch-thumbnail.jpg" class="img-fluid" alt="A hike in Arches National Park, Utah">
+		    <h6 class="gallery-caption text-center mt-2">Delicate Arch</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1118-Garden-in-the-Woods.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GARDEN IN THE WOOODS (1118) Pastel<br>
 		Framingham, MA.<br>
 		&bull; Original Art: 12&rdquo;x9&rdquo;; with Mat: 16&rdquo;x12&rdquo;, SOLD.">
@@ -946,6 +939,14 @@
 		&bull; Original Art: 8.5&rdquo;x6.5&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil1117-Cosmos-thumbnail.jpg" class="img-fluid" alt="Peggy's Garden: Cosmos">
 		    <h6 class="gallery-caption text-center mt-2">Cosmos</h6>
+	      </a>
+      </div>
+
+      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
+  	    <a href="../gallery/images/portart/portil1116-BostonPublicGarden.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BOSTON PUBLIC GARDEN (1116) Pastel &amp; watercolor<br>
+		&bull; Original Art: 12&rdquo;x6.25&rdquo;; with Mat: 16&rdquo;x10&rdquo;, SOLD.">
+		    <img src="../gallery/images/portart/portil1116-BostonPublicGarden-thumbnail.jpg" class="img-fluid" alt="Boston Public Garden">
+		    <h6 class="gallery-caption text-center mt-2">Boston Public Garden</h6>
 	      </a>
       </div>
 
@@ -1636,6 +1637,15 @@
       </div>
 
 <!-- end of row -->
+      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
+  	    <a href="../gallery/images/portart/portil0620-flowersymphony-c2018.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FLOWER SYMPHONY (0620) Pastel<br>
+		    Lenox, MA.<br>
+		    &bull; Licensed for Book Cover <br>
+		    &bull; Original Art: 14&rdquo;x18&rdquo;; with Mat &amp; Frame: 18&rdquo;x22&rdquo;, nfs.">
+		    <img src="../gallery/images/portart/portil0620-flowersymphony-c2018-thumbnail.jpg" class="img-fluid" alt="Flower Symphony in Lenox">
+		    <h6 class="gallery-caption text-center mt-2">Flower Symphony</h6>
+	      </a>
+      </div>
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil0619-fairfaxredwoods.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FAIRFAX REDWOODS (0619) Pastel<br>

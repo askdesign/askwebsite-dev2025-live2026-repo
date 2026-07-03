@@ -130,7 +130,7 @@
           <p class="page lead">The giclee prints displayed on this page can be purchased directly from me. These are beautiful reproductions of my most popular, early paintings. Please use the order form at the bottom of the page.</p>
 
 			<div class="row page lead list">
-        	<p><strong>Prints: </strong>All giclees are fine art inkjet prints, on archival Crescent Velvet Art paper, sold with standard-size acid-free mat. All are available in the Small 5”x7” size. Only 2 paintings are available in the Large 11”x14” size: Celebration (#0607) and Butterfly Garden (#0605). Be sure to specify the art title and number of the print(s) you want when filling out the order form.</p>
+        	<p><strong>Prints: </strong>All giclees are fine art inkjet prints, on archival Crescent Velvet Art paper, sold with acid-free mat. Most are available in the Small 5”x7” size. Only 2 paintings are available in the Large 11”x14” size: Celebration (#0607) and Butterfly Garden (#0605). Be sure to specify the art title and number of the print(s) you want when filling out the order form.</p>
     	</div><!-- end of page lead list -->
 
 	        <p><em>NOTE: click on the thumbnail image to see it enlarged in a slideshow!</em></p>
@@ -209,7 +209,7 @@
 		    &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil0607-celebration-thumbnail.jpg" class="img-fluid" alt="celebration artwork">
 		    <h6 class="gallery-caption text-center mt-2">Celebration<br>
-				Large Print</h6>
+				Large Print Only</h6>
 	      </a>
       </div>
 
@@ -309,9 +309,9 @@
 	<section class="page-bottom-lead">   
 
 	    <h3 class="page lead subhd">Purchase from FAA Shop</h3>
-          <p class="page lead">If the print you want isn't displayed on this page, check out my Fine Art America shop! You'll find a lot more to choose from. All sorts of beautiful reproductions are in my shop: cards, prints, masks, tees, mugs, and more! If the art you like isn't already reproduced, special arrangements can be made, so <a href="contact.php">Contact</a> me!</p>
+          <p class="page lead">If the print you want isn't displayed on this page, check out my Fine Art America shop! You'll find a lot of choices. All sorts of beautiful reproductions are in my shop: cards, prints, masks, tees, mugs, and more! If the art you like isn't already reproduced, special arrangements can be made, so <a href="contact.php">Contact</a> me!</p>
 
-			<p><a href="https://fineartamerica.com/profiles/anne-katzeff/shop"><button type="button" class="btn btn-outline-primary btn-lg">BROWSE ANNE'S FAA SHOP</button></a></p>
+			<p><a href="https://fineartamerica.com/profiles/anne-katzeff/shop"><button type="button" class="btn btn-outline-primary btn-lg">ANNE'S FAA SHOP</button></a></p>
 
 	</section>
 

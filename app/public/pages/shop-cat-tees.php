@@ -198,9 +198,9 @@
 	<section class="page-bottom-lead">   
 
 	    <h3 class="page lead subhd">Purchase from FAA Shop</h3>
-          <p class="page lead">Check out my Fine Art America shop, where you'll find a lot more to choose from. All sorts of Tees and other kinds of reproductions are in my shop: cards, prints, masks, mugs, and more! If the art you like isn't already reproduced, special arrangements can be made, so <a href="contact.php">Contact</a> me!</p>
+          <p class="page lead">Check out my Fine Art America shop, where you'll find a lot of choices. All sorts of Tees and other kinds of reproductions are in my shop: cards, prints, masks, mugs, and more! If the art you like isn't already reproduced, special arrangements can be made, so <a href="contact.php">Contact</a> me!</p>
 
-			<p><a href="https://fineartamerica.com/profiles/anne-katzeff/shop"><button type="button" class="btn btn-outline-primary btn-lg">BROWSE ANNE'S FAA SHOP</button></a></p>
+			<p><a href="https://fineartamerica.com/profiles/anne-katzeff/shop"><button type="button" class="btn btn-outline-primary btn-lg">ANNE'S FAA SHOP</button></a></p>
 
 	</section>
 

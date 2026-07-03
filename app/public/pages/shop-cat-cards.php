@@ -130,7 +130,7 @@
           <p class="page lead">The cards displayed on this page can be purchased directly from me. These are beautiful reproductions of my most popular, early paintings. Please use the order form at the bottom of the page.</p>
 
 			<div class="row page lead list">
-        	<p><strong>Postcards: </strong>Printed on coated paper, 6”x4-1/4”. Sold in sets of 5 and 10</p>
+        	<p><strong>Postcards: </strong>Printed on coated paper, 6”x4-1/4”. Sold in sets of 5 and 10.</p>
 			<p><strong>Notecards: </strong>Printed on soft-white, smooth, uncoated, recycled paper. Blank inside. A6 size (6”x4-1/2” when folded); includes envelopes. Sold in sets of 10 and 16. </p>
 			<p>Be sure to specify the art title and number when filling out the order form. Otherwise, I'll send you a mixed sampler.</p>
     		</div><!-- end of page lead list -->
@@ -204,7 +204,7 @@
   	    <a href="../gallery/images/portart/portil0620-flowersymphony-c2018.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FLOWER SYMPHONY (0620) Pastel<br>
 		    Lenox, MA.<br>
 		    &bull; Licensed for Book Cover <br>
-		    &bull; Original Art: 14&rdquo;x18&rdquo;; with Mat &amp; Frame: 18&rdquo;x22&rdquo;, $315.">
+		    &bull; Original Art: 14&rdquo;x18&rdquo;; with Mat &amp; Frame: 18&rdquo;x22&rdquo;, nfs.">
 		    <img src="../gallery/images/portart/portil0620-flowersymphony-c2018-thumbnail.jpg" class="img-fluid" alt="Flower Symphony in Lenox">
 		    <h6 class="gallery-caption text-center mt-2">Flower Symphony<br>
 				Notecard</h6>
@@ -379,7 +379,7 @@
 
 		<div class="row page lead list">
 			<p><strong>Notecards: </strong>Printed on 110 lb. paper, coated with a semi-gloss finish. Blank inside has a matte white finish; can be customized with a text message. 5”x7” in size; includes white envelope.</p>
-			<p><a href="https://fineartamerica.com/profiles/anne-katzeff/shop"><button type="button" class="btn btn-outline-primary btn-lg">BROWSE ANNE'S FAA SHOP</button></a></p>
+			<p><a href="https://fineartamerica.com/profiles/anne-katzeff/shop"><button type="button" class="btn btn-outline-primary btn-lg">ANNE'S FAA SHOP</button></a></p>
     	</div><!-- end of page lead list -->
 	</section>
 
