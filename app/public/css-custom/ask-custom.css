@@ -718,7 +718,7 @@ a.contact-faa {
 }
 
 .divider {
-  margin-top: 0px;
+  margin-top: 10px;
   margin-bottom: 10px;
   border-bottom: 1px solid var(--bs-gray-200);
 }
@@ -796,6 +796,10 @@ ul.mc {
 
 .order-form-list {
   padding: 40px;
+}
+
+.original-art-note {
+  padding-top: 30px;
 }
 
 .form-group textarea {
@@ -960,9 +964,13 @@ ul.mc {
   height: 560px;
 }
 
+.border-right {
+    border-right: 0px solid var(--bs-gray-200);
+}
 
-
-
+.order-form-list {
+  padding: 0 40px 24px;
+}
 
 }
 

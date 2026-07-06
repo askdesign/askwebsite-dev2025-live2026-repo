@@ -127,7 +127,7 @@
           <h2 class="page-title">Shop - Tees</h2>
           <h3 class="page lead subhd">Purchase from Anne</h3>
 
-          <p class="page lead">The two T-shirts displayed on this page can be purchased directly from me. My illustrations are paired with one of his famous quotes. I designed these T-shirts to honor Henry David Thoreau; they initially sold exclusively at the Walden Pond State Reservation shop. Now, you can get them here!</p>
+          <p class="page lead">The two T-shirts displayed on this page can be purchased directly from me. I designed these Tees to honor Henry David Thoreau; my illustrations are paired with one of his famous quotes. Initially sold exclusively at the Walden Pond State Reservation shop, you can now get them here!</p>
             
           <p class="page lead">Please use the order form at the bottom of the page.</p>
 
@@ -198,7 +198,7 @@
 	<section class="page-bottom-lead">   
 
 	    <h3 class="page lead subhd">Purchase from FAA Shop</h3>
-          <p class="page lead">Check out my Fine Art America shop, where you'll find a lot of choices. All sorts of Tees and other kinds of reproductions are in my shop: cards, prints, masks, mugs, and more! If the art you like isn't already reproduced, special arrangements can be made, so <a href="contact.php">Contact</a> me!</p>
+          <p class="page lead">Check out my <a href="https://fineartamerica.com/profiles/anne-katzeff/shop">Fine Art America shop</a>, where you'll find additional choices. All sorts of Tees and other kinds of reproductions are in my shop: cards, prints, masks, mugs, and more!</p>
 
 			<p><a href="https://fineartamerica.com/profiles/anne-katzeff/shop"><button type="button" class="btn btn-outline-primary btn-lg">ANNE'S FAA SHOP</button></a></p>
 

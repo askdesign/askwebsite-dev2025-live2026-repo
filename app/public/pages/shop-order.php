@@ -136,7 +136,7 @@
 	  <section class="order-form-section">
 
     <div class="row"><!-- Cards -->
-	  <div class="col-xl-5 col-lg-8 col-sm-10">
+	  <div class="col-xl-6 col-lg-12 border-right">
       <div class="order-box">
 
 <!-- View Cart -->
@@ -154,7 +154,7 @@
 		  </div><!-- order box -->
 	  </div><!-- columns -->
 
-    <div class="col-xl-7 order-form-list">
+    <div class="col-xl-6 col-lg-12 order-form-list">
       <p><strong>Postcards: </strong>Printed on coated paper, 6”x4-1/4”. Sold in sets of 5 and 10</p>
 			<p><strong>Notecards: </strong>Printed on soft-white, smooth, uncoated, recycled paper. Blank inside. A6 size (6”x4-1/2” when folded); includes envelopes. Sold in sets of 10 and 16. </p>
 			<p>Be sure to specify the art title and number when filling out the order form. Otherwise, I'll send you a mixed sampler.</p>
@@ -165,7 +165,7 @@
       <div class="divider"></div>
 
     <div class="row"><!-- Prints -->
-	  <div class="col-xl-5 col-lg-8 col-sm-10">
+	  <div class="col-xl-6 col-lg-12 border-right">
       <div class="order-box">
 
 <!-- View Cart -->
@@ -184,7 +184,7 @@
 		  </div><!-- order box -->
 	  </div><!-- columns -->
 
-  <div class="col-xl-7 order-form-list">
+  <div class="col-xl-6 col-lg-12 order-form-list">
       <p><strong>Prints: </strong>All giclees are fine art inkjet prints, on archival Crescent Velvet Art paper, sold with standard-size acid-free mat. All are available in the Small 5”x7” size. Only 2 paintings are available in the Large 11”x14” size: Celebration (#0607) and Butterfly Garden (#0605). Be sure to specify the art title and number of the print(s) you want when filling out the order form.</p>
 
   </div><!-- end of list -->
@@ -194,7 +194,7 @@
       <div class="divider"></div>
 
     <div class="row"><!-- Tees -->
-	  <div class="col-xl-5 col-lg-8 col-sm-10">
+	  <div class="col-xl-6 col-lg-12 border-right">
       <div class="order-box">
 
 <!-- View Cart -->
@@ -214,7 +214,7 @@
 		  </div><!-- order box -->
 	  </div><!-- columns -->
 
-  <div class="col-xl-7 order-form-list">
+  <div class="col-xl-6 col-lg-12 order-form-list">
       <p>Two T-shirts can be purchased directly from me. My illustrations are paired with one of his famous quotes. I designed these T-shirts to honor Henry David Thoreau; they initially sold exclusively at the Walden Pond State Reservation shop. Now, you can get them here!</p>
 
 
@@ -224,8 +224,8 @@
 
         <div class="divider"></div>
 
-    <div class="row justify-content-center"><!-- Original Art -->
-	  <div class="col-xl-5 col-lg-8 col-sm-10">
+    <div class="row justify-content-center original-art-note"><!-- Original Art -->
+	  <div class="col-xl-6 col-lg-12">
 	  <h3 class="page lead subhd text-center">Original Artwork</h3>
     <p class="page lead text-center">To purchase original artwork, please go to my <a href="contact.php">Contact</a> page.</p>
 	  </div><!-- columns -->
@@ -240,7 +240,7 @@
 	<section class="page-bottom-lead">   
 
 	    <h3 class="page lead subhd">Purchase from FAA Shop</h3>
-          <p class="page lead">If the item you want isn't displayed on my website, check out my Fine Art America shop! You'll find a lot more to choose from. All sorts of beautiful reproductions are in my shop: cards, prints, masks, tees, mugs, and more! If the art you like isn't already reproduced, special arrangements can be made, so <a href="contact.php">Contact</a> me!</p>
+          <p class="page lead">If the item you want isn't displayed on my website, check out my <a href="https://fineartamerica.com/profiles/anne-katzeff/shop">Fine Art America shop</a>! You'll find additional choices. All sorts of beautiful reproductions are in my shop: cards, prints, masks, tees, mugs, and more! </p>
 	</section>
 
     

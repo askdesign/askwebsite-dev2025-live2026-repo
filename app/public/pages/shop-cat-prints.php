@@ -309,7 +309,7 @@
 	<section class="page-bottom-lead">   
 
 	    <h3 class="page lead subhd">Purchase from FAA Shop</h3>
-          <p class="page lead">If the print you want isn't displayed on this page, check out my Fine Art America shop! You'll find a lot of choices. All sorts of beautiful reproductions are in my shop: cards, prints, masks, tees, mugs, and more! If the art you like isn't already reproduced, special arrangements can be made, so <a href="contact.php">Contact</a> me!</p>
+          <p class="page lead">If the print you want isn't displayed on this page, check out my <a href="https://fineartamerica.com/profiles/anne-katzeff/shop">Fine Art America shop</a>! You'll find additional choices. All sorts of beautiful reproductions are in my shop: cards, prints, masks, tees, mugs, and more!</p>
 
 			<p><a href="https://fineartamerica.com/profiles/anne-katzeff/shop"><button type="button" class="btn btn-outline-primary btn-lg">ANNE'S FAA SHOP</button></a></p>
 

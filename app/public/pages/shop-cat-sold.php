@@ -126,7 +126,7 @@
     <section class="page-title-lead">   
           <h2 class="page-title">Shop - Sold / NFS</h2>
           <h3 class="page lead subhd">Original Artwork Sold or NFS (Not For Sale)</h3>
-          <p class="page lead">The original artwork on this page has either been Sold or is Not For Sale (nfs). You can purchase reproductions through my <a href="https://fineartamerica.com/profiles/anne-katzeff/shop">Fine Art America shop</a>: cards, prints, masks, tees, mugs, and more! If the one you like isn't already reproduced as a card or print, special arrangements can be made, so <a href="contact.php">contact</a> me!</p>
+          <p class="page lead">The original artwork on this page has either been Sold or is Not For Sale (nfs). You can purchase reproductions through my <a href="https://fineartamerica.com/profiles/anne-katzeff/shop">Fine Art America shop</a>: cards, prints, masks, tees, mugs, and more!</p>
           <p><em>NOTE: click on the thumbnail image to see it enlarged in a slideshow!</em></p>
     </section>
 

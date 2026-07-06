@@ -375,7 +375,7 @@
 	<section class="page-bottom-lead">   
 
 	    <h3 class="page lead subhd">Purchase from FAA Shop</h3>
-          <p class="page lead">If the card you want isn't displayed on this page, check out my Fine Art America shop! You'll find a lot more cards to choose from. All sorts of beautiful reproductions are in my shop: cards, prints, masks, tees, mugs, and more! If the art you like isn't already reproduced, special arrangements can be made, so <a href="contact.php">Contact</a> me!</p>
+          <p class="page lead">If the card you want isn't displayed on this page, check out my <a href="https://fineartamerica.com/profiles/anne-katzeff/shop">Fine Art America shop</a>! You'll find additional choices. All sorts of beautiful reproductions are in my shop: cards, prints, masks, tees, mugs, and more!</p>
 
 		<div class="row page lead list">
 			<p><strong>Notecards: </strong>Printed on 110 lb. paper, coated with a semi-gloss finish. Blank inside has a matte white finish; can be customized with a text message. 5”x7” in size; includes white envelope.</p>
