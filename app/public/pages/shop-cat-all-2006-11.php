@@ -35,7 +35,8 @@
     </script>
   	<!-- end of Global site tag (gtag.js) - Google Analytics GA4 -->
 
-
+	  <!-- Cookie Yes CDN -->
+	  <!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/4d293afb74c2261024a934e6ecbaf1fe/script.js"></script> <!-- End cookieyes banner -->
 
     <title>ASK Design | Shop - Original Art - Cat 2006 to 2011</title>
 
@@ -112,7 +113,13 @@
         </li>
 
         <li class="nav-item"><a class="nav-link" href="https:www.askdesign.biz/blog">Blog</a></li>
-        <li class="nav-item"><a class="nav-link last" href="contact.php">Contact</a></li>
+        <li class="nav-item dropdown"><a class="nav-link last dropdown-toggle" href="contact.php" data-bs-toggle="dropdown" aria-expanded="false">Contact</a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="contact.php">Contact Me</a></li>
+                  <li><a class="dropdown-item" href="cookie-policy.php">Cookie Policy</a></li>
+                  <li><a class="dropdown-item" href="privacy-policy.php">Privacy Policy</a></li>
+                </ul>        
+        </li>
     </ul>
     </div>
   </div>

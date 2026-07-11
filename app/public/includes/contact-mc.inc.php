@@ -4,7 +4,7 @@
 
           <h3 class="contact-form-hd text-center">Contact Me</h3>
 
-        <!-- Mailchimp contact form -->
+        <!-- Mailchimp Contact Form 2026-->
 
   
 <!-- <div id="mc_embed_shell"> -->
@@ -35,7 +35,7 @@
           </div>
 
 
-          <p>This form collects your name and email so that we can reply to you in a professional manner. Please see our <a href="#">Privacy Policy</a> for full details on how we value and protect your privacy. By clicking the SEND button, you are consenting to ASK Design collecting your name and email. </p>
+          <p>This form collects your name and email so that we can reply to you in a professional manner. Please see our <a href="../pages/privacy-policy.php">Privacy Policy</a> for full details on how we value and protect your privacy. By clicking the SEND button, you are consenting to ASK Design collecting your name and email. </p>
 
 <div hidden=""><input type="hidden" name="tags" value="9016857"></div>
 

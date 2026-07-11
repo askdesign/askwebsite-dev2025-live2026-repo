@@ -16,7 +16,7 @@
         </div><!-- end of col -->
 
 		<div class="policies col-xl-4 col-lg-4 col-md-12">
-        <p class="mb-2"><a href="#">Privacy Policy</a> <span class="footer-bottom-content-divider"> | </span> <a href="#">Cookie Policy</a></p>
+        <p class="mb-2"><a href="../pages/privacy-policy.php">Privacy Policy</a> <span class="footer-bottom-content-divider"> | </span> <a href="../pages/cookie-policy.php">Cookie Policy</a></p>
         <p class="mb-0"><strong>Email: </strong>anne[at]askdesign[dot]biz</p>
         </div><!-- end of col -->
 

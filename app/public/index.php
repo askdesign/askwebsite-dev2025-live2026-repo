@@ -33,6 +33,9 @@
       gtag('config', 'G-CLYRB4VKST');
     </script>
   	<!-- end of Global site tag (gtag.js) - Google Analytics GA4 -->
+     
+	  <!-- Cookie Yes CDN -->
+	  <!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/4d293afb74c2261024a934e6ecbaf1fe/script.js"></script> <!-- End cookieyes banner -->
 
     <title>ASK Design | Web Designer, Artist, Teacher</title>
   </head>
@@ -89,8 +92,8 @@
                   <li><a class="dropdown-item" href="pages/portgd-arch.php">Archives</a></li>
                   <li class="dropdown-header divider"></li>
                   <li class="dropdown-header">Art</li>
-                  <li><a class="dropdown-item" href="portart-rec.php#">Recent</a></li>
-                  <li><a class="dropdown-item" href="portart-lic.php">Licensed</a></li>
+                  <li><a class="dropdown-item" href="pages/portart-rec.php#">Recent</a></li>
+                  <li><a class="dropdown-item" href="pages/portart-lic.php">Licensed</a></li>
                 </ul>
         </li>
 
@@ -108,7 +111,13 @@
         </li>
 
         <li class="nav-item"><a class="nav-link" href="https:www.askdesign.biz/blog">Blog</a></li>
-        <li class="nav-item"><a class="nav-link last" href="pages/contact.php">Contact</a></li>
+        <li class="nav-item dropdown"><a class="nav-link last dropdown-toggle" href="pages/contact.php" data-bs-toggle="dropdown" aria-expanded="false">Contact</a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="pages/contact.php">Contact Me</a></li>
+                  <li><a class="dropdown-item" href="pages/cookie-policy.php">Cookie Policy</a></li>
+                  <li><a class="dropdown-item" href="pages/privacy-policy.php">Privacy Policy</a></li>
+                </ul>        
+        </li>
     </ul>
     </div>
   </div>

@@ -3,7 +3,7 @@
         <p class="lead text-center">
 Sign up to get periodic updates on Anne's design and art adventures, and receive useful info. via her blog.          </p>
 
-<!-- Mailchimp HTML code -->
+<!-- Mailchimp HTML code | Embedded Subscribe Signup Form 2026 -->
   
 <div id="mc_embed_signup">
     <form action="https://askdesign.us7.list-manage.com/subscribe/post?u=65a02b0a6ef9c3ca16e54dbf8&amp;id=66d1864e53&amp;f_id=00ca45e4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">

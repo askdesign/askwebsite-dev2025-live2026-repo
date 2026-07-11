@@ -34,10 +34,10 @@
     </script>
   	<!-- end of Global site tag (gtag.js) - Google Analytics GA4 -->
 
-	  <!-- Cookie Yes CDN -->
+    <!-- Cookie Yes CDN -->
 	  <!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/4d293afb74c2261024a934e6ecbaf1fe/script.js"></script> <!-- End cookieyes banner -->
-
-    <title>ASK Design | Contact</title>
+     
+    <title>ASK Design | Cookie Policy</title>
   </head>
 
   
@@ -113,11 +113,12 @@
         <li class="nav-item"><a class="nav-link" href="https:www.askdesign.biz/blog">Blog</a></li>
         <li class="nav-item dropdown"><a class="nav-link active dropdown-toggle" href="contact.php" data-bs-toggle="dropdown" aria-expanded="false">Contact</a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item active" aria-current="page" href="contact.php">Contact Me</a></li>
-                  <li><a class="dropdown-item" href="cookie-policy.php">Cookie Policy</a></li>
+                  <li><a class="dropdown-item" href="contact.php">Contact Me</a></li>
+                  <li><a class="dropdown-item active" aria-current="page" href="cookie-policy.php">Cookie Policy</a></li>
                   <li><a class="dropdown-item" href="privacy-policy.php">Privacy Policy</a></li>
                 </ul>        
         </li>
+
     </ul>
     </div>
   </div>
@@ -128,124 +129,53 @@
 <main>
     <div class="container-xxl">
     <section class="page-title-lead">   
-      <h2 class="page-title">Contact</h2>
-      <div class="row">
-				<!-- column left -->
-        <div class="col-xl-6 col-lg-12 border-right">
-      <h3 class="page lead subhd">GET IN TOUCH!</h3>
-      <p class="page lead">
-I’ve been fortunate to live life loving what I do: designing websites and creating artwork. It also brings me special joy to teach and write about design and art. Reach out and let’s get the conversation started!</p>
-
-      <p class="page lead">
-<span class="page lead subhd2">Need a website? </span> I hone my skills and keep my creative juices flowing through play, exercise, reading, music, art, and more. I work in 2 platforms: WordPress (my specialty) and Bootstrap. If you want to control and edit the content yourself, I’ll use  WordPress, which is a Content-Management System (CMS). Otherwise, I’ll build with Bootstrap.</p>
-      <p class="page lead">
-<span class="page lead subhd2">Interested in my artwork? </span>Landscapes and flowers capture my imagination. I enjoy painting outdoors, en plein air, where I can breath in the scene and listen to the birds. My mediums are pastels, acrylics, and watercolors. I am open to interview requests and welcome inquiries about art I’ve completed.</p>
-      <p class="page lead">
-<span class="page lead subhd2">Looking for a speaker? </span>I am available for workshops, classes, podcasts, and WordPress MeetUps. </p>
-      <p class="page lead">
-<span class="page lead subhd2">Questions? </span>Do you have questions about web design and/or art? Are you stuck on something and need some help? Questions feed my blog topics. Keep them coming!</p>
-
-        </div><!-- end of col left -->
-
-				<!-- column right | CONTACT FORM -->
-        <div class="col-xl-6 col-lg-12">
-
-
-      <?php 
-      include '../includes/contact-mc.inc.php'; 
-      ?> 
-
-        </div><!-- end of col right -->
-
-
-      </div><!-- end of row -->
-
+      <h2 class="page-title">Cookie Policy</h2>
 
     </section><!-- end of page title lead area -->
 
     <section class="content"><!-- columns -->
 			<div class="row">
-				<!-- column left -->
-				<div class="col-xl-6 col-lg-12 border-right">
-
-				  <h4 class="page subhd">AFFILIATE PARTNERS</h4>
-					<p>I receive compensation when you purchase a service or product via the links on this website.
-          </p>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.siteground.com/web-hosting.htm?afimagecode=ac4a791d0fe887905b14d16fdac590f2">Siteground</a></h5> 
-          <p>- shared web hosting</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.wqwln8trk.com/CBMZSN6ST/724Q1H9KF/">WP Engine</a></h5> 
-          <p>- managed web hosting</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://amzn.to/4thYLhI">Amazon</a></h5> 
-          <p>- online purchases</p>
-          </div>
-
-				</div><!-- end column left -->
-
-				<!-- column right -->
-				<div class="col-xl-6 col-lg-12">
-				  <h4 class="page subhd">CONNECT AND SHARE</h4>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="mailto:anne@askdesign.biz"><i class="fa-solid fa-envelope affiliate-icon"></i>Reach out</a></h5> 
-          <p>to me via email.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://askdesign.biz/blog"><i class="fa-solid fa-keyboard affiliate-icon"></i>Blog </a></h5> 
-          <p>- Anne's design and art adventures, as well as educational content.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.askdesign.biz/blog/feed"><i class="fa-solid fa-rss affiliate-icon"></i>RSS Feed </a></h5> 
-          <p>- Another way to access my Blog.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://bsky.app/profile/askdesign.bsky.social"><i class="fa-brands fa-bluesky affiliate-icon"></i>Bluesky </a></h5> 
-          <p>- Sharing of art, design, and thoughts on life.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.facebook.com/ASKDesign"><i class="fa-brands fa-facebook-f affiliate-icon"></i>Facebook </a></h5> 
-          <p>- Personal and professional sharing.</p>
-          </div>
-
-          <div class="page-header-group gap-1 d-flex align-items-baseline">
-          <h5 class="page subhd2 mb-0"><a class="contact-faa affiliate-icon" href="https://fineartamerica.com/profiles/anne-katzeff/shop">&emsp;</a>
-          <h5 class="page subhd2 mb-0"><a href="https://fineartamerica.com/profiles/anne-katzeff/shop">Fine Art America </a></h5> 
-          <p class="mb-0">- Online shop for Anne's art.</p>
-          </div>
-           
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://github.com/askdesign"><i class="fa-brands fa-github affiliate-icon"></i>Github </a></h5> 
-          <p>- Web design and development code.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.instagram.com/annekatzeff_askdesign/n"><i class="fa-brands fa-instagram affiliate-icon"></i>Instagram </a></h5> 
-          <p>- Online shop for Anne's art.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.pinterest.com/annekatzeff/"><i class="fa-brands fa-pinterest affiliate-icon"></i>Pinterest </a></h5> 
-          <p>- Design inspirations and brainstorms.</p>
-          </div>
-
-          <div class="page-header-group">
-          <h5 class="page subhd2"><a href="https://www.youtube.com/user/askdesign2"><i class="fa-brands fa-youtube affiliate-icon"></i>Youtube </a></h5> 
-          <p>- Video tutorials and joyful experiences.</p>
-          </div>
+				<div class="col-lg-12">
 
 
-				</div><!-- end column right -->
+<!-- Start CookieYes cookie policy -->
+<style>
+  a.cky-banner-element {
+    padding: 8px 30px;
+    background: #f8f9fa;
+    color: #858a8f;
+    border: 1px solid #dee2e6;
+    box-sizing: border-box;
+    border-radius: 2px;
+    cursor: pointer
+  }
+</style>
+<div class="cookie-policy-date-container">
+  <p>Effective date: July 08, 2026</p>
+  <p>Last updated: July 08, 2026</p>
+</div>&nbsp;<h2>What are cookies?</h2>
+<div class="cookie-policy-p">
+  <p>This Cookie Policy explains what cookies are, how we use them, the types of cookies we use (i.e., the information we collect using cookies and how that information is used), and how to manage your cookie settings.</p>
+  <p>Cookies are small text files used to store small pieces of information. They are stored on your device when a website loads in your browser. These cookies help ensure that the website functions properly, enhance security, provide a better user experience, and analyse performance to identify what works and where improvements are needed.</p>
+</div>&nbsp;<h2>How do we use cookies?</h2>
+<div class="cookie-policy-p">
+  <p>Like most online services, our website uses both first-party and third-party cookies for various purposes. First-party cookies are primarily necessary for the website to function properly and do not collect any personally identifiable data.</p>
+  <p>The third-party cookies used on our website primarily help us understand how the website performs, track how you interact with it, keep our services secure, deliver relevant advertisements, and enhance your overall user experience while improving the speed of your future interactions with our website.</p>
+</div>&nbsp;<h2>Types of cookies we use</h2>
+<div class="cky-audit-table-element"></div>&nbsp;<h2 style="margin-bottom: 20px">Manage cookie preferences</h2><a class="cky-banner-element">Consent Preferences</a><br />
+<div>
+  <p>You can modify your cookie settings anytime by clicking the 'Consent Preferences' button above. This will allow you to revisit the cookie consent banner and update your preferences or withdraw your consent immediately. </p>
+  <p>Additionally, different browsers offer various methods to block and delete cookies used by websites. You can adjust your browser settings to block or delete cookies. Below are links to support documents on how to manage and delete cookies in major web browsers.</p>
+  <p>Chrome: <a target="_blank" rel="noopener noreferrer" href="https://support.google.com/accounts/answer/32050">https://support.google.com/accounts/answer/32050</a></p>
+  <p>Safari: <a target="_blank" rel="noopener noreferrer" href="https://support.apple.com/en-in/guide/safari/sfri11471/mac">https://support.apple.com/en-in/guide/safari/sfri11471/mac</a></p>
+  <p>Firefox: <a target="_blank" rel="noopener noreferrer" href="https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?redirectslug=delete-cookies-remove-info-websites-stored&redirectlocale=en-US">https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?redirectslug=delete-cookies-remove-info-websites-stored&redirectlocale=en-US</a></p>
+  <p>Internet Explorer: <a target="_blank" rel="noopener noreferrer" href="https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc">https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc</a></p>
+  <p>If you are using a different web browser, please refer to its official support documentation.</p>
+</div>&nbsp;<p class="cookie-policy-p"> Cookie Policy generated by <a target="_blank" rel="noopener noreferrer" href="https://www.cookiepolicygenerator.ai?utm_source=CPG&utm_medium=footer&utm_campaign=UW">CookieYes - Cookie Policy Generator</a></p>
+<!-- End CookieYes cookie policy -->
+
+				</div><!-- end column -->
+
 
       </div><!-- end of row -->
 	  </section><!-- end of content columns-->
@@ -299,6 +229,5 @@ I’ve been fortunate to live life loving what I do: designing websites and crea
     <!-- Bootstrap Javascript bundle - goes before the closing body tag -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
     
-
   </body>
 </html>

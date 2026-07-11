@@ -567,6 +567,7 @@ ul.float-start-img {
   font-size: 30px;
   font-weight: 400;
   border-bottom: 0px solid var(--bs-gray-200);
+  margin-top: 0;
   margin-bottom: 0;
 }
 
