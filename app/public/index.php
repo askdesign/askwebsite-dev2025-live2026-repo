@@ -33,7 +33,7 @@
       gtag('config', 'G-CLYRB4VKST');
     </script>
   	<!-- end of Global site tag (gtag.js) - Google Analytics GA4 -->
-     
+
 	  <!-- Cookie Yes CDN -->
 	  <!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/4d293afb74c2261024a934e6ecbaf1fe/script.js"></script> <!-- End cookieyes banner -->
 
@@ -193,7 +193,7 @@
         <div class="cta-item-last d-grid align-content-between">
           <div class-="cta-item-content">
 						<h3 class="cta-item-hd">Newest Blog Post</h3>
-						<p class="cta-item-text">Gallery Block Layouts - WordPress offers many options for creative folks to showcase their work. One engaging way is to display multiple images in a grid of rows and columns. In this tutorial, we’ll explore the standard Gallery block. Then, we’ll compare it to the advanced version provided by the Kadence blocks plugin</p>
+						<p class="cta-item-text">View from Fort Revere - As kids, during our summers in Hull, we used to go to Fort Revere and explore. My newest intention was going up there to paint.</p>
           </div>
 
           <div class="cta-item-button">

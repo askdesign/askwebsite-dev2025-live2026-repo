@@ -298,7 +298,7 @@
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
-  	    <a href="../gallery/images/portart/portil2510-scituateshore.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SCITUATE SHORT (2510) Pastel <br>
+  	    <a href="../gallery/images/portart/portil2510-scituateshore.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SCITUATE SHORE (2510) Pastel <br>
 		&bull; Original Art: 11.5&rdquo;x3.5&rdquo;; with Mat 14”x8”, $165.">
 		    <img src="../gallery/images/portart/portil2510-scituateshore-thumbnail.jpg" class="img-fluid" alt="Scituate Harbor">
 		    <h6 class="gallery-caption text-center mt-2">Scituate Shore</h6>

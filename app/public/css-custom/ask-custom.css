@@ -860,8 +860,8 @@ ul.mc {
   color: var(--bs-gray-400);
   font-size: 22px;
   font-weight: 200;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: .5em;
+  padding-right: .5em;
 }
 
 .copyright, .copyright a, .policies, .policies a {
@@ -999,8 +999,8 @@ ul.mc {
 }
 
 .dropdown-menu[data-bs-popper] {
-    margin-top: 0;
-    margin-left: 2.5rem;
+  margin-top: 0;
+  margin-left: 2.5rem;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
@@ -1008,7 +1008,7 @@ ul.mc {
 }
 
 .contact-form-section, .order-form-section {
-    margin-bottom: 24px;
+  margin-bottom: 24px;
 }
 
 }
