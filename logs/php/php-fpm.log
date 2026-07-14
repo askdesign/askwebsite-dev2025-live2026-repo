@@ -222,3 +222,8 @@
 [14-Jul-2026 07:36:09] NOTICE: exiting, bye-bye!
 [14-Jul-2026 07:36:11] NOTICE: fpm is running, pid 90085
 [14-Jul-2026 07:36:11] NOTICE: ready to handle connections
+[14-Jul-2026 08:09:09] NOTICE: Terminating ...
+[14-Jul-2026 08:09:09] NOTICE: Terminating ...
+[14-Jul-2026 08:09:09] NOTICE: exiting, bye-bye!
+[14-Jul-2026 08:09:44] NOTICE: fpm is running, pid 91567
+[14-Jul-2026 08:09:44] NOTICE: ready to handle connections
