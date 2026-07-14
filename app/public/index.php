@@ -197,7 +197,7 @@
           </div>
 
           <div class="cta-item-button">
-            <a href="https://www.askdesign.biz/blog/"><button type="button" class="btn btn-outline-primary btn-lg">READ MORE</button></a>
+            <a href="https://www.askdesign.biz/blog/"><button type="button" class="btn btn-outline-primary btn-lg">KEEP READING</button></a>
           </div>
           
         </div><!-- end of cta-item -->

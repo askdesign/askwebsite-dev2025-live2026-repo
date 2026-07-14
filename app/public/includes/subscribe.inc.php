@@ -12,7 +12,7 @@ Sign up to get periodic updates on Anne's design and art adventures, and receive
 
             <div class="mc-field-group">
               <p><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label></br>
-              <input type="email" name="EMAIL" class="form-control required email" id="mce-EMAIL" required="" value=""></p></div>
+              <input type="email" name="EMAIL" class="form-control required email" id="mce-EMAIL" autocomplete="off" required="" value=""></p></div>
 
             <div class="mc-field-group">
               <p><label for="mce-FNAME">First Name <span class="asterisk">*</span></label></br>
