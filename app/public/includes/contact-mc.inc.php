@@ -21,7 +21,7 @@
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 
             <div class="mc-field-group">
-              <p><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="form-control required email" id="mce-EMAIL" required="" value=""></p></div>
+              <p><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="form-control required email" id="mce-EMAIL" autocomplete="off" required="" value=""></p></div>
             
             <div class="mc-field-group">
               <p><label for="mce-FNAME">First Name <span class="asterisk">*</span></label><input type="text" name="FNAME" class="form-control required text" id="mce-FNAME" required="" value=""></p></div>
