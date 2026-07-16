@@ -70,6 +70,7 @@ JotForm.paymentExtrasOnTheFly([null,{"name":"q1_header","qid":"1","text":"Contac
 
 <link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/s/static/a67e866a194/css/styles/payment/payment_styles.css?4.1.72117" />
 <link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/s/static/a67e866a194/css/styles/payment/payment_feature.css?4.1.72117" />
+
 <style type="text/css" id="form-designer-style">
 
     /* Injected CSS Code */
