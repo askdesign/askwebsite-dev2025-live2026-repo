@@ -129,37 +129,40 @@
     <div class="container-xxl">
     <section class="page-title-lead">   
       <h2 class="page-title">Contact</h2>
-      <div class="row">
-				<!-- column left -->
-        <div class="col-xl-6 col-lg-12 border-right">
       <h3 class="page lead subhd">GET IN TOUCH!</h3>
       <p class="page lead">
 I’ve been fortunate to live life loving what I do: designing websites and creating artwork. It also brings me special joy to teach and write about design and art. Reach out and let’s get the conversation started!</p>
 
+      <div class="row">
+				<!-- column left -->
+        <div class="col-xl-6 col-lg-12 border-right">
+
       <p class="page lead">
 <span class="page lead subhd2">Need a website? </span> I hone my skills and keep my creative juices flowing through play, exercise, reading, music, art, and more. I work in 2 platforms: WordPress (my specialty) and Bootstrap. If you want to control and edit the content yourself, I’ll use  WordPress, which is a Content-Management System (CMS). Otherwise, I’ll build with Bootstrap.</p>
       <p class="page lead">
-<span class="page lead subhd2">Interested in my artwork? </span>Landscapes and flowers capture my imagination. I enjoy painting outdoors, en plein air, where I can breath in the scene and listen to the birds. My mediums are pastels, acrylics, and watercolors. I am open to interview requests and welcome inquiries about art I’ve completed.</p>
-      <p class="page lead">
 <span class="page lead subhd2">Looking for a speaker? </span>I am available for workshops, classes, podcasts, and WordPress MeetUps. </p>
-      <p class="page lead">
-<span class="page lead subhd2">Questions? </span>Do you have questions about web design and/or art? Are you stuck on something and need some help? Questions feed my blog topics. Keep them coming!</p>
-
         </div><!-- end of col left -->
 
 				<!-- column right | CONTACT FORM -->
         <div class="col-xl-6 col-lg-12">
+      <p class="page lead">
+<span class="page lead subhd2">Interested in my artwork? </span>Landscapes and flowers capture my imagination. I enjoy painting outdoors, en plein air, where I can breath in the scene and listen to the birds. My mediums are pastels, acrylics, and watercolors. I am open to interview requests and welcome inquiries about art I’ve completed.</p>
 
+      <p class="page lead">
+<span class="page lead subhd2">Questions? </span>Do you have questions about web design and/or art? Are you stuck on something and need some help? Questions feed my blog topics. Keep them coming!</p>
 
-      <?php 
-      include '../includes/contact-jf.inc.php'; 
-      ?> 
 
         </div><!-- end of col right -->
 
 
       </div><!-- end of row -->
 
+      <div class="row">
+        <h4 class="cta-subhd text-center mt-4">Send Us a Note <br>and We'll Get Back to You Soon!</h4>
+        <div class="cta-item-button text-center mt-2">
+          <a href="https://form.jotform.com/261956058513058"><button type="button" class="btn btn-outline-primary btn-lg">CONTACT FORM</button></a>
+        </div>
+      </div>
 
     </section><!-- end of page title lead area -->
 

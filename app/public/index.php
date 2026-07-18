@@ -163,7 +163,7 @@
         <div class="cta-item d-grid align-content-between">
           <div class-="cta-item-content">
 
-						<h3 class="cta-item-hd">Web Design</h3>
+						<h2 class="cta-item-hd">Web Design</h2>
 						<p class="cta-item-text">I look at your business from a systems viewpoint and examine how everything works together. I design and build all kinds of sites. Together we'll find the solution that works best for you. WordPress is one of my specialties: configuration, customization, and training.
             </p>
           </div>
@@ -178,7 +178,7 @@
 				<div class="col-lg-4 col-md-6">
         <div class="cta-item d-grid align-content-between">
           <div class-="cta-item-content">
-						<h3 class="cta-item-hd">Artwork</h3>
+						<h2 class="cta-item-hd">Artwork</h2>
 						<p class="cta-item-text">I create art about earth’s beauty in the hope that people will be moved by it enough to cherish our planet. Go to my Shop to check out original art for sale and see recent work. You can also purchase notecards, prints, and tees!</p>
           </div>
 
@@ -192,7 +192,7 @@
 				<div class="col-lg-4 col-md-6">
         <div class="cta-item-last d-grid align-content-between">
           <div class-="cta-item-content">
-						<h3 class="cta-item-hd">Newest Blog Post</h3>
+						<h2 class="cta-item-hd">Newest Blog Post</h2>
 						<p class="cta-item-text">View from Fort Revere - As kids, during our summers in Hull, we used to go to Fort Revere and explore. My newest intention was going up there to paint.</p>
           </div>
 

@@ -43,7 +43,7 @@ Sign up to get periodic updates on Anne's design and art adventures, and receive
             <div class="clear foot">
                 <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-outline-primary btn-lg mb-3" value="SUBSCRIBE">
                 <p class="mt-3">
-                  <a href="http://eepurl.com/ju2rSs" title="Mailchimp - email marketing made easy and fun"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 150px; height: 40px; display: block; padding: 0px;"></span></a></p>
+                  <a href="https://eepurl.com/ju2rSs" title="Mailchimp - email marketing made easy and fun"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="/images/images-common/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 150px; height: 40px; display: block; padding: 0px;"></span></a></p>
             </div>
         </div>
     </div>

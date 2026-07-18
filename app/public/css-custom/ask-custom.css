@@ -747,11 +747,13 @@ a.contact-faa {
     margin: 0 auto;
 }
 
-.subscription-box-hd, .contact-form-hd {
+.subscription-box-hd, .contact-form-hd, .cta-subhd {
   font-family: var(--bs-font-serif);
   font-size: 40px;
   font-weight: 700;
 }
+
+
 
 .mc-field-group input, .form-group input {
     width: 100%;
