@@ -158,7 +158,7 @@ I’ve been fortunate to live life loving what I do: designing websites and crea
       </div><!-- end of row -->
 
       <div class="row">
-        <h4 class="cta-subhd text-center mt-4">Send Us a Note <br>and We'll Get Back to You Soon!</h4>
+        <h3 class="cta-subhd text-center mt-4">Send Us a Note <br>and We'll Get Back to You Soon!</h3>
         <div class="cta-item-button text-center mt-2">
           <a href="https://form.jotform.com/261956058513058"><button type="button" class="btn btn-outline-primary btn-lg">CONTACT FORM</button></a>
         </div>
