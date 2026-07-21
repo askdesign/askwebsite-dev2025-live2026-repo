@@ -23,16 +23,13 @@
     <link href="../fonts/fontawesome-free-7.1.0-web/css/brands.css" rel="stylesheet" />
     <link href="../fonts/fontawesome-free-7.1.0-web/css/solid.css" rel="stylesheet" />
 
-  	<!-- Global site tag (gtag.js) - Google Analytics GA4 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CLYRB4VKST"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-CLYRB4VKST');
-    </script>
-  	<!-- end of Global site tag (gtag.js) - Google Analytics GA4 -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TJXHZ9L2');</script>
+<!-- End Google Tag Manager -->
 
 	  <!-- Cookie Yes CDN -->
 	  <!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/4d293afb74c2261024a934e6ecbaf1fe/script.js"></script> <!-- End cookieyes banner -->
@@ -42,7 +39,11 @@
 
   
   <body>
-<!--  secondary nav = full width, centered content -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJXHZ9L2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+ <!--  secondary nav = full width, centered content -->
 <nav class="navbar navbar-expand-lg navbar2" aria-label="secondary nav">
   <div class="container-fluid">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample08" aria-controls="navbarsExample08" aria-expanded="false" aria-label="Toggle navigation">
