@@ -32,9 +32,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-TJXHZ9L2');</script>
 <!-- End Google Tag Manager -->
 
-	  <!-- Cookie Yes CDN -->
-	  <!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/4d293afb74c2261024a934e6ecbaf1fe/script.js"></script> <!-- End cookieyes banner -->
-
     <title>ASK Design | Shop - Original Art - Cat 2020 to 2026</title>
 
   </head>

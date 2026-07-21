@@ -24,17 +24,6 @@
     <link href="../fonts/fontawesome-free-7.1.0-web/css/brands.css" rel="stylesheet" />
     <link href="../fonts/fontawesome-free-7.1.0-web/css/solid.css" rel="stylesheet" />
 
-  	<!-- Global site tag (gtag.js) - Google Analytics GA4 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CLYRB4VKST"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-CLYRB4VKST');
-    </script>
-  	<!-- end of Global site tag (gtag.js) - Google Analytics GA4 -->
-
 
 
 
