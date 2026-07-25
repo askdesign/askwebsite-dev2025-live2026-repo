@@ -111,7 +111,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </ul>
         </li>
 
-        <li class="nav-item"><a class="nav-link" href="https://www.askdesign.biz/blogg">Blog</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://www.askdesign.biz/blog">Blog</a></li>
         <li class="nav-item dropdown"><a class="nav-link last dropdown-toggle" href="contact.php" data-bs-toggle="dropdown" aria-expanded="false">Contact</a>
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="contact.php">Contact Me</a></li>
