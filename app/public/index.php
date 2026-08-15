@@ -109,7 +109,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </ul>
         </li>
 
-        <li class="nav-item"><a class="nav-link" href="https://www.askdesign.biz/blog">Blog</a></li>
+        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="https://www.askdesign.biz/blog" data-bs-toggle="dropdown" aria-expanded="false">Blog</a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="https://www.askdesign.biz/blog/">Blog Home</a></li>
+                  <li><a class="dropdown-item" href="https://www.askdesign.biz/blog/calendar/">Calendar</a></li>
+                </ul>
+        </li>
+
         <li class="nav-item dropdown"><a class="nav-link last dropdown-toggle" href="pages/contact.php" data-bs-toggle="dropdown" aria-expanded="false">Contact</a>
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="pages/contact.php">Contact Me</a></li>
@@ -192,7 +198,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="cta-item-last d-grid align-content-between">
           <div class-="cta-item-content">
 						<h2 class="cta-item-hd">Newest Blog Post</h2>
-						<p class="cta-item-text">View from Fort Revere - As kids, during our summers in Hull, we used to go to Fort Revere and explore. My newest intention was going up there to paint.</p>
+						<p class="cta-item-text"><strong>Redesigning My Bootstrap Website</strong> - It had been at least 10 years since I last redesigned my website. I try to keep up with the ever-changing web landscape by using Bootstrap for my main site and WordPress for my blog. A fresh start was needed for both. In this post, I share my process and the tools used as I tackled the main site.</p>
           </div>
 
           <div class="cta-item-button">
