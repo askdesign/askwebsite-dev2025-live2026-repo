@@ -198,7 +198,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="cta-item-last d-grid align-content-between">
           <div class-="cta-item-content">
 						<h2 class="cta-item-hd">Newest Blog Post</h2>
-						<p class="cta-item-text"><strong>Using Font Awesome Icons with WordPress (Part 1: Plugin)</strong> - There are 2 primary ways to use Font Awesome icons with WordPress: plugin and manual code. I’ll take you on my journey down the rabbit hole as I share with you both approaches in a 2-part series. This first tutorial will demonstrate the plugin.</p>
+						<p class="cta-item-text"><strong>Redesigning My Bootstrap Website</strong> - It had been at least 10 years since I last redesigned my website. I try to keep up with the ever-changing web landscape by using Bootstrap for my main site and WordPress for my blog. A fresh start was needed for both. In this post, I share my process and the tools used as I tackled the main site.</p>
           </div>
 
           <div class="cta-item-button">
