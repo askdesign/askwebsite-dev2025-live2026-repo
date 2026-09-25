@@ -198,7 +198,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="cta-item-last d-grid align-content-between">
           <div class-="cta-item-content">
 						<h2 class="cta-item-hd">Newest Blog Post</h2>
-						<p class="cta-item-text"><strong>Using Font Awesome with WordPress (Part 2: Manual Set Up) </strong> - Last month’s tut reviewed how to use the Font Awesome plugin for a live WordPress site. This month's tutorial demonstrates how to manually set up Font Awesome with theme.json and functions.php.</p>
+						<p class="cta-item-text"><strong>Using Font Awesome Icons with WordPress (Part 1: Plugin)</strong> - There are 2 primary ways to use Font Awesome icons with WordPress: plugin and manual code. I’ll take you on my journey down the rabbit hole as I share with you both approaches in a 2-part series. This first tutorial will demonstrate the plugin.</p>
           </div>
 
           <div class="cta-item-button">
