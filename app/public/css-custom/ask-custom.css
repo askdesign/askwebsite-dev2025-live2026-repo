@@ -749,11 +749,10 @@ a.contact-faa {
 
 .subscription-box-hd, .contact-form-hd, .cta-subhd {
   font-family: var(--bs-font-serif);
-  font-size: 40px;
+  /* font-size: 40px; */
+  font-size: clamp(1.502rem, 1.502rem + ((1vw - 0.2rem) * 1.597), 2.5rem);
   font-weight: 700;
 }
-
-
 
 .mc-field-group input, .form-group input {
     width: 100%;
@@ -1108,9 +1107,9 @@ ul.mc {
   font-size: 16px;
 }
 
-.subscription-box-hd, .contact-form-hd {
+/* .subscription-box-hd, .contact-form-hd {
   font-size: 36px;
-}
+} */
 
 }
 
@@ -1236,9 +1235,9 @@ ul.mc {
     font-size: 1.25rem;
 }
 
-.subscription-box-hd, .contact-form-hd {
+/* .subscription-box-hd, .contact-form-hd {
   font-size: 28px;
-}
+} */
 
 .lead {
     font-size: 1rem;
