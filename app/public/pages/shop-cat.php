@@ -429,7 +429,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil2205-azaleas-willowpond.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AZALEAS AT WILLOW POND (2205) Pastel <br>
-		&bull; Original Art: 5.5&rdquo;x5.25&rdquo;; with Mat & Frame: 8”x8”, $140.">
+		&bull; Original Art: 5.5&rdquo;x5.25&rdquo;; with Mat & Frame: 8”x8”, $165.">
 		    <img src="../gallery/images/portart/portil2205-azaleas-willowpond-thumbnail.jpg" class="img-fluid" alt="loosen things up and be more expressive">
 		    <h6 class="gallery-caption text-center mt-2">Azaleas at Willow Pond</h6>
 	      </a>
@@ -504,7 +504,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil2111-red-roses-atpond1.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="RED ROSES AT THE POND 1 (2111) Pastel <br>
-		&bull; Original Art: 6.25&rdquo;x5.25&rdquo;; with Mat & Frame: 8&rdquo;x8&rdquo;, $140.">
+		&bull; Original Art: 6.25&rdquo;x5.25&rdquo;; with Mat & Frame: 8&rdquo;x8&rdquo;, $165.">
 		    <img src="../gallery/images/portart/portil2111-red-roses-atpond1-thumbnail.jpg" class="img-fluid" alt="a conscious effort to loosen up my paintings">
 		    <h6 class="gallery-caption text-center mt-2">Red Roses at the Pond 1</h6>
 	      </a>
@@ -802,7 +802,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1805-hibiscus-enchantment.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HIBISCUS ENCHANTMENT (1805) Pastel<br>
 		Naples, FL<br>
-		&bull; Original Art: 9.75&rdquo;x3.5&rdquo;; with Mat &amp; Frame: 12&rdquo;x9&rdquo;, $100.">
+		&bull; Original Art: 9.75&rdquo;x3.5&rdquo;; with Mat &amp; Frame: 12&rdquo;x9&rdquo;, $125.">
 		    <img src="../gallery/images/portart/portil1805-hibiscus-enchantment-thumbnail.jpg" class="img-fluid" alt="This hibiscus plant towers over me">
 		    <h6 class="gallery-caption text-center mt-2">Hibiscus Enchantment</h6>
 	      </a>
@@ -811,7 +811,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1803-crotons-catch-my-eye.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CROTONS CATCH MY EYE (1803) Pastel<br>
 		Naples, FL<br>
-		&bull; Original Art: 7&rdquo;x7&rdquo;; with Mat &amp; Frame: 10&rdquo;x10&rdquo;, $100.">
+		&bull; Original Art: 7&rdquo;x7&rdquo;; with Mat &amp; Frame: 10&rdquo;x10&rdquo;, $200.">
 		    <img src="../gallery/images/portart/portil1803-crotons-catch-my-eye-thumbnail.jpg" class="img-fluid" alt="colorful crotons caught my eye">
 		    <h6 class="gallery-caption text-center mt-2">Crotons Catch my Eye</h6>
 	      </a>
@@ -927,7 +927,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1704-mountains-at-moholoholo.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="MOUNTAINS AT MOHOLOHOLO (1704) Pastel <br>
 		South Africa<br>
-		&bull; Original Art: 9&rdquo;x5.5&rdquo;; with Mat &amp; Frame: 12&rdquo;x9&rdquo;, $100.">
+		&bull; Original Art: 9&rdquo;x5.5&rdquo;; with Mat &amp; Frame: 12&rdquo;x9&rdquo;, $125.">
 		    <img src="../gallery/images/portart/portil1704-mountains-at-moholoholo-thumbnail.jpg" class="img-fluid" alt="Moholoho Wildlife Rehabilitation Center">
 		    <h6 class="gallery-caption text-center mt-2">Mountains at Moholoholo</h6>
 	      </a>
@@ -937,7 +937,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
      <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1703-fantasy-flower.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="FANTASY FLOWER (1703) Pastel <br>
-		&bull; Original Art: 3.75&rdquo;x5&rdquo;; with Mat &amp; Frame: 8&rdquo;x10&rdquo;, $60.">
+		&bull; Original Art: 3.75&rdquo;x5&rdquo;; with Mat &amp; Frame: 10&rdquo;x8&rdquo;, $60.">
 		    <img src="../gallery/images/portart/portil1703-fantasy-flower-thumbnail.jpg" class="img-fluid" alt="this flower emerged from my imagination">
 		    <h6 class="gallery-caption text-center mt-2">Fantasy Flower</h6>
 	      </a>
@@ -998,7 +998,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1519-blueridgemist2.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLUE RIDGES MIST 2 (1519) Pastel <br>
 		Asheville, North Carolina<br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 11&rdquo;x14&rdquo;, $85.">
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $85.">
 		    <img src="../gallery/images/portart/portil1519-blueridgemist2-thumbnail.jpg" class="img-fluid" alt="floating mist in Blue Ridges">
 		    <h6 class="gallery-caption text-center mt-2">Blue Ridges Mist 2</h6>
 	      </a>
@@ -1087,7 +1087,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1502-allium-geranium.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="ALLIUM AND GERANIUM (1502) Pastel<br>
-		&bull; Original Art: 7.5&rdquo;x10&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $210.">
+		&bull; Original Art: 7.5&rdquo;x10&rdquo;; with Mat &amp; Frame: 11&rdquo;x14&rdquo;, $210.">
 		    <img src="../gallery/images/portart/portil1502-allium-geranium-thumbnail.jpg" class="img-fluid" alt="Peggy's garden: Allium and Geranium">
 		    <h6 class="gallery-caption text-center mt-2">Allium and Geranium</h6>
 	      </a>
@@ -1107,7 +1107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1307-afternoon-rest.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AFTERNOON REST (1307) Pastel<br>
 		Long Pond Lake, Omega Institute, Rhinebeck, NY.<br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $60.">
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $85.">
 		    <img src="../gallery/images/portart/portil1307-afternoon-rest-thumbnail.jpg" class="img-fluid" alt="restful afternoon">
 		    <h6 class="gallery-caption text-center mt-2">Afternoon Rest</h6>
 	      </a>

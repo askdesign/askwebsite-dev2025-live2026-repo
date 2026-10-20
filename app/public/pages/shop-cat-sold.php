@@ -687,7 +687,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1518-blueridgemist1.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="BLUE RIDGES MIST 1 (1518) Pastel <br>
 		Asheville, North Carolina<br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 11&rdquo;x14&rdquo;, SOLD.">
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil1518-blueridgemist1-thumbnail.jpg" class="img-fluid" alt="morning mist floating in the peaks in the Blue Ridge Mountains">
 		    <h6 class="gallery-caption text-center mt-2">Blue Ridges Mist 1</h6>
 	      </a>
@@ -872,7 +872,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1207-soft-bend.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SOFT BEND (1207) Pastel<br>
 		View of road in front of Mary's Farm, Rhinebeck, NY.<br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, SOLD.">
+		&bull; Original Art: 8&rdquo;x10&rdquo;; with Mat: 11&rdquo;x14&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil1207-soft-bend-thumbnail.jpg" class="img-fluid" alt="View of road in front of Mary's Farm">
 		    <h6 class="gallery-caption text-center mt-2">Garden Welcoming</h6>
 	      </a>
@@ -1300,7 +1300,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil0909-goodneighbors.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GOOD NEIGHBORS (0909) Pastel<br>
-		    &bull; Original Art: 9&rdquo;x12&rdquo,; SOLD.">
+		    &bull; Original Art: 9&rdquo;x12&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil0909-goodneighbors-thumbnail.jpg" class="img-fluid" alt="thanks to our good neighbors">
 		    <h6 class="gallery-caption text-center mt-2">Good Neighbors</h6>
 	      </a>
@@ -1435,7 +1435,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil0810-quintetpetunias.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="QUINTET: PETUNIAS (0810) Pastel<br>
-		    &bull; Original Art: 5.5&rdquo;x8&rdquo, SOLD.">
+		    &bull; Original Art: 5.5&rdquo;x8&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil0810-quintetpetunias-thumbnail.jpg" class="img-fluid" alt="Series of 5 paintings: petunias">
 		    <h6 class="gallery-caption text-center mt-2">Quintet: Petunias</h6>
 	      </a>
@@ -1506,7 +1506,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
-  	    <a href="../gallery/images/portart/portil0802-springvalentine-thumbnail.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SPRING VALENTINE (0802) Pastel<br>
+  	    <a href="../gallery/images/portart/portil0802-springvalentine.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SPRING VALENTINE (0802) Pastel<br>
 		    Mt. Auburn Cemetery, Cambridge, MA.<br>
 		    &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, nfs.">
 		    <img src="../gallery/images/portart/portil0802-springvalentine-thumbnail.jpg" class="img-fluid" alt="Bushes in shape of valentine">
@@ -1680,7 +1680,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil0617-ptreyesbeach.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="PT. REYES BEACH (0617) Pastel<br>
-		    &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 11&rdquo;x14&rdquo; SOLD.">
+		    &bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo; SOLD.">
 		    <img src="../gallery/images/portart/portil0617-ptreyesbeach-thumbnail.jpg" class="img-fluid" alt="beach at Pt. Reyes">
 		    <h6 class="gallery-caption text-center mt-2">Pt. Reyes Beach</h6>
 	      </a>
@@ -1709,7 +1709,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil0614-iris4iris.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="IRIS FOR IRIS (0614) Pastel<br>
-		    &bull; Original Art: 8&rdquo;x10&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, SOLD.">
+		    &bull; Original Art: 8&rdquo;x10&rdquo;; with Mat &amp; Frame: 11&rdquo;x14&rdquo;, SOLD.">
 		    <img src="../gallery/images/portart/portil0614-iris4iris-thumbnail.jpg" class="img-fluid" alt="Iris art for friend">
 		    <h6 class="gallery-caption text-center mt-2">Iris for Iris</h6>
 	      </a>

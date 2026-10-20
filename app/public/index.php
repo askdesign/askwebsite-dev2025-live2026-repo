@@ -198,7 +198,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="cta-item-last d-grid align-content-between">
           <div class-="cta-item-content">
 						<h2 class="cta-item-hd">Newest Blog Post</h2>
-						<p class="cta-item-text"><strong>Using Font Awesome with WordPress (Part 2: Manual Set Up) </strong> - Last month’s tut reviewed how to use the Font Awesome plugin for a live WordPress site. This month's tutorial demonstrates how to manually set up Font Awesome with theme.json and functions.php.</p>
+						<p class="cta-item-text"><strong>Summer Painting in the Berkshires</strong> - Peggy and I headed to the mountains in June to one of our favorite destinations: Kripalu. Its calming vibe, yummy food, and fantastic views set the tone for a wonderful stay. The weather was spectacular, so I was able to get outside to paint in the beautiful Berkshires.</p>
           </div>
 
           <div class="cta-item-button">
