@@ -811,7 +811,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1803-crotons-catch-my-eye.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="CROTONS CATCH MY EYE (1803) Pastel<br>
 		Naples, FL<br>
-		&bull; Original Art: 7&rdquo;x7&rdquo;; with Mat &amp; Frame: 10&rdquo;x10&rdquo;, $200.">
+		&bull; Original Art: 7&rdquo;x7&rdquo;; with Mat &amp; Frame: 10&rdquo;x10&rdquo;, $250.">
 		    <img src="../gallery/images/portart/portil1803-crotons-catch-my-eye-thumbnail.jpg" class="img-fluid" alt="colorful crotons caught my eye">
 		    <h6 class="gallery-caption text-center mt-2">Crotons Catch my Eye</h6>
 	      </a>
