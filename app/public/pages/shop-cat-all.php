@@ -1350,7 +1350,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1812-windy-day-lowdermilk.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="WINDY DAY AT LOWDERMILK BEACH (1812) Pastel <br>
 		Naples, FL<br>
-		&bull; Original Art: 10&rdquo;x5&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $210.">
+		&bull; Original Art: 10&rdquo;x5&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $250.">
 		    <img src="../gallery/images/portart/portil1812-windy-day-lowdermilk-thumbnail.jpg" class="img-fluid" alt="I biked to Lowdermilk Beach and hadn't realized how windy it was until I sat to paint this scene.">
 		    <h6 class="gallery-caption text-center mt-2">Windy Day at Lowdermilk Beach</h6>
 	      </a>
@@ -1361,7 +1361,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1811-lettuce-lake-corkscrew-swamp.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LETTUCE LAKE AT CORKSCREW SWAMP (1811) Pastel<br>
 		Naples, FL<br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $125.">
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $250.">
 		    <img src="../gallery/images/portart/portil1811-lettuce-lake-corkscrew-swamp-thumbnail.jpg" class="img-fluid" alt="Water Lettuce is an important part of the ecosystem, providing safe havens for wildlife species to breed and forage">
 		    <h6 class="gallery-caption text-center mt-2">Lettuce Lake at Corkscrew Swamp</h6>
 	      </a>
@@ -1532,7 +1532,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1709-setting-sun-on-olifants.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="SETTING SUN ON THE OLIFANTS (1709) Pastel <br>
 		South Africa<br>
-		&bull; Original Art: 9.5&rdquo;x7.5&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $85.">
+		&bull; Original Art: 9.5&rdquo;x7.5&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $250.">
 		    <img src="../gallery/images/portart/portil1709-setting-sun-on-olifants-thumbnail.jpg" class="img-fluid" alt="changing the colors makes this a more abstract rendering of the setting sun">
 		    <h6 class="gallery-caption text-center mt-2">Setting Sun on the Olifants</h6>
 	      </a>
@@ -1541,7 +1541,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1708-riverboat-sunset.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="RIVERBOAT SUNSET (1708) Pastel <br>
 		South Africa<br>
-		&bull; Original Art: 9.5&rdquo;x7.5&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $85.">
+		&bull; Original Art: 9.5&rdquo;x7.5&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $165.">
 		    <img src="../gallery/images/portart/portil1708-riverboat-sunset-thumbnail.jpg" class="img-fluid" alt="Despite a severe drought, the Olifants River had an abundance of water.">
 		    <h6 class="gallery-caption text-center mt-2">Riverboat Sunset</h6>
 	      </a>
@@ -1550,7 +1550,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1707-lebata-rest-camp.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="LEBATA REST CAMP (1707) Pastel <br>
 		Kruger National Park, South Africa<br>
-		&bull; Original Art: 10.5&rdquo;x5.5&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $210.">
+		&bull; Original Art: 10.5&rdquo;x5.5&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $165.">
 		    <img src="../gallery/images/portart/portil1707-lebata-rest-camp-thumbnail.jpg" class="img-fluid" alt="Stunning vista at our lunch spot, Lebata Rest Camp">
 		    <h6 class="gallery-caption text-center mt-2">Lebata Rest Camp</h6>
 	      </a>
@@ -1561,7 +1561,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1706-afternoon-on-lebata-river.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="AFTERNOON ON LEBATA RIVER (1706) Pastel <br>
 		Kruger National Park, South Africa<br>
-		&bull; Original Art: 10.5&rdquo;x6&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $85.">
+		&bull; Original Art: 10.5&rdquo;x6&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $165.">
 		    <img src="../gallery/images/portart/portil1706-afternoon-on-lebata-river-thumbnail.jpg" class="img-fluid" alt="first day on safari in Kruger Park">
 		    <h6 class="gallery-caption text-center mt-2">Afternoon on Lebata River</h6>
 	      </a>
@@ -1734,7 +1734,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1602-giantwindow.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="GIANT WINDOW (1602) Pastel <br>
 		Arches National Park, Utah<br>
-		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $210.">
+		&bull; Original Art: 10&rdquo;x8&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $250.">
 		    <img src="../gallery/images/portart/portil1602-giantwindow-thumbnail.jpg" class="img-fluid" alt="Giant Arch at Arches">
 		    <h6 class="gallery-caption text-center mt-2">Giant Window</h6>
 	      </a>
