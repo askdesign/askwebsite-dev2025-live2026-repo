@@ -1893,7 +1893,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1504-hana-heaven.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HANA HEAVEN (1504) Pastel<br>
 		Red Sand Beach, Hana, Maui.<br>
-		&bull; Original Art: 10&rdquo;x8	&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $210.">
+		&bull; Original Art: 10&rdquo;x8	&rdquo;; with Mat &amp; Frame: 14&rdquo;x11&rdquo;, $250.">
 		    <img src="../gallery/images/portart/portil1504-hana-heaven-thumbnail.jpg" class="img-fluid" alt="Heavenly day in Hana">
 		    <h6 class="gallery-caption text-center mt-2">Hana Heaven</h6>
 	      </a>
