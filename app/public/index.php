@@ -198,7 +198,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="cta-item-last d-grid align-content-between">
           <div class-="cta-item-content">
 						<h2 class="cta-item-hd">Newest Blog Post</h2>
-						<p class="cta-item-text"><strong>Summer Painting in the Berkshires</strong> - Peggy and I headed to the mountains in June to one of our favorite destinations: Kripalu. Its calming vibe, yummy food, and fantastic views set the tone for a wonderful stay. The weather was spectacular, so I was able to get outside to paint in the beautiful Berkshires.</p>
+						<p class="cta-item-text"><strong>WordPress Block Patterns: A Practical Guide (Part 1)
+</strong> - Learn how to use, edit, and detach WordPress block patterns. My guide breaks down theme-packaged, synced, and unsynced patterns step by step. • <a href="https://youtu.be/Wdq1kFfWtcE">With video tut!</a></p>
           </div>
 
           <div class="cta-item-button">

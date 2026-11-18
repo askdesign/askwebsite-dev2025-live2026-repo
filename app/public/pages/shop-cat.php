@@ -773,7 +773,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1810-vineyards-view.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="VINEYARDS VIEW (1810) Pastel<br>
 		Naples, FL<br>
-		&bull; Original Art: 10&rdquo;x3.75&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $125.">
+		&bull; Original Art: 10&rdquo;x3.75&rdquo;; with Mat: 14&rdquo;x11&rdquo;, $165.">
 		    <img src="../gallery/images/portart/portil1810-vineyards-view-thumbnail.jpg" class="img-fluid" alt="The bike path on Vineyards Blvd is wide, shaded by trees, and winds along a large pond at one end.">
 		    <h6 class="gallery-caption text-center mt-2">Vineyards View</h6>
 	      </a>
@@ -791,7 +791,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item landscapes pastel">
   	    <a href="../gallery/images/portart/portil1806-a-tricolored-heron-said-stay.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="A TRICOLORED HERON SAID STAY (1806) Pastel<br>
 		Naples, FL<br>
-		&bull; Original Art: 9&rdquo;x4.25&rdquo;; with Mat: 12&rdquo;x9&rdquo;, $60.">
+		&bull; Original Art: 9&rdquo;x4.25&rdquo;; with Mat: 12&rdquo;x9&rdquo;, $130.">
 		    <img src="../gallery/images/portart/portil1806-a-tricolored-heron-said-stay-thumbnail.jpg" class="img-fluid" alt="a tricolored heron flew in as if to say <em>Stay</em>">
 		    <h6 class="gallery-caption text-center mt-2">A Tricolored Heron Said Stay</h6>
 	      </a>
@@ -802,7 +802,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-sm-4 mb-4 gallery-item flowersplants pastel">
   	    <a href="../gallery/images/portart/portil1805-hibiscus-enchantment.jpg" class="" data-toggle="lightbox" data-gallery="art"  data-size="xl" data-caption="HIBISCUS ENCHANTMENT (1805) Pastel<br>
 		Naples, FL<br>
-		&bull; Original Art: 9.75&rdquo;x3.5&rdquo;; with Mat &amp; Frame: 12&rdquo;x9&rdquo;, $125.">
+		&bull; Original Art: 9.75&rdquo;x3.5&rdquo;; with Mat &amp; Frame: 12&rdquo;x9&rdquo;, $165.">
 		    <img src="../gallery/images/portart/portil1805-hibiscus-enchantment-thumbnail.jpg" class="img-fluid" alt="This hibiscus plant towers over me">
 		    <h6 class="gallery-caption text-center mt-2">Hibiscus Enchantment</h6>
 	      </a>
